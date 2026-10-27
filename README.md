@@ -110,7 +110,7 @@ python transcription.py \
     entretien.m4a \
     transcription.csv \
     --langue fr \
-    --noms SPEAKER_00=Sujet SPEAKER_01=Psy \
+    --noms SPEAKER_00=Psy SPEAKER_01=Sujet \
     --modele ~/models/frwhisper-ct2 \
     --modele2 large-v3
 ```
@@ -150,7 +150,7 @@ python transcription.py \
     transcription_evaluee.csv \
     --reference vraie_transcription.csv \
     --langue fr \
-    --noms SPEAKER_00=Sujet SPEAKER_01=Psy \
+    --noms SPEAKER_00=Psy  SPEAKER_01=Sujet \
     --modele ~/models/frwhisper-ct2 \
     --modele2 large-v3
 ```
