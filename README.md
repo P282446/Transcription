@@ -87,7 +87,7 @@ Certains modèles nécessitent un jeton Hugging Face. Si nécessaire, configurez
 export HF_TOKEN=hf_votre_jeton
 ```
 
-Remplacez `hf_votre_jeton` par votre propre jeton. Ne publiez jamais cette valeur dans le dépôt Git.
+Remplacez `hf_votre_jeton` par votre propre jeton.
 
 ## 5. Utilisation principale : transcrire un nouvel entretien sans référence
 
