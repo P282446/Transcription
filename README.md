@@ -106,7 +106,7 @@ Exemples de formats :
 Exemple de commande :
 
 ```bash
-python transcription.py \
+python v2_transcription.py \
     entretien.m4a \
     transcription.csv \
     --langue fr \
@@ -145,7 +145,7 @@ Lorsqu'une transcription fiable existe déjà pour un entretien, elle peut servi
 ### 6.1. Exemple de commande
 
 ```bash
-python transcription.py \
+python v2_transcription.py \
     entretien.m4a \
     transcription_evaluee.csv \
     --reference vraie_transcription.csv \
