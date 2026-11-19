@@ -1,7 +1,0 @@
-﻿tentative,passe,profil,modele,audio,beam,mots_reference,mots_predits,distance_edition,WER_pct,score_texte_pct,score_locuteur_pct,score_global_pct,duree_passe_s,retenue
-1,A,A1,/home/smbengue/models/frwhisper-ct2,brut,5,9046,6963,4065,44.937,55.063,93.539,62.758,515,
-1,B,B1,large-v3,norm,5,9046,7124,3144,34.756,65.244,95.669,71.329,363,
-2,A,A2,/home/smbengue/models/frwhisper-ct2,brut,4,9046,6892,4058,44.86,55.14,94.176,62.948,465,
-2,B,B2,large-v3,norm,5,9046,7096,3024,33.429,66.571,95.383,72.333,334,OUI
-3,A,A3,/home/smbengue/models/frwhisper-ct2,norm,3,9046,7262,4282,47.336,52.664,93.191,60.77,479,
-3,B,B3,large-v3,brut,5,9046,7111,3074,33.982,66.018,95.737,71.962,331,
