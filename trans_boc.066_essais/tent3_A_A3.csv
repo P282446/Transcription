@@ -1,0 +1,504 @@
+﻿debut_s,fin_s,locuteur,texte,type,pause_avant_s,correction,score_moyen
+0.83,0.97,Psy,une,parole,0,,0.39
+0.99,2.9,Sujet,thèse,parole,0.02,,0.53
+2.94,3.04,Psy,donc,parole,0.04,,0.2
+3.1,3.22,Psy,ah,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.58
+3.28,10.03,Sujet,là à quatre-vingt-six on n' a pas qu' à parler j' ai plusieurs sujets mais bon voilà oui je sais comment c' est,parole,0.06,rattrape,0.57
+39.8,40.08,Psy,voilà,parole,29.77,,0.35
+42.57,47.43,Psy,c' est parti ben comme la dernière fois je vous propose de raconter un vécu de votre choix,parole,2.48,,0.36
+47.53,51.11,Sujet,ben alors moi j' ai parlé de Bernard Bernard Tapie,parole,0.1,,0.65
+51.15,51.89,Psy,oui,parole,0.04,,0.58
+51.95,52.53,Sujet,un grand mec,parole,0.06,,0.71
+52.55,53.43,Psy,hm hm parce,parole,0.02,,0.62
+53.45,79.08,Sujet,qu' il a un concert et il se bat comme un grand mec il a la voix un peu éraillée là quand j' ai vu sur BFM ou CNews et il expliquait avec une poigne de fer son point de vue sur les hommes politiques et financiers il était impressionnant parce que le mec il est il il est proche de la mort mais il se bat comme un comme un loup comme un comme un vrai mec c'est-à-dire,parole,0.02,,0.49
+78.52,79.2,Psy,parce que nous on est,parole,0,rattrape,
+79.12,81.0,Sujet,euh,parole,0,,0.57
+79.2,79.72,Psy,de la jungle oui oui du,parole,0,rattrape,
+81.06,114.6,Sujet,euh un peu c' est un peu la jungle c' est vrai mais il a quand même des sentiments il parle actuellement ouvert il parle bon certes c' est un financier c' est un homme euh d' action et et de et et de finances et de et et de finances non c' est mais il a un il a un un phrasé que j' aime moi j' ai aimé la la période euh où l' OM était en en au sommet de la coupe de la Ligue européenne ah l' OM en mille-neuf-cent-quatre-vingt-treize a gagné la une coupe d',parole,0.06,rattrape,0.51
+114.66,116.22,Psy,Europe,parole,0.06,,0.85
+116.3,125.84,Sujet,et là il est il était en joie il a pété le feu pendant dix ans mais c' est ça qui est génial c' est c' est les c' est les moments d' humanité que l' on se révèle,parole,0.08,,0.53
+127.08,128.06,Psy,ouais,interjection,1.23,,0.44
+128.12,128.42,Psy,là,parole,0.06,,0.76
+128.5,136.1,Sujet,ouais là euh ce moment ouais parce que c' est vrai dans la vérité on gagne toujours,parole,0.08,,0.65
+136.14,139.0,Psy,c',parole,0.04,,0.95
+139.52,142.15,Sujet,est une bonne qualité alors j' ai mes qualités et mes défauts,parole,0.52,,0.44
+143.71,144.17,Psy,les défauts,parole,1.56,,0.42
+144.31,144.33,Sujet,?,parole,0.14,,0.12
+144.35,187.81,Sujet,les défauts c' est que parfois je suis trop têtu parce que mais c' est pas c' est pas être têtu c' est être persévérant persévéré dans quelque chose bon c' est vrai que quand une chose nous dépasse on arrête on se dit ah comment euh résoudre le problème et là on va chercher toutes les techniques toutes les tactiques pour que soit contourné le le problème et ensuite plus psychologiquement plus finement fin d' esprit la finesse d' esprit et une grande urdame regardez une une histoire lecture Hugo ils ont commencé petits mais ils finissent maintenant c' est des stars mondiales,parole,0.02,,0.55
+187.83,187.99,Psy,c',parole,0.02,,0.43
+188.03,190.17,Sujet,est ça qui est génial,parole,0.04,,0.44
+190.19,190.59,Psy,quoi,parole,0.02,,0.54
+190.65,191.33,Psy,ah,interjection,0.06,,0.87
+191.59,202.61,Sujet,non ils ont ils ont pas vécu dans dans dans la dans dans l' opulence de l' argent mais au niveau de l' esprit ils étaient balaises oui,parole,0.26,rattrape,0.56
+202.49,203.53,Psy,ah,interjection,0,empreinte:SPEAKER_00->SPEAKER_01,0.91
+202.61,212.79,Sujet,bien sûr bah c' du est et moi je suis juste un auteur de films ah parfois mes trucs ça me fait froid dans le dos parce que j' ai fait des superproductions et des productions françaises,parole,0,rattrape,0.52
+214.12,220.87,Sujet,j' ai j' ai terminé Planète Phénix et j' ai envoyé ça à Pathé France,parole,1.33,,0.52
+221.03,221.95,Psy,pas,parole,0.16,,0.66
+221.99,226.41,Sujet,encore j' attends ça fait quatre mois que je l' ai envoyé j' attends la réponse d' un oui ou d' un non ou un,parole,0.04,,0.53
+226.45,231.99,Psy,négocier,parole,0.04,,0.96
+232.05,267.26,Sujet,en fait c' est l' histoire d' un d' un phénix pris sur une planète et il est répertorié comme animal euh dans une coquille et il est clos de cet oeuf et après il donne du plaisir à toute une équipe de chercheurs en fait c' est c' est un film sur les chercheurs euh aeuh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh,parole,0.06,,0.29
+267.29,267.85,Psy,euh euh euh euh euh euh euh,parole,0.02,,0.02
+267.87,272.95,Sujet,euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh euh,parole,0.02,,0.1
+273.98,276.86,Sujet,c' est ça que je raconte c' est un film d' anticipation donc il y a pas de,parole,1.03,,0.44
+276.9,278.3,Psy,guerre,parole,0.04,,0.52
+278.36,284.62,Sujet,il y a pas il y a pas de sang versé il y a pas de d' animosité c' est un film de,parole,0.06,,0.65
+284.67,289.67,Psy,paix voilà,parole,0.04,,0.48
+289.73,302.73,Sujet,oui ça m' apaise ça me fait du bien parce que toutes mes idées je peux les mettre sur sur le clavier dès que j' ai une image en tête d' un film je le mets sur le clavier parce que je sais que euh que après cinq minutes ça change ça évolue,parole,0.06,,0.61
+303.04,304.08,Psy,oui effectivement un petit hm oui oui m,parole,0.31,rattrape,
+304.58,310.3,Sujet,tout évolue dans la vie moi je suis d'accord avec Charles Darwin l' évolution des espèces je suis tout à fait d'accord avec,parole,0.5,,0.67
+310.32,314.96,Psy,ça comment,parole,0.02,,0.6
+315.5,315.52,Sujet,?,parole,0.54,,0.67
+315.54,326.81,Sujet,la sélection naturelle oui tout à fait oui oh une femme la monogamie la polygamie oh ça c' est de de choses différentes mais euh oui voilà m euh chacun a droit à chaque femme,parole,0.02,rattrape,0.58
+327.97,329.41,Sujet,et sur Terre il y a plus de femmes que d' hommes,parole,1.16,,0.49
+331.93,359.36,Sujet,vous savez je sais pas c' est peut-être une c' est une c' est une hypothèse là franchement c' est une hypothèse mais euh c' est selon Michel Sardou la chanson être être une femme doit nous envoyer en absurdi comme il l' a dit au départ de sa chanson et là il est intéressant parce que il il se dit les femmes peuvent être au poste les plus affluents tel que le président de la République,parole,2.52,,0.54
+361.38,362.14,Sujet,femmes d' affaires il,parole,2.02,,0.33
+363.44,366.24,Sujet,y en a des femmes d' affaires il y en a il y en a très peu mais il y en,parole,1.3,,0.28
+366.3,366.98,Psy,a,parole,0.06,,0.95
+367.0,388.46,Sujet,qui savent dégoter les bombes commerces euh il y a des femmes qui créent leur association il y a des femmes qui créent des petites boutiques de parfumeries de lingerie c' est m -hm hm hm euh ce on a un monde qui est clos en ce moment de la deuxième siècle qui est clos du futur qu' on aura peut-être dans mille,parole,0.02,rattrape,0.63
+388.52,388.6,Psy,ans,parole,0.06,,0.2
+390.99,419.01,Sujet,je sais pas c' est une c' est une théorie comme une autre mais euh là le l' effondrement de l' informatique nous pousse à aller voir plus grand déjà un astronomiquement dans l' espace avec les exoplanets qu' on découvre tous les systèmes solaires toutes les galaxies qu' on a vu avec eux ben les images elles sont merveilleuses vous allez sur euh Wikipédia ou wallpaper l' hiver ça vous offre des images d' une qualité extraordinaire et moi en PC je stocke toutes les images qu' il y a sur la Terre et dans l' espace,parole,2.39,,0.58
+420.24,430.86,Sujet,plus les films Marvel euh Pathé Universal euh Jean-Paset les meilleurs euh les images elles sont super,parole,1.22,,0.5
+430.9,435.22,Psy,belles j',parole,0.04,,0.66
+435.3,444.83,Sujet,avais voyagé oui mais euh vous aussi gardez les pieds sur terre hein faut se dire que à midi on mange et puis comme ça on se couche donc euh voilà,parole,0.08,,0.43
+447.51,447.61,Psy,et,parole,2.68,,0.45
+447.63,448.15,Sujet,hm,interjection,0.02,regle:SPEAKER_01->SPEAKER_00,0.88
+448.21,452.47,Psy,après vous pensez pas que enfin la société actuelle y a quand même beaucoup de féminisme et tout ça,parole,0.06,,0.46
+452.93,452.95,Sujet,?,parole,0.46,,0.06
+452.99,463.0,Sujet,oui mais alors y a un retour à la féminité mais euh y a aussi des mecs qui sont mecs hein oui moi je peux dire parfois j' ai un peu mes vagines,parole,0.04,,0.48
+464.66,477.06,Sujet,euh pff euh j' aimerais pas être une femme qui dit dis donc celui-là qu' est-ce que tu nous fais euh ah de quoi il parle ça ça vaut pas rien donc euh non j' ai toujours cherché le juste milieu moi,parole,1.66,,0.5
+477.81,480.07,Psy,hm,interjection,0.75,,0.65
+480.13,487.72,Sujet,amoureux parce que j' ai eu des exceptions j' ai eu aussi euh droit à des relations sexuelles,parole,0.06,,0.51
+490.62,502.86,Sujet,euh avec vous c' est juste des entretiens mais ça ça révèle de la vie privée vu que c' est pour la recherche tant mieux ça peut en faire aider c' est aussi positif,parole,2.9,,0.6
+505.96,507.46,Sujet,hm,interjection,3.1,,0.57
+507.48,509.92,Psy,bon c' est important,parole,0.02,,0.39
+509.96,512.0,Sujet,qu' il y ait des rapports hommes-femmes,parole,0.04,,0.25
+514.48,551.35,Sujet,parce que parfois c' est deux atomes accrochés qui s' est qui s' accordent bien bien hm enfin enfin c' est des tombes -crochues que ça se bataille ça se chimaille et j on on voit ça avec euh les séries telles euh Fébastien Passat avec du du Guillaume de Tonkeneg hm hm oui c' est excellent ça franchement ça c' est amusant parce qu' il oui oui oui qui est bien l - hm hm oui oui oui dans le métier artistique du cinéma et de la télé et du théâtre c' est qu' on joue avec les émotions de musique de Vivaldi de Mozart c' était en c' était en plus d' émotions quelque chose qui nous dépasse de grand qui nous dépasse,parole,2.48,rattrape,0.65
+551.41,551.81,Psy,ah,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.7
+551.85,552.15,Psy,oui,parole,0.04,,0.43
+552.19,555.23,Sujet,tout tout dépend des,parole,0.04,,0.54
+555.33,556.17,Psy,scènes,parole,0.1,,0.49
+556.19,556.87,Sujet,tout dépend tout,parole,0.02,,0.3
+556.89,559.49,Psy,dépend des théâtres,parole,0.02,,0.43
+559.53,561.08,Psy,hm hm hm,interjection,0.04,,0.66
+561.68,575.67,Sujet,je le le son aussi me fait oui oui bref tout à fait la stéré stéréo ça a été fait exprès la coloriophonie qu' a remonté mon père c' est génial qu' il l' a fait parce que c' est deux voix donc deux sons différents qui arrivent dans les oreilles,parole,0.61,rattrape,0.51
+577.29,578.15,Psy,hum,interjection,1.62,empreinte:SPEAKER_00->SPEAKER_01,0.7
+578.33,584.25,Sujet,comment dire non ça peut le faire,parole,0.18,,0.48
+584.33,586.97,Psy,évoluer,parole,0.08,,0.68
+586.99,592.94,Sujet,dans le bon sens c'est-à-dire euh ma meilleure perperception de lui,parole,0.02,,0.74
+594.08,595.87,Sujet,pour travailler les l',parole,1.14,,0.36
+595.91,600.85,Psy,audition,parole,0.04,,0.58
+600.87,617.67,Sujet,voilà c' est ça voilà peut-être deux sons trois sons différents regardez les les les les les orchestres symphoniques bah y a de tout y a des violons des contrabasses des flûtes des typanies et les tambours,parole,0.02,,0.55
+618.78,622.12,Sujet,euh tout ça y a ttout ça c' est ça ensemble,parole,1.1,,0.64
+623.21,632.1,Sujet,et selon les donc selon la musique avec euh comment qu' on a comment on appelle ça la la,parole,1.1,,0.58
+633.58,643.12,Sujet,pas la musicothérapie mais euh pour apprendre euh la musique il faut savoir lire,parole,1.48,,0.62
+644.16,646.54,Psy,la,parole,1.04,,0.75
+646.6,672.76,Sujet,une partition ben oui il fallait une petition m et hm m -hm hm hm le solfège voilà celui qui apprend le solfège des flûtes il avance euh des flûtes le piano y a trois y a le le Fa le La et le le la corde euh de pas une dièse une bécard mais,parole,0.06,rattrape,0.66
+673.82,687.66,Sujet,euh la ligne des basses voilà sur le piano vous avez tout le côté gauche c' est la basse et tout le côté droit c' est far ou là la clé de far et la clé de là voilà c',parole,1.06,,0.63
+687.98,689.2,Psy,est,parole,0.32,,0.36
+689.22,693.6,Sujet,ça voilà ah oui ça va oui,parole,0.02,,0.52
+693.62,695.82,Psy,j' ai mon oreille,parole,0.02,,0.62
+695.86,700.38,Sujet,oui tout à fait pour la durée de la note ou la courte durée,parole,0.04,,0.79
+701.56,712.09,Sujet,voyez c' est ouais c' est la la télé y a des superbes concerts y a des superbes clips y a une musique que j' adore en ce moment c' est de de week-end blime,parole,1.18,rattrape,0.51
+711.75,716.29,Psy,blanelite,parole,0,,0.62
+712.09,712.77,Sujet,et le light il t - f - oui,parole,0,rattrape,
+716.41,739.16,Sujet,ta-la-ta-ta-la-ta-la-ta-la-ta-la-ta-la-ta-la-ta-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la-la,parole,0.12,,0.4
+720.75,722.05,Psy,oui je crois que non non non même,parole,0,rattrape,
+740.08,744.96,Sujet,c' est une petite relâche merveilleux j' écoute une moins une fois par jour pour me faire,parole,0.93,,0.52
+747.09,747.63,Psy,plaisir,parole,2.12,,0.16
+747.65,755.07,Sujet,j' allume ma vie j' allume ma vie box euh trois-cent-soixante je mets le CD je fais lire le CD ensuite,parole,0.02,,0.59
+756.15,775.19,Sujet,euh je je ssal est tout seul donc ça va à la première piste et après c' est la Grenade et ensuite j' ai mes images avec des fractales qui viennent comme ça ça tourne en rond et soit y a des blocs de de cubes qui tournent euh alors trois cent trois cent trente degrés et les images euh vous coller à la musique c' est,parole,1.08,,0.53
+775.37,778.83,Psy,génial,parole,0.18,,0.68
+778.85,799.14,Sujet,c' est fait par la machine c' est généré par la machine c' est franchement c' est c' est le top euh en plus mon frère m' a offert aussitôt euh à Amsterdam y a un solo sur l' Afrika en bongo oh ça cartonne pendant cinq minutes le mec il joue c' est excellent,parole,0.02,,0.55
+801.22,802.95,Sujet,en plus moi Amsterdam je l' ai visité,parole,2.08,,0.39
+803.01,803.61,Psy,avec,parole,0.06,,0.74
+803.63,806.05,Sujet,ma mère on a fait l' Europe,parole,0.02,,0.5
+806.11,808.53,Psy,avec ma mère,parole,0.06,,0.46
+809.81,810.13,Psy,ah,interjection,1.28,empreinte:SPEAKER_00->SPEAKER_01,0.86
+810.17,829.76,Sujet,oui y a y a les canaux on les a fait ma mère elle s' est dit qu' est-ce qu' on fait ici maintenant je sais pas on fait les canaux non c' est moi j' étais là je faudrais habiller tous les canaux toutes les maisons euh j' étais avec mon téléphone porte non à un Kodak et je faisais habiller tout c' est merveilleux ça ça a pas changé depuis deux deux cents ans,parole,0.04,,0.5
+830.87,835.13,Sujet,mais c' est,parole,1.12,,0.64
+834.91,835.17,Psy,moi,parole,0,rattrape,
+835.15,837.7,Sujet,merveilleux,parole,0,,0.69
+835.17,836.11,Psy,c' une ville vivante hm,parole,0,rattrape,
+837.72,846.72,Sujet,c' est c' est c' est coloré c' est,parole,0.02,,0.56
+846.74,849.08,Psy,c' est,parole,0.02,,0.59
+849.16,853.42,Sujet,une ville très vivante aussi,parole,0.08,,0.5
+853.46,853.7,Sujet,hm,interjection,0.04,,0.48
+855.86,861.44,Sujet,le le pont de des soupirs avec un pont juste euh en face c - oui pour voir de de la prison,parole,2.15,rattrape,0.46
+862.72,866.77,Sujet,au au jugement super,parole,1.28,,0.56
+865.65,866.53,Psy,parait que ça a un charme,parole,0,rattrape,
+866.81,879.43,Sujet,beau c' est très politique oui ah bah pour ceux qui jamais flammé rien rien à faire pendant une demi-heure vous marchez sur la Place Saint-Marc vous êtes passé alors y a un tas de pigeons mais ça c' est assez normal,parole,0.04,,0.48
+880.63,894.76,Sujet,euh ensuite la montée des eaux c' est critique aussi parce que là c' est parfois ça ça émonte tout et tout le monde marche sur la petite planche euh excusez-moi j' ai pas passé non tu vas attendre euh tu es pas tout seul sur la planche,parole,1.2,,0.57
+894.8,895.62,Psy,euh,parole,0.04,,0.89
+895.68,898.25,Sujet,c' est risqué des jeux risqués hm,parole,0.06,rattrape,0.33
+898.68,902.14,Psy,pff y a des jours risqués,parole,0.43,,0.48
+902.16,909.79,Sujet,non non ça va nous on est allé quand y avait pas de période euh où y avait des grandes,parole,0.02,,0.38
+909.48,910.62,Psy,ça arrive eaux vite hm oui,parole,0,rattrape,0.21
+912.05,918.59,Sujet,oui ça arrive très vite oui c' est comme on m' a on m' a dit quand la mer euh monte ça a une vitesse au,parole,1.43,,0.46
+918.63,931.36,Psy,vélo bon alors,parole,0.04,,0.59
+931.42,946.8,Sujet,on a visé aussi le musée Wickenheim c' est super beau l' architecture est super belle mon site euh bon bien sûr y a plusieurs salles et j' ai vu un un vrai Van Gogh de mes propres yeux vous imaginez,parole,0.06,,0.54
+946.88,948.89,Psy,ah,interjection,0.08,empreinte:SPEAKER_00->SPEAKER_01,0.96
+948.95,949.81,Psy,oui c' est,parole,0.06,,0.51
+949.85,964.64,Sujet,notre rendez-vous oui moi j' ai laissé et c' est super beau j' ai vu les les tournations en vrai alors ça ça ça ça marque euh un vie euh,parole,0.04,,0.51
+964.7,964.84,Psy,ah,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.69
+964.9,969.38,Sujet,oui oui ça c' est clair oui,parole,0.06,,0.46
+972.1,972.84,Sujet,donc,parole,2.71,,0.44
+972.86,974.48,Psy,ça elle va pas redémarrer,parole,0.02,,0.45
+974.56,975.86,Sujet,après,parole,0.08,,0.69
+975.88,980.65,Psy,faut mieux peut-être l' arrêter avant que ça redémarre je vous laisse y aller,parole,0.02,,0.41
+999.6,1000.93,Sujet,parce que c' est,parole,18.95,,0.42
+1000.97,1003.63,Psy,moi,parole,0.04,,0.65
+1003.69,1006.15,Sujet,oui oui j' étais à l',parole,0.06,,0.55
+1006.17,1006.51,Psy,heure,parole,0.02,,0.42
+1006.55,1009.13,Sujet,oui euh là,parole,0.04,,0.62
+1009.17,1009.95,Psy,je suis arrivé à,parole,0.04,,0.4
+1010.05,1014.43,Sujet,neuf heures ça,parole,0.1,,0.52
+1014.47,1015.09,Psy,va,parole,0.04,,0.47
+1015.15,1024.48,Sujet,oh mais c' est les vacances donc y a y a peu de bus mais y en a quoi ça va qui sont à l' heure ah oui et qui sont pas grosses qui sont d' une bonne actualité les bus mais alors exceptionnels,parole,0.06,,0.41
+1025.34,1026.68,Sujet,ah,interjection,0.86,,0.49
+1026.74,1027.34,Psy,oui c' est,parole,0.06,,0.37
+1027.36,1034.39,Sujet,bien ça fait comme ça quand il arrive à quarante-deux on regarde tous le portable il est quarante-deux il est là,parole,0.02,,0.3
+1034.69,1034.79,Sujet,ah,interjection,0.3,,0.35
+1034.81,1034.93,Sujet,c',parole,0.02,,0.6
+1035.29,1036.43,Psy,est vraiment nickel,parole,0.36,,0.24
+1036.45,1042.02,Sujet,vous savez la posture je suis,parole,0.02,,0.59
+1042.04,1043.66,Psy,pas trop euh oui oui,parole,0.02,,0.34
+1043.7,1046.3,Sujet,tout est bon oui oui parfait,parole,0.04,,0.31
+1047.04,1047.26,Psy,ah,interjection,0.74,,0.77
+1047.32,1049.94,Psy,si non je crois pas je verrai,parole,0.06,,0.42
+1049.96,1050.3,Sujet,plus tard ce,parole,0.02,,0.24
+1050.32,1054.6,Psy,serait la surprise bonne ou mauvaise mais ce serait la surprise,parole,0.02,,0.34
+1055.61,1060.24,Sujet,bien excusez sûr -moi je me mouche encore parce que euh j' ai attrapé la crème là voilà m -hm,parole,1.01,rattrape,0.49
+1061.69,1062.23,Psy,est normal même oui hm m,parole,1.45,rattrape,
+1063.31,1065.65,Psy,est la période t - oui monde euh euh oui hm,parole,1.08,rattrape,
+1067.86,1069.56,Psy,gens attrapent vite l' accueil en ce moment oui,parole,2.21,rattrape,
+1071.02,1083.47,Sujet,hm malheureusement ah oui et ça on maintient pendant des sociétés et puis du j' ai vu ce qui se passe euh avec le coronavirus ça c' est frayant ça ça ça fait un peu peur quoi,parole,1.46,rattrape,
+1084.82,1091.08,Sujet,parce qu' elle est tenue en quarantaine pendant quatorze quatorze jours en France on l' a autour des rapatriés,parole,1.35,,0.46
+1091.14,1091.82,Psy,euh,parole,0.06,,0.58
+1091.86,1097.35,Sujet,oui voilà comme euh surtout comme l' île La Chine bah c' est celle qui nous a conduit ça dans la ville de Wuhan,parole,0.04,,0.56
+1098.53,1106.29,Sujet,et euh ça ça fça fait froid dans le dos parce que près de plus de mille neuf cents personnes sont mortes,parole,1.18,,0.59
+1107.97,1108.51,Sujet,déjà,parole,1.68,,0.59
+1108.59,1109.49,Psy,oui,parole,0.08,,0.54
+1109.57,1112.07,Sujet,et on a euh plus de cinquante mille détectés,parole,0.08,,0.54
+1113.84,1118.22,Psy,oui oui oui ça remonte à quelques,parole,1.77,,0.52
+1118.72,1122.5,Sujet,temps oui,parole,0.5,,0.54
+1122.54,1123.96,Psy,et,parole,0.04,,0.75
+1123.98,1126.04,Sujet,y a plusieurs cas dans tout le,parole,0.02,,0.69
+1126.06,1127.03,Psy,monde,parole,0.02,,0.57
+1127.04,1127.58,Sujet,sur la planète,parole,0.02,,0.51
+1127.62,1130.57,Psy,oui non là non non,parole,0.04,,0.56
+1130.65,1143.37,Sujet,non là je crois que là euh c' est un peu parti euh en fait il a fallu d' un seul homme pour contaminer plusieurs autres personnes,parole,0.08,,0.61
+1143.82,1145.64,Sujet,hm hm,interjection,0.44,,0.57
+1147.04,1148.36,Sujet,oui je vois ça,parole,1.4,,0.51
+1148.42,1150.46,Sujet,hm hm,interjection,0.06,,0.59
+1153.24,1154.86,Sujet,est plus sauce double c' est bon hm oui,parole,2.78,rattrape,
+1156.88,1158.56,Psy,oui je vois ça hein non,parole,2.02,rattrape,
+1158.3,1158.6,Sujet,mais,parole,0,rattrape,
+1158.56,1158.72,Psy,non,parole,0,rattrape,
+1158.6,1159.02,Sujet,c',parole,0,rattrape,
+1158.72,1158.96,Psy,non mais,parole,0,rattrape,
+1159.16,1163.92,Sujet,est euh euh oui bon parce qu' il y a une personne euh qui est décélaire en France de ça je crois hm,parole,0.14,rattrape,
+1165.27,1166.91,Psy,j' ai pas regardé l' actualité j',parole,1.35,rattrape,
+1166.87,1167.25,Sujet,même,parole,0,rattrape,
+1166.91,1166.93,Psy,ai,parole,0,rattrape,
+1167.25,1168.25,Sujet,aussi elle a une hm m -hm,parole,0.0,rattrape,
+1169.34,1180.5,Sujet,ben euh je m' y intéresse aussi un peu quoi plus du tout oui oui je regarde les infos de France deux le midi voilà je suis je suis au courant de de ce qui se passe quand même,parole,1.08,rattrape,0.37
+1180.54,1181.76,Psy,oui,parole,0.04,,0.56
+1181.82,1185.76,Sujet,oui oui je suis obligé parce que sinon euh on nous on nous viendrait par,parole,0.06,,0.31
+1187.92,1194.47,Sujet,rados voilà non,parole,2.16,,0.7
+1194.49,1196.67,Psy,mais bon oui c' est négatif parfois euh,parole,0.02,,0.34
+1196.79,1202.82,Sujet,oui c' est négatif parfois oui une petite bouffée de de sport d' hiver ça ça fait du,parole,0.12,rattrape,0.58
+1202.86,1204.06,Psy,bien ?,parole,0.04,,0.72
+1204.22,1208.06,Psy,alors,parole,0.16,,0.85
+1208.1,1217.19,Sujet,moi j' en ai pratiqué oui j' ai fait du ski à la à la à la montagne avec mon père et avec ma mère même si on a fait ça séparément parce que mes parents se sont divorcés,parole,0.04,,0.51
+1218.39,1223.26,Sujet,mais on s' est on s' est éclaté quoi franchement c' était bah,parole,1.2,,0.38
+1224.26,1226.24,Sujet,et toujours ça,parole,1.0,,0.47
+1226.24,1226.42,Psy,question,parole,0.0,rattrape,
+1226.28,1226.36,Sujet,ah,interjection,0,empreinte:SPEAKER_01->SPEAKER_00,0.45
+1226.38,1227.98,Psy,oui de parlent -il de faire du chat,parole,0,rattrape,0.3
+1227.88,1228.14,Sujet,chasse,parole,0,rattrape,
+1227.98,1228.06,Psy,je,parole,0,rattrape,
+1228.14,1228.66,Sujet,-neige euh,parole,0.0,rattrape,
+1229.83,1238.8,Sujet,c' était tout chousse moi je m' en rappelle euh j' allais tout droit euh et Cyril attend de moi et mon frère ah ah on s' éclatait,parole,1.17,,0.3
+1238.84,1240.72,Psy,ah oui c' est vraiment,parole,0.04,,0.47
+1240.88,1249.26,Sujet,euh les sports d' église bah c' est nés des les années dix-huit-cent-quatre-vingt-dix euh je crois c' était la haute société d'abord,parole,0.16,,0.46
+1249.3,1250.62,Psy,bah,parole,0.04,,0.61
+1250.66,1252.83,Sujet,je suis pas sûr à cent pour,parole,0.04,,0.4
+1252.85,1253.65,Psy,cent mais c' est une théorie,parole,0.02,,0.23
+1253.67,1272.06,Sujet,ce sont les la haute société qui a découvert euh et un qui a euh découvert les remontées mécaniques qui a mis tout le système en marche ensuite ça s' est électrifié ensuite y a eu du des grands domaines créés dans les années soixante-cinquante à soixante-dix,parole,0.02,,0.43
+1272.08,1273.54,Psy,bah c' est,parole,0.02,,0.61
+1273.58,1278.4,Sujet,quoi je crois que c' était mécanique mais j' ai pas su à cent pour,parole,0.04,,0.47
+1278.42,1280.12,Psy,cent voilà un truc comme ça voilà,parole,0.02,,0.45
+1280.16,1280.54,Sujet,ouais,interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.46
+1280.56,1281.32,Psy,peut-être,parole,0.02,,0.47
+1281.36,1284.5,Sujet,je sais pas si on -être je sais pas sûr hm m -hm,parole,0.04,rattrape,0.3
+1287.24,1288.58,Psy,jamais j',parole,2.74,,0.47
+1289.72,1293.32,Psy,histoire de théâtre avais,parole,1.14,rattrape,0.53
+1293.36,1295.2,Sujet,jamais regardé les histoires de télé-cadre ou,parole,0.04,,0.39
+1297.8,1299.46,Psy,avec tous les Africi - j',parole,2.6,rattrape,
+1299.42,1300.18,Sujet,qui a vu j - j',parole,0,rattrape,
+1302.06,1312.14,Sujet,ah oui ils ont fait ils ont fait une trilogie là euh exexexceptionnelle les mots zés les mots zés polisquis et les mots zés amis par la vie puis oui,parole,1.88,rattrape,
+1312.69,1312.73,Psy,ah,interjection,0.56,empreinte:SPEAKER_00->SPEAKER_01,0.17
+1312.75,1313.91,Sujet,oui c' est le dernier c' est ça ?,parole,0.02,,0.28
+1313.97,1327.26,Sujet,oui c' est le dernier oui avec Thierry Lhermide Serra-Rossoir Michel Blanc Chazelle Velasco Amérelle Chazelle Claudia Cardinale qui joue le rôle et Christophe Clavier l' un des meilleurs acteurs français,parole,0.06,,0.41
+1327.28,1329.68,Psy,voilà ah,parole,0.02,,0.67
+1329.7,1332.14,Sujet,c',parole,0.02,,0.73
+1332.2,1335.15,Psy,est vrai que cette fc' est cette film a vraiment marqué euh,parole,0.06,,0.36
+1335.23,1338.97,Sujet,ah oui marquée à l' époque et,parole,0.08,,0.48
+1339.01,1339.13,Psy,hm,interjection,0.04,empreinte:SPEAKER_00->SPEAKER_01,0.32
+1339.19,1339.85,Sujet,encore aujourd'hui,parole,0.06,,0.57
+1339.89,1340.31,Psy,hein,parole,0.04,,0.24
+1340.39,1341.77,Sujet,ah oui encore aujourd'hui oui oui,parole,0.08,,0.26
+1343.33,1352.04,Sujet,ça pourrait plaire euh ça pourrait plaire aux Chinois tiens,parole,1.56,,0.26
+1352.1,1353.58,Psy,aller faire du ski,parole,0.06,,0.44
+1353.66,1357.86,Sujet,un peu ou suis bien euh toi donc je suis pas retourné au ski oui oui,parole,0.08,rattrape,0.37
+1358.49,1361.67,Psy,même pour euh simplement euh oui oui petite,parole,0.62,rattrape,
+1361.65,1361.91,Sujet,balades,parole,0,rattrape,
+1361.67,1362.13,Psy,balade,parole,0,rattrape,
+1361.91,1362.27,Sujet,ouais,parole,0,rattrape,
+1362.13,1362.49,Psy,ouais oui,parole,0,rattrape,
+1362.27,1364.13,Sujet,tu balades non pas du tout non non oui oui,parole,0,rattrape,
+1366.31,1367.37,Psy,est pas très moins ici c' est oui,parole,2.17,rattrape,
+1368.54,1371.02,Sujet,ben de Vaix -en -Provence la montagne du cité de la mineur oui hm,parole,1.17,rattrape,
+1372.41,1378.59,Sujet,des petites dictations mais ça a une heure et on est à une heure de la de la mer donc ça ça,parole,1.39,,0.51
+1378.63,1379.49,Psy,a un,parole,0.04,,0.77
+1379.53,1386.95,Sujet,huissement on peut faire les deux si on veut l' été la flla plage et l' hiver la montagne,parole,0.04,,0.58
+1386.99,1388.41,Psy,ou les deux oui ah mais faut se lever,parole,0.04,,0.32
+1388.47,1389.11,Sujet,à quatre heures du,parole,0.06,,0.39
+1390.13,1390.53,Psy,matin,parole,1.02,,0.57
+1390.59,1394.17,Sujet,oui peut-être un peu c' est vrai c' est vrai,parole,0.06,,0.39
+1394.23,1400.36,Psy,que ça fait une seconde et ça fait longtemps vous êtes sur X,parole,0.06,,0.37
+1401.33,1406.18,Sujet,oui ça fait plus ça fait depuis plus de j' ai l' âge de trente-six ans,parole,0.98,,0.45
+1406.2,1409.74,Psy,je vivais dans à,parole,0.02,,0.58
+1409.8,1420.74,Sujet,en banlieue parisienne avant ça j' ai habité en Suisse de zéro à cinq ans,parole,0.06,,0.47
+1421.76,1422.06,Sujet,ouais,interjection,1.02,,0.56
+1422.1,1423.94,Sujet,bah moi moi jj' adore l' Europe,parole,0.04,,0.48
+1423.98,1424.33,Psy,moi,parole,0.04,,0.42
+1424.35,1426.03,Sujet,ce qui me plairait de faire c' est aussi l' Angleterre,parole,0.02,,0.42
+1427.45,1429.11,Sujet,travailler à la travail de guerre square,parole,1.42,,0.28
+1430.72,1433.67,Sujet,euh visiter les visiter les peuples,parole,1.62,,0.5
+1436.15,1445.41,Sujet,euh et aussi les les scoffies qui étaient qui étaient c' est du café et du whisky donc ça réveille même la,parole,2.48,,0.45
+1445.45,1447.42,Psy,nuit,parole,0.04,,0.41
+1447.54,1450.84,Sujet,oui c' est cocasse oui et euh non,parole,0.12,,0.36
+1452.82,1459.9,Sujet,euh pff la nuit se balade et jj' aime bien mais pas trop pas trop souvent pas petite doute,parole,1.98,,0.53
+1461.04,1462.1,Sujet,un petit plaisir en fait,parole,1.14,,0.5
+1462.14,1466.26,Psy,voilà c' est ça oui euh,parole,0.04,,0.48
+1466.28,1503.11,Sujet,je crois que l' humain euh parfois a tendance à trop s' isoler bah y a des y a des gens seuls ça c' est vrai y a des gens isolés les gens âgés qui sont tous les deux ça va mais isolés euh c' est suivant aussi l' âge euh la mobilité des personnes les handicaps les les les gens esselés euh parce qu' ils ont perdu euh leur conjoint euh,parole,0.02,,0.47
+1503.15,1504.35,Psy,donc euh,parole,0.04,,0.5
+1504.39,1505.91,Sujet,les veuves les veuves tout ça voilà oui,parole,0.04,,0.36
+1505.93,1509.27,Psy,c' est de ça fait du monde isolé,parole,0.02,,0.52
+1509.35,1520.28,Sujet,oui tout à fait ça dépend du terror je je le disais euh les affinités et ce qui est bien dans mon métier euh d' auteur de films c' est je procure des émotions,parole,0.08,,0.48
+1521.65,1530.33,Sujet,je proje procure des sensations des émotions des sensations et je suis le parfois des,parole,1.37,,0.68
+1531.89,1535.29,Sujet,euh tout public et parfois un public avisé,parole,1.56,,0.63
+1535.31,1536.09,Psy,c'est-à-dire,parole,0.02,,0.34
+1536.11,1549.62,Sujet,que là j' ai un film ça s' appelle Bato-Bato et c' est interdit au moins de douze ans parce que y a les scènes de sexe c' est pas cru mais c' est relevé j' ai relevé la Source,parole,0.02,,0.58
+1551.25,1557.45,Sujet,et là je suis sur une nouvelle écriture c' est silence et les enfants et,parole,1.63,,0.41
+1556.18,1557.12,Psy,attention à ce que ce soit,parole,0,rattrape,
+1557.51,1571.46,Sujet,là c' est un drame oui tout à fait oui bah y a le personnage de Cyril qui joue dans le film il est assez truculent comme garçon il est il est assez de de débordant de d' idée euh pour euh draguer sa,parole,0.06,,0.56
+1571.5,1572.78,Psy,belle,parole,0.04,,0.82
+1572.8,1577.98,Sujet,parce que y a quatre garçons quatre filles et deux capitaines un capitaine et un garçon avec une capitaine des filles,parole,0.02,,0.52
+1579.29,1581.23,Sujet,et ça donne euh une comédie assez enjouée,parole,1.31,,0.31
+1582.19,1585.77,Psy,quoi voilà,parole,0.96,,0.51
+1586.79,1602.96,Sujet,alors il se passe qu' ils font la rencontre Cyril va beaucoup plus vite que les autres garçons parce que lui ça t - c' est oui ça va sacrer la scar dans ce domaine -là de la mort oui et j' ai j' ai fait lire des je sais plus des trucs euh euh m,parole,1.02,rattrape,
+1604.52,1618.98,Sujet,haute volée quoi donc euh euh euh oui oui c' est presque du fédo donc euh ça me plait le noule nouveau d'ailleurs le nouveau fédo euh des andes années deux mille vingt-et-vingt vu que parfois je je regarde des pièces à la télé des pièces de théâtre à la télé par-bas y en a,parole,1.56,rattrape,0.48
+1619.04,1619.88,Psy,oh,interjection,0.06,regle:SPEAKER_00->SPEAKER_01,0.7
+1619.92,1621.58,Sujet,c' est truculant c' est génial,parole,0.04,,0.42
+1622.84,1623.58,Sujet,oh,interjection,1.26,,0.92
+1623.6,1624.58,Psy,la vache ah,parole,0.02,,0.59
+1624.64,1635.04,Sujet,ça ah oui en plus j' ai fait du théâtre à l' école au collège pendant deux ans deux années de classe de théâtre bon j' ai eu déjà eu des petits rôles mais j' ai compris,parole,0.06,,0.54
+1636.86,1640.38,Sujet,le sens de des émotions et de ressorties des gens hm,parole,1.81,,0.51
+1640.44,1642.86,Psy,hm et de les,parole,0.06,,0.46
+1642.9,1646.06,Sujet,jouer en tant qu' acteurs ?,parole,0.04,,0.34
+1646.08,1653.16,Sujet,ben hm jjje sais pas si j' ai une tête de cinéma mais pff pourquoi,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.46
+1653.2,1653.9,Psy,pas ?,parole,0.04,,0.71
+1653.96,1666.13,Sujet,ouais y a des têtes de cinéma y a des chasseurs de têtes de cinéma Alain Delon au départ il il voulait faire un métier et quand il s' est baladé sur les Champs-Elysées y a un mec qui lui a dit dis donc ça te plaira pas de cinéma tu as une gueule de cinéma,parole,0.06,,0.48
+1666.89,1667.07,Sujet,hm hm hm,interjection,0.77,,0.05
+1668.45,1671.58,Sujet,et ils sauvaient une belle vie euh euh hm me prenez quoi bien oui oui,parole,1.37,rattrape,
+1672.5,1675.42,Psy,aujourd 'hui je sais pas si on a on nous a le pâque comme ça non oui oui,parole,0.92,rattrape,
+1675.87,1683.19,Sujet,ah oui c' est vrai qu' à l' époque c' était un peu plus et puis j' ai euh oui hm m dans les années cinquante soixante c' était beaucoup plus libertaire qu' aujourd 'hui oui,parole,0.45,rattrape,
+1688.22,1690.14,Psy,vous auriez aimé être à cette époque t - oui,parole,5.03,rattrape,
+1691.01,1692.65,Sujet,moi pendant les temps nous glorieuses oui oui oui,parole,0.86,rattrape,
+1692.9,1693.3,Psy,j',parole,0.25,,0.48
+1693.36,1698.44,Sujet,aurais pu euh avant du travail euh des ministres comme vernisseur j' aurais j' aurais excellé,parole,0.06,,0.55
+1699.65,1699.85,Sujet,le,parole,1.21,rattrape,
+1699.76,1701.92,Psy,ouais,interjection,0,empreinte:SPEAKER_00->SPEAKER_01,0.82
+1699.85,1700.57,Sujet,ministre c' est triste oui,parole,0,rattrape,
+1701.96,1718.42,Sujet,hein non non de euh vernisseur sur bois sur meubles euh euh art déco euh euh euh l' immeuble de la Révolution l' immeuble,parole,0.04,,0.49
+1719.54,1721.37,Sujet,euh baroque rococo,parole,1.12,,0.43
+1723.87,1752.72,Sujet,euh sur les gros meubles euh en chêne en lettre en en acajou en ébène en bois tout ce qui touche du bois j' aij' aime bien en bois puis moi c' est la c' est la couleur comme ça qui prédomine ce bce beige-là j' ai mon père c' est j' ai mon père c' est plus cosy plus feutré c' est de l' ébène et du mûrisier du boulot tout ça euh parce que j' ai un j' ai un niveau de,parole,2.5,,0.46
+1754.27,1755.21,Sujet,de CAP des,parole,1.55,,0.58
+1755.23,1756.77,Psy,ministres,parole,0.02,,0.38
+1756.81,1777.06,Sujet,plus des études de seconde secrétariat comptabilité par seconde euh ce qui m' a permis de compter de comprendre le monde de la finance et bon moi mes sources je préfère les stocker que de les mettre en bourse parce que la bourse est fluc' est montant et fluctuant,parole,0.04,,0.54
+1778.66,1783.45,Sujet,c' est c' est un jeu dangereux parce que quand les actions montent ça va le monde se lève d' argent,parole,1.6,,0.4
+1784.5,1792.62,Sujet,mais il faut savoir s' arrêter au bon moment au bon endroit pour gagner tout cet argent qu' on a gagné et et ne pas faire de de la courbe inverse,parole,1.05,,0.71
+1792.64,1793.62,Psy,de,parole,0.02,,0.69
+1793.66,1799.79,Sujet,de qu' on qu' on va tout perdre c' est pour ça que je je je m' ai pas mis sur la rembourse,parole,0.04,,0.49
+1799.85,1799.93,Psy,ah,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.29
+1799.95,1807.23,Sujet,oui naturellement qui tout doublent,parole,0.02,,0.31
+1807.29,1808.73,Psy,oui,parole,0.06,,0.62
+1808.83,1810.25,Sujet,ah oui,parole,0.1,,0.73
+1810.29,1811.0,Sujet,hm hm,interjection,0.04,,0.59
+1813.37,1815.33,Psy,voilà et,parole,2.37,,0.67
+1815.39,1823.01,Sujet,après j' ai fait les d' hivertravail,parole,0.06,,0.49
+1823.03,1825.02,Psy,la route pour les malades hm je,parole,0.02,,0.54
+1825.04,1836.32,Sujet,faisais des ressources de petits boulots pour pouvoir me,parole,0.02,,0.46
+1836.34,1836.76,Psy,mettre,parole,0.02,,0.51
+1836.84,1836.94,Sujet,à,parole,0.08,,0.65
+1836.96,1838.54,Psy,la,parole,0.02,,0.72
+1838.58,1839.08,Sujet,flot,parole,0.04,,0.61
+1841.85,1866.72,Sujet,donc on va mettre un flot hm oui j' ai aussi touché l' assurance chômage aussi euh là je touche là à H plus Z de l' Etat bon j' ai un certain niveau d' argent et de ça je peux m' acheter mes cigarettes euh ma bouffe que je veux euh,parole,2.77,rattrape,0.49
+1868.85,1875.47,Sujet,j' ai un budget pour tout pour la télé pour l' appartement euh l' occupement de de l' appart euh par le loyer,parole,2.12,,0.45
+1876.99,1899.69,Sujet,euh pour les VOD aussi dans la télé parce que j' ai une installation bouille à la maison donc ça ça demande en moins de trente à cinquante euros soixante voilà euh tout est calculé au millimètre près quoi,parole,1.52,,0.46
+1900.34,1900.8,Psy,j',parole,0.65,,0.68
+1900.88,1905.44,Sujet,ai un petit tram de vie,parole,0.08,,0.67
+1905.5,1908.29,Psy,oui,parole,0.06,,0.36
+1908.31,1918.49,Sujet,c' est c' est assez correct oui j' ai quand même plein de par contre on les fait des erreurs l' administration ils en font hein,parole,0.02,,0.42
+1917.78,1919.16,Psy,eux ils roulent pas la oui même allure,parole,0,rattrape,0.31
+1919.49,1929.38,Sujet,voilà oui je je je les critique pas mais parfois ils font des erreurs euh pour se sortir faire leur sermon alors après les gens euh,parole,0.34,,0.41
+1930.7,1957.69,Sujet,c' est pour ça qu' il y a eu des constatations euh en France de avec les gilets jaunes c' est parce que leurs salaires on voulait les bloquer c' est pour ça ils ont dit non touchez pas à ça touchez pas à vos retraites comme ça on peut se faire en tout cas un point ça veut dire un un point par an donc euh au bout de dix ans ça fait dix points sur quoi ça va se baser sur euh sur le point à la tête du du paiement des des allocations feuillayes pour les gens euh,parole,1.32,,0.5
+1959.15,1975.64,Sujet,qui travaillent dans le BTP euh dans dans les san dans les sanitaires dans dans l' administration dans les écoles euh les collèges les lycées les les hautes écoles euh tout ça donc euh,parole,1.46,,0.46
+1975.66,1976.42,Psy,non le,parole,0.02,,0.68
+1976.44,1989.27,Sujet,l' Etat a un budget grâce au au peuple qui paye les impôts et celui qui comprend ça qui a que tout découle des impôts bah ça serait une bonne idée de,parole,0.02,,0.56
+1990.31,2012.2,Sujet,moi j' ai une idée c' est mettre un euro par jour pendant un mois d' impôt sans forcer les gens et ben on se ferait en un jour soixante-cinq millions d' euros en un jour vous imaginez en un mois on pourrait sauver la France,parole,1.04,,0.53
+2013.18,2013.82,Psy,oui,parole,0.98,,0.5
+2013.84,2014.84,Sujet,c',parole,0.02,,0.74
+2014.9,2019.02,Psy,est vrai parce que tout le monde peut mettre trente euros de côté par mois comme ça voilà,parole,0.06,,0.5
+2019.14,2023.32,Sujet,c' est je sais pas mais je pense qu',parole,0.12,,0.46
+2023.36,2026.0,Psy,ils prélèvent bien plus que ça non déjà sur notre salaire,parole,0.04,,0.46
+2026.06,2029.5,Sujet,oui oui oui oui oui,parole,0.06,,0.28
+2029.52,2036.41,Psy,je sais pas exactement oui parce que vous avez fait des études dans l',parole,0.02,,0.45
+2036.45,2038.41,Sujet,automel de comptabilité voilà c' est pour ça,parole,0.04,,0.42
+2040.47,2041.15,Sujet,c' est pour ça,parole,2.06,,0.34
+2043.31,2069.43,Sujet,une entreprise s' implante avec une notation de l' état ou soit d' un particulier à cinquante mille euros bon on crée une S.A.R.L société anonyme pour la pour la boîte créée à la base ensuite avoir des fournisseurs que ce soit en pommes pour euh pour quelqu'un qui vend des pommes il va il va acheter des pommes à un grossiste qui lui vend un prix,parole,2.16,,0.56
+2070.57,2081.04,Sujet,à l' entreprise et l' entreprise je revends au client pour que le client achète ses pommes c',parole,1.14,,0.39
+2081.08,2082.28,Psy,est un cercle,parole,0.04,,0.42
+2082.34,2108.94,Sujet,un petit producteur c' est peut-être plus compliqué parce que faut que ils se se diversifient pour pouvoir euh s' améliorer ah c'est-à-dire que là il ferait des pommes des cerises des bananes des framboises des fraises et là il aurait un éventail d' acheteurs potentiels pour acheter,parole,0.06,,0.59
+2109.02,2111.78,Psy,soit,parole,0.08,,0.69
+2111.88,2124.2,Sujet,et tout soit un par un par produit parce que ça peut être bien que c' est bénéfique qu' on ait fait des bénéfices j - j - j - et s' il débasse trop hm hm oui,parole,0.1,rattrape,0.47
+2126.28,2129.52,Sujet,ils pourraient être payés plus par les hommes hm oui taxé par les impôts oui oui,parole,2.09,rattrape,
+2130.77,2144.31,Sujet,parce que toute entreprise a des impôts je sais qu' à l' heure actuelle c' est soixante-quinze pour cent qu' on prélève et y a vingt-cinq ans c' était cinquante pour cent oui une sacré évolution oui,parole,1.25,,0.4
+2144.35,2148.11,Psy,euh,parole,0.04,,0.75
+2148.14,2167.5,Sujet,faut pas être trop surproductif parce que sça peut être euh néfaste à à l' entreprise faut juste calibrer ce qu' on ce qu' on vend et ce qu' on jette parce que parfois y a des produits j- ils se sont jetés comme ça euh y a au moins trente personnes euh qu' on jette euh par année euh et par habitant,parole,0.02,,0.48
+2168.16,2168.24,Psy,y,parole,0.66,,0.71
+2168.39,2181.54,Sujet,a un gâchis voilà y a un gâchis moi les mes desserts ils me durent trois jours parfois je je stock je conserve,parole,0.14,,0.53
+2181.59,2182.0,Psy,ah,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.64
+2182.05,2186.78,Sujet,oui je suis un fan culinaire moi j' aime bien manger,parole,0.06,,0.43
+2188.18,2188.78,Sujet,sucré,parole,1.4,rattrape,
+2188.29,2189.99,Psy,ah,interjection,0,empreinte:SPEAKER_00->SPEAKER_01,0.85
+2188.78,2191.37,Sujet,et savé oui les deux,parole,0,rattrape,0.62
+2191.43,2192.73,Psy,?,parole,0.06,,0.94
+2192.79,2201.91,Sujet,alors mélanger vous mélangez du du salami avec du fromage oui oui oui oui oui ?,parole,0.06,rattrape,0.6
+2201.93,2207.37,Sujet,c' est deux salés mais c' est c' est fondant et,parole,0.02,,0.56
+2207.43,2208.35,Sujet,oh,interjection,0.06,,0.48
+2208.81,2212.19,Sujet,et les trucs qu' on peut faire en cuisine,parole,0.46,,0.51
+2212.21,2212.42,Psy,c',parole,0.02,,0.64
+2212.48,2216.5,Sujet,est impressionnant d' où l' émission elle est carnée de Julie sur France trois,parole,0.06,,0.45
+2217.61,2230.02,Sujet,où là ils font soit les potes et soit le cassoulet soit euh des viandes euh de terroir tout ça c' est oh ça leur régale pour les yeux et pour le papille,parole,1.12,,0.4
+2230.06,2231.0,Psy,euh ah,parole,0.04,,0.59
+2231.06,2233.94,Sujet,oui j' ai j' ai leur mangé je,parole,0.06,,0.44
+2235.92,2237.84,Psy,m' en fends pour eux-mêmes bah,parole,1.98,,0.44
+2237.9,2240.6,Sujet,oui tout à fait ça fait partie des plaisirs,parole,0.06,,0.52
+2240.62,2241.16,Psy,de la vie,parole,0.02,,0.51
+2241.2,2241.36,Psy,hm,interjection,0.04,,0.38
+2247.06,2265.04,Sujet,ils connaissent vraiment euh et l' ologue et tout ça les les spiritueux euh les grandes les vannes rondes tables euh les vins qui a cinq cents ans euh sept cents,parole,5.69,,0.38
+2265.09,2268.68,Psy,ans de qui ont pris d' or mais euh un peu oui,parole,0.06,,0.48
+2269.59,2270.35,Sujet,un peu oui oui,parole,0.91,rattrape,
+2273.16,2280.62,Sujet,parce que on veut on veut se ron veut se en ce moment on veut se faire euh plaisir plus rapidement que qu' il y a maintenant,parole,2.82,,0.48
+2281.98,2284.9,Sujet,oui bah les oui possible années quatre oui -vingt -dix on savait manger et on savait euh euh,parole,1.36,rattrape,0.2
+2286.26,2290.18,Sujet,attends le bon moment non oui m pour manger et et et les les les oui oui m,parole,1.36,rattrape,
+2291.62,2318.37,Sujet,à midi oui oui m et huit heures oui fait ça fait huit heures de des de des oui m -hm m digestion plus la nuit pour dormir oui hm oui mais avec l' invention du cinéma oui m et de la télé ça réduit le le temps de sommeil on se couche à vingt-trois heures mais on on est obligé de se réveiller à six heures ce qui fait sept heures de de sommeil seulement alors qu' il en faut huit à dix pour être euh,parole,1.43,rattrape,0.42
+2318.39,2320.84,Psy,bien euh oui c' est ça ouais et un peu de vrai,parole,0.02,,0.48
+2320.88,2322.56,Psy,ouais,interjection,0.04,,0.73
+2322.53,2323.81,Psy,c' est comme ça du sommeil,parole,0,rattrape,
+2323.74,2324.18,Sujet,oui,parole,0,rattrape,
+2323.81,2323.97,Psy,oui,parole,0,rattrape,
+2324.18,2326.94,Sujet,c' est ça c' est hm j' ai un peu de volet ouais oui,parole,0.0,rattrape,
+2329.63,2331.41,Psy,pourtant j' ai le souvenir que hm hm hm hm,parole,2.68,rattrape,
+2332.7,2340.89,Psy,à l' époque euh à cette époque les repas peut-être qu' ils étaient à midi mais ils s' étaient à midi longtemps et il y avait entré,parole,1.3,,0.48
+2340.93,2343.37,Sujet,plat de salade et c' était,parole,0.04,,0.6
+2343.43,2344.89,Sujet,hm hm,interjection,0.06,,0.78
+2345.27,2346.35,Sujet,et,parole,0.38,,0.9
+2346.39,2348.04,Psy,c' était assez gargantuesque,parole,0.04,,0.62
+2349.14,2360.98,Sujet,est vrai qu' il y a eu les Boss euh y a eu des Boss Fast ouais et d' autres de mâche maigre hm m mais euh m -hm m -hm celui -là qui se nourrit bien est une personne bien vivante bien pensante t - oui,parole,1.11,rattrape,
+2362.28,2374.9,Sujet,mais il est dans sa tête dans ses baskets comme on dit moi je mange même je me sens bien plus là j' ai une bonne tête j' ai été chez le coiffeur euh tous les matins je me fais une petite beauté et puis voilà euh ça ça vaut pour la,parole,1.3,,0.34
+2374.92,2378.72,Psy,journée quoi alors,parole,0.02,,0.38
+2378.74,2389.04,Sujet,donc le matin je travaille et l' après-midi c' est cinéma sur TCM cinéma tous les jours y a un film y a au moins trois films euh non y a au moins six films par jour donc euh,parole,0.02,,0.41
+2391.96,2396.4,Sujet,bah même dix parce que ça va dans la nuit et tout ça donc euh,parole,2.92,,0.48
+2396.42,2397.86,Psy,parfois un peu mais sinon,parole,0.02,,0.33
+2399.3,2400.38,Sujet,je dors bien oui,parole,1.44,,0.5
+2401.46,2407.08,Sujet,avant de cette nuit-là j' ai dormi dormi que quatre heures,parole,1.08,,0.49
+2407.66,2409.16,Psy,mais,parole,0.58,,0.46
+2409.2,2420.57,Sujet,j' ai j' ai bien dormi après je suis resté calme sur mon lit à me détendre euh à regarder un peu la télé euh et à vaquer euh bon j' ai pris mon petit déj,parole,0.04,,0.44
+2422.47,2442.41,Sujet,ensuite euh là ce midi je vais manger à midi ça va aller on s' est juste réveillé un petit film et après un petit concert au,parole,1.91,,0.45
+2442.43,2445.37,Psy,cas où ou des clips ils disparaissent quoi ?,parole,0.02,,0.49
+2445.43,2446.43,Sujet,oui y a un petit concert de,parole,0.06,,0.43
+2447.55,2454.75,Sujet,euh sur de Led Zeppelin de Toto je sais pas si elle est meilleure parce qu' il passe des des bons trucs parfois,parole,1.12,,0.44
+2454.95,2455.31,Psy,oh,interjection,0.2,regle:SPEAKER_00->SPEAKER_01,0.87
+2455.35,2463.75,Sujet,là-bas j- et si j' avais vu un truc de hard rock oui y a des chevelons euh jusque-là et ils grattaient la guitare et ils chantaient ouah ouah,parole,0.04,,0.47
+2463.81,2466.81,Psy,ouah,parole,0.06,,0.58
+2466.83,2469.65,Sujet,c' est aussi le hard rock ouais c' est ça des mouvements,parole,0.02,,0.54
+2471.67,2478.08,Sujet,euh des années quatre-vingt-dix nés dans les années quatre-vingt-dix avec euh au départ Scorpion Metallica,parole,2.02,,0.5
+2480.3,2483.47,Sujet,euh Motorell et Gordon-Rosiss pensaient,parole,2.22,rattrape,0.48
+2483.36,2486.24,Psy,ouais,interjection,0,empreinte:SPEAKER_00->SPEAKER_01,0.6
+2483.47,2484.21,Sujet,qu' ils sont bien dans leur b,parole,0,rattrape,
+2486.32,2495.24,Sujet,ils font leurs trucs et c' est génial quoi et Orléan c' est un peu plus calme mais c' est quand même péchu hein,parole,0.08,,0.5
+2495.05,2495.41,Psy,j' c' ai,parole,0,rattrape,0.35
+2495.4,2527.44,Sujet,est bien travaillé hein les mecs ils ont travaillé leurs accords ils travaillent donc l' interl' interpréture des guitares ils le savent euh par coeur du du du dos aussi et y a parfois y a des solos génial quoi c' est ça qu' il faudra ça s' apprécie euh un concert j' ai été à un concert de Patrick Bruel à Paris au Zénith quand il commençait et j' ai adoré j' ai adoré le style et il a explosé dans les années quatre-vingt-dix la Bruel mania où là il a été au sommet de Saint-Gloire,parole,0,,0.47
+2527.52,2528.52,Psy,oui c' est,parole,0.08,,0.45
+2528.6,2585.42,Sujet,impressionnant oui euh et en plusieurs salles de à Paris y en a l' Alhambra l' Olympia euh le Palais des Glaces y a plusieurs salles dans Paris où on peut jouer toutes les musiques du monde que ça soit salsa reggae rock danse flore pour les boîtes de nuit euh euh Eurodanse qu' il y a eu dans les années quatre-vingt-dix avec la Skyrègue sur Skyrock la trance et la règue sur Fonoradio moi pour les années quatre-vingt-dix j' étais au top parce que j' écoutais des trucs de santé euh géniales y a le beat long avec des rythmes euh plus rapides et des sourds et de santé comme le groupe Vandarude que j' ai acheté l' allemand les forces de storm avec des talalala ta talalala et,parole,0.08,,0.54
+2585.44,2587.82,Psy,ça ramène le vitesse c' est génial,parole,0.02,,0.49
+2587.88,2590.24,Sujet,ah si j' ai fait du piano pendant,parole,0.06,,0.41
+2590.26,2590.93,Psy,vingt,parole,0.02,,0.2
+2590.98,2591.87,Sujet,ans du santé pendant vingt,parole,0.06,,0.29
+2591.93,2593.79,Psy,ans non le clousolfège,parole,0.06,,0.46
+2593.52,2594.3,Sujet,vous connaissais,parole,0,rattrape,
+2594.18,2594.48,Psy,non,parole,0,rattrape,
+2594.3,2594.38,Sujet,m,parole,0,rattrape,
+2594.48,2594.88,Psy,vous savez,parole,0.0,rattrape,
+2594.75,2595.03,Sujet,j',parole,0,,0.8
+2594.88,2594.98,Psy,c' est,parole,0,rattrape,
+2595.07,2595.71,Sujet,ai jamais appris,parole,0.04,,0.32
+2599.23,2619.14,Sujet,et pourtant j' ai joué de la musique euh bon certes c' est un certain style mais là j' ai changé parce que j' ai fait cinq albums en deux ans et ce sont des petites sonates sur clé usb c' est protégé sur clé usb euh donc euh je suis assez productif,parole,3.52,,0.54
+2619.64,2623.08,Psy,ouais,interjection,0.5,,0.64
+2623.1,2634.56,Sujet,c' était un peu euh de de la poêle cadenne c' est pas vraiment euh bah c' était mon style mais cc' est pas un style à écouter quoi y avait quelques morceaux qui étaient bien,parole,0.02,,0.48
+2636.42,2640.44,Sujet,et d' autres euh,parole,1.86,,0.46
+2640.28,2640.54,Psy,si,parole,0,rattrape,
+2640.46,2640.58,Sujet,bof,parole,0,,0.39
+2640.54,2640.66,Psy,vous,parole,0,rattrape,
+2640.6,2640.7,Sujet,mais,parole,0,,0.4
+2640.66,2640.86,Psy,voulez,parole,0,rattrape,
+2640.72,2640.94,Sujet,bon,parole,0,,0.56
+2640.86,2642.44,Psy,du alors coup m là je,parole,0,rattrape,0.56
+2642.48,2682.24,Sujet,me je mangeais aussi tous les midis et toutes les après-midis mais je conje composais soit le matin soit l' après-midi soit le soir c' était quand je voulais chez ma mère et j' avais travaillé euh dans une petite euh boîte pour euh payer euh mon santé la relance des lisses voilà tout à fait oui je me disais à l' époque pourquoi pas personne dans la musique mais comment on fait euh quelles adresses et j' ai découvert les adresses de la Saint-Saime du SNAC le syndicat national des auteurs et compositeurs,parole,0.04,,0.5
+2683.64,2684.44,Sujet,donc toutes les oeuvres,parole,1.4,,0.61
+2685.52,2704.02,Sujet,qui n' aiment de l' esprit que ce soit musical ou intellectuel ça se protège dans des lieux euh où c' est fait exprès pour se soit protégé pendant cinq ans et après ça on dirait de soixante-dix ans donc on peut créer à tout va et et faire ce qu' on,parole,1.08,,0.47
+2704.06,2706.2,Psy,aime c',parole,0.04,,0.55
+2706.26,2716.5,Sujet,est un bon système ouais le système français au niveau euh des des créations théâtrales musicales on est au top euh après,parole,0.06,,0.44
+2714.17,2715.31,Psy,c' est compliqué de percer,parole,0,rattrape,
+2716.52,2719.27,Sujet,c' est compliqué de percer oui,parole,0.02,,0.49
+2720.51,2727.54,Sujet,oui c' est un petit peu juste hm hm je comprends,parole,1.24,,0.49
+2729.8,2733.72,Sujet,je préfère travailler on les a que que d' être dans la rue puis j - j -,parole,2.26,rattrape,
+2737.53,2738.79,Sujet,je le sais et euh l - l - m,parole,3.81,rattrape,
+2739.55,2740.61,Psy,hm hm,interjection,0.76,,0.48
+2743.23,2746.03,Psy,y a des personnes qui recherchent euh la vie dans la rue hein,parole,2.62,rattrape,
+2749.75,2751.41,Sujet,oui mais euh oui euh euh oui m,parole,3.72,rattrape,
+2754.14,2760.21,Sujet,est -ce qui s' est passé pour qu' ils se disent euh euh m -hm non un travail ou oui quelque chose qu' ils ne voulaient pas,parole,2.73,rattrape,
+2761.31,2766.27,Sujet,c' est c' est c' est l' histoire du choix hm voilà la la liberté c' est un choix je vois pas oui,parole,1.1,rattrape,
+2769.41,2797.26,Sujet,ça fait à peine euh deux cent trente ans qu' on est en liberté et qu' on peut faire ce qu' on veut liberté égalité fraternité et là ça veut dire on a le choix du travail choix des convictions politiques choix de la vie qu' on veut mener tout est basé sur le choix de ce qu' on veut faire y a des pilades d' avions y a des ambulanciers y a les éboires tout le monde choisit son travail,parole,3.15,,0.51
+2797.77,2799.01,Sujet,hm hm,interjection,0.51,,0.77
+2799.05,2799.31,Sujet,c' est,parole,0.04,,0.41
+2803.29,2810.57,Sujet,bah j' aurais pu le devenir euh si j' avais fait euh euh m -hm oui oui le passage euh du du euh oui oui,parole,3.98,rattrape,
+2813.75,2826.56,Sujet,du CAP de de compta de comptabilité secrétarienne j' aurais pu le devenir homme d' affaires mais ça mça m' a pas plu puis oui bah c' était pas mon truc c' était pas mon truc du j -,parole,3.18,rattrape,
+2828.28,2828.5,Sujet,ah,interjection,1.73,,0.28
+2828.6,2836.05,Sujet,ben dà dix-sept ans on se cherche on cherche sa voie bah ça on veut savoir,parole,0.1,,0.48
+2836.07,2838.89,Psy,ce qu' on ce qu' on est capable de faire hm tout à fait oui oui,parole,0.02,,0.38
+2838.95,2840.51,Sujet,oui hm tout à fait,parole,0.06,,0.69
+2841.51,2848.71,Psy,les gens qui changent de travail ça arrive et,parole,1.0,,0.52
+2848.73,2852.97,Sujet,qui réussissent ça arrive rien,parole,0.02,,0.45
+2854.97,2856.21,Sujet,n' est défini par avance,parole,2.0,,0.5
+2858.27,2861.06,Psy,enfin c' est une philosophie de vie,parole,2.06,,0.43
+2861.1,2866.42,Sujet,oui oui voilà pour euh pour décrocher ce qu' on veut hm,parole,0.04,,0.45
+2866.44,2878.63,Psy,bah écoutez monsieur oui je pense que on peut s' arrêter là à moins que vous ayez envie de discuter dans non d',parole,0.02,rattrape,0.38
+2877.86,2880.42,Sujet,autres religions particulières bah,parole,0,,0.38
+2880.58,2882.15,Psy,super bah merci beaucoup en tout cas,parole,0.16,,0.44
+2882.17,2882.29,Sujet,pour,parole,0.02,,0.24
+2882.31,2885.25,Psy,cette participation c' était très agréable,parole,0.02,,0.54

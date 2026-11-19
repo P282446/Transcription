@@ -1,0 +1,409 @@
+﻿debut_s,fin_s,locuteur,texte,type,pause_avant_s,correction,score_moyen,raison
+39.79,47.45,Psy,"Voilà, c'est parti, ben, comme la dernière fois, je vous propose de raconter un vécu de votre choix.",parole,30.3,,0.4,faible confiance de l'alignement
+51.26,51.9,Sujet,Oui.,parole,0.04,,0.28,faible confiance de l'alignement
+52.56,53.28,Psy,"Hum, hum.",interjection,0.02,regle:SPEAKER_00->SPEAKER_01,0.63,corrigee automatiquement
+53.3,56.34,Sujet,Parce qu'il a un cancer et il se bat comme un grand mec.,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.49,corrigee automatiquement
+68.13,68.89,Sujet,Il était impressionnant.,parole,0.06,,0.16,faible confiance de l'alignement
+78.66,78.92,Psy,'est comme le,parole,0,rattrape,,corrigee automatiquement
+78.92,79.1,Psy,mot,parole,0.0,rattrape,,corrigee automatiquement
+93.97,94.51,Sujet,finir.,parole,1.28,rattrape,,corrigee automatiquement
+110.76,112.14,Sujet,"L'OM, en 1993, a gagné une Coupe d'Europe.",parole,1.52,,0.33,faible confiance de l'alignement
+112.16,112.26,Sujet,Oui.,parole,0.02,,0.35,faible confiance de l'alignement
+126.97,128.99,Psy,Ça vous arrive d'être à cœur ouvert aussi ?,parole,1.04,phrase:SPEAKER_00->SPEAKER_01,0.31,corrigee automatiquement; faible confiance de l'alignement
+129.03,132.88,Sujet,"Ouais, là, ouais, là, en ce moment, ouais.",parole,0.04,,0.31,faible confiance de l'alignement
+139.62,140.7,Sujet,C'est une bonne qualité.,parole,0.02,,0.32,faible confiance de l'alignement
+143.69,144.33,Psy,Les défauts ?,parole,1.57,phrase:SPEAKER_00->SPEAKER_01,0.56,corrigee automatiquement
+144.35,152.46,Sujet,"Les défauts, c'est que parfois je suis trop têtu, parce que, mais c'est pas être têtu, c'est être persévérant.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.5,corrigee automatiquement
+187.84,189.82,Sujet,"C'est ça qui est génial, quoi.",parole,0.14,,0.35,faible confiance de l'alignement
+189.69,191.51,Psy,Peut -être pas toujours pendant leur vécu.,parole,0,relu_isole (avant : Peut-être pas toujours pendant leur vécu.),,corrigee automatiquement
+220.44,221.82,Psy,Ils vous ont répondu ?,parole,1.3,phrase:SPEAKER_00->SPEAKER_01,0.54,corrigee automatiquement
+228.68,231.59,Psy,C'est qu'ils sont partis sur notre planète,parole,1.82,phrase:SPEAKER_00->SPEAKER_01,0.43,corrigee automatiquement
+231.67,231.69,Sujet,?,parole,0.08,,0.02,faible confiance de l'alignement
+266.85,267.95,Psy,D'accord.,parole,0.02,,0.3,faible confiance de l'alignement
+275.21,284.65,Sujet,"C'est un film d'anticipation, donc il n'y a pas de guerre, il n'y a pas de sang versé, il n'y a pas d'animosité, c'est un film de paix.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.52,corrigee automatiquement
+284.68,288.08,Sujet,Voilà.,parole,0.02,,0.38,faible confiance de l'alignement
+288.14,288.94,Psy,Et ça vous apaise ?,parole,0.06,,0.3,faible confiance de l'alignement
+311.24,313.54,Psy,Vous voulez qu'on les sélectionne pareil ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.27,corrigee automatiquement; faible confiance de l'alignement
+313.56,314.4,Sujet,Comment ?,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.31,corrigee automatiquement; faible confiance de l'alignement
+314.42,315.54,Psy,La sélection aussi ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.51,corrigee automatiquement
+330.91,332.01,Psy,"hum,",interjection,1.52,empreinte:SPEAKER_00->SPEAKER_01,0.58,corrigee automatiquement
+342.36,342.46,Psy,"hum,",interjection,0.04,,0.1,faible confiance de l'alignement
+363.4,369.82,Sujet,"il y en a des femmes d'affaires, il y en a, il y en a très peu, mais il y en a, qui savent dégoter les bons commerces,",parole,1.3,phrase:SPEAKER_01->SPEAKER_00,0.4,corrigee automatiquement; faible confiance de l'alignement
+369.88,370.08,Sujet,"hum,",interjection,0.06,,0.31,faible confiance de l'alignement
+370.68,391.17,Sujet,"Il y a des femmes qui créent leur association, il y a des femmes qui créent des petites boutiques de parfumerie, de lingerie, c'est, on a un monde qui est clos en ce moment, le 21ème siècle est clos du futur qu'on aura peut-être dans 1000 ans.",parole,0.6,phrase:SPEAKER_01->SPEAKER_00,0.59,corrigee automatiquement
+435.21,435.23,Sujet,?,parole,1.48,,0.25,faible confiance de l'alignement
+441.94,442.96,Sujet,"J'entends, oui,",parole,0.02,,0.19,faible confiance de l'alignement
+442.98,447.24,Psy,d'accord.,interjection,0.02,empreinte:SPEAKER_00->SPEAKER_01,0.68,chevauche l'autre voix; corrigee automatiquement
+443.11,443.67,Sujet,"J 'entends,",parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+447.28,447.44,Psy,Voilà.,parole,0.04,,0.22,faible confiance de l'alignement
+471.02,471.14,Sujet,là ?,parole,1.54,,0.15,faible confiance de l'alignement
+473.46,478.61,Sujet,"Donc, non, j'ai toujours cherché le juste milieu, moi.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.61,corrigee automatiquement
+478.63,480.09,Psy,Dans quel contexte ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.3,corrigee automatiquement; faible confiance de l'alignement
+481.61,482.65,Sujet,Parce que j'ai eu des déceptions.,parole,0.02,,0.39,faible confiance de l'alignement
+497.12,497.54,Sujet,Oui.,parole,0.04,,0.27,faible confiance de l'alignement
+507.46,510.06,Psy,C'est important qu'il y ait des rapports hommes-femmes.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.35,corrigee automatiquement; faible confiance de l'alignement
+551.21,552.43,Psy,"Des fois, la scène n 'est pas...",parole,0,"relu_isole (avant : Des fois, la scène n'est pas très recherchée.)",,corrigee automatiquement
+553.23,553.95,Psy,"Oui, tout",parole,0.8,"relu_isole (avant : Des fois, la scène n'est pas très recherchée.)",,corrigee automatiquement
+553.77,553.97,Sujet,tous,parole,0,rattrape,,corrigee automatiquement
+553.95,554.45,Psy,dépend,parole,0,"relu_isole (avant : Des fois, la scène n'est pas très recherchée.)",,chevauche l'autre voix; corrigee automatiquement
+553.97,554.61,Sujet,les bords,parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+554.45,554.89,Psy,des scènes.,parole,0,"relu_isole (avant : Des fois, la scène n'est pas très recherchée.)",,corrigee automatiquement
+554.69,554.91,Sujet,chênes.,parole,0,rattrape,,corrigee automatiquement
+554.78,555.36,Sujet,Tout dépend,parole,0,,0.29,faible confiance de l'alignement
+556.24,557.02,Sujet,tout dépend des théâtres.,parole,0.02,,0.32,faible confiance de l'alignement
+583.79,584.59,Sujet,'ai pu le faire évoluer.,parole,0,rattrape,,corrigee automatiquement
+586.78,589.73,Sujet,"dans le bon sens, c 'est -à -dire Euh...",parole,2.18,rattrape,,corrigee automatiquement
+591.16,592.74,Sujet,'ai une meilleure perception de lui.,parole,1.43,rattrape,,corrigee automatiquement
+594.18,594.82,Sujet,'as l 'air d 'être...,parole,1.45,rattrape,,corrigee automatiquement
+595.53,596.19,Sujet,l 'audition,parole,0.71,rattrape,,corrigee automatiquement
+597.31,600.73,Psy,'il y en ait une qui perceve quelque chose et l 'autre autre chose ?,parole,1.12,rattrape,,corrigee automatiquement
+600.66,600.98,Sujet,"Voilà,",parole,0,rattrape,,corrigee automatiquement
+600.73,600.87,Psy,Oui.,parole,0,rattrape,,corrigee automatiquement
+600.98,601.54,Sujet,"c 'est ça, voilà.",parole,0.0,rattrape,,corrigee automatiquement
+602.22,603.6,Sujet,"Peut -être deux sons, trois sons différents.",parole,0.67,rattrape,,corrigee automatiquement
+618.98,619.52,Sujet,"ça, il y a...",parole,1.47,rattrape,,corrigee automatiquement
+620.59,621.81,Sujet,"ça, c 'est un ensemble.",parole,1.07,rattrape,,corrigee automatiquement
+622.92,624.4,Sujet,Et selon les...,parole,1.11,rattrape,,corrigee automatiquement
+626.94,627.82,Sujet,selon la musique.,parole,2.54,rattrape,,corrigee automatiquement
+628.8,629.42,Sujet,Avec...,parole,0.98,rattrape,,corrigee automatiquement
+629.42,632.04,Sujet,Comment on appelle ça là ?,parole,0.0,rattrape,,corrigee automatiquement
+687.7,689.47,Psy,Vous y connaissez bien la musique ?,parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.33,corrigee automatiquement; faible confiance de l'alignement
+689.49,691.05,Sujet,"Oui, ça va, oui, j'ai une bonne oreille.",parole,0.02,,0.32,faible confiance de l'alignement
+693.27,695.94,Psy,"Il y avait aussi des pédales, je crois, au niveau du piano, là-bas.",parole,2.23,,0.36,faible confiance de l'alignement
+711.8,712.4,Sujet,Blanc de lait.,parole,0,"relu_isole (avant : Hum, je crois que je la connais, mais je pourrais pas...)",,corrigee automatiquement
+713.58,714.94,Sujet,"Je crois que je l 'ai connu,",parole,1.18,"relu_isole (avant : Hum, je crois que je la connais, mais je pourrais pas...)",,corrigee automatiquement
+714.97,715.13,Psy,oui.,parole,0.03,rattrape,,corrigee automatiquement
+715.04,716.38,Sujet,mais je ne sais pas.,parole,0,"relu_isole (avant : Hum, je crois que je la connais, mais je pourrais pas...)",,corrigee automatiquement
+720.31,727.15,Sujet,C'est,parole,3.93,,0.47,chevauche l'autre voix
+721.33,721.99,Psy,"Non, non, non, non.",parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+745.87,746.37,Psy,plaisir.,parole,0.88,,0.21,faible confiance de l'alignement
+747.02,747.36,Sujet,C'est,parole,0.65,phrase:SPEAKER_01->SPEAKER_00,0.4,corrigee automatiquement
+747.27,747.55,Psy,J,parole,0,rattrape,,corrigee automatiquement
+747.38,747.64,Sujet,"bien,",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.58,corrigee automatiquement
+747.55,747.75,Psy,'ai,parole,0,rattrape,,corrigee automatiquement
+747.66,748.4,Sujet,c'est,parole,0,,0.42,chevauche l'autre voix
+747.75,748.77,Psy,"eu ma vie, j 'ai",parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+748.46,749.1,Sujet,"un plaisir,",parole,0,,0.31,faible confiance de l'alignement
+748.77,749.05,Psy,eu ma vie.,parole,0,rattrape,,corrigee automatiquement
+749.12,749.2,Sujet,ça.,parole,0.02,,0.19,faible confiance de l'alignement
+749.22,755.06,Sujet,"J'allume ma V-Box 360, je mets le CD, je fais lire le CD, ensuite,",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.56,corrigee automatiquement
+773.06,773.56,Sujet,Vous immergez ?,parole,0.02,,0.4,faible confiance de l'alignement
+773.87,775.63,Sujet,"Vous collez à la musique, c 'est génial.",parole,0.3,rattrape,,corrigee automatiquement
+775.91,776.45,Psy,vous immergez.,parole,0.28,rattrape,,corrigee automatiquement
+801.24,805.23,Sujet,"En plus, moi, à Amsterdam, je l'ai visité avec ma mère.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.43,corrigee automatiquement
+807.69,808.31,Psy,"C'est une chouette ville,",parole,0.02,,0.07,faible confiance de l'alignement
+808.37,808.59,Psy,ouais.,interjection,0.06,,0.22,faible confiance de l'alignement
+813.94,816.44,Sujet,"Ma mère, elle s'est dit, qu'est-ce qu'on fait, Cyril, maintenant ?",parole,0.02,,0.25,faible confiance de l'alignement
+816.46,818.68,Sujet,"Je ne sais pas, on fait les canaux, non ?",parole,0.02,,0.4,faible confiance de l'alignement
+832.69,833.41,Sujet,"Oui, c'est une île",parole,0.1,,0.27,faible confiance de l'alignement
+836.67,837.83,Sujet,"C'est une île très vivante, oui.",parole,0.02,,0.27,faible confiance de l'alignement
+837.85,837.93,Sujet,Hum.,interjection,0.02,,0.0,faible confiance de l'alignement
+838.89,841.75,Sujet,Il y a aussi le tramway qui existe encore là-bas.,parole,0.95,phrase:SPEAKER_01->SPEAKER_00,0.31,corrigee automatiquement; faible confiance de l'alignement
+841.81,842.69,Psy,Exact.,parole,0.06,,0.29,faible confiance de l'alignement
+842.71,849.09,Sujet,"Tout comme en France, là, le tramway, il y en a quelques-uns.",parole,0.02,,0.33,faible confiance de l'alignement
+849.15,864.08,Sujet,"Et on a fait aussi Venise, la place Saint-Marc, le pont des Soupilles, avec un pont juste en face, pour voir de la prison en haut, au jugement, super beau.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.59,corrigee automatiquement
+864.1,864.48,Psy,Il paraît,parole,0.02,,0.37,faible confiance de l'alignement
+864.52,865.18,Sujet,que c'est un charme,parole,0.04,,0.24,faible confiance de l'alignement
+866.66,867.56,Sujet,aussi.,parole,0.06,,0.32,faible confiance de l'alignement
+867.58,868.54,Sujet,"C'est très poétique, oui.",parole,0.02,,0.34,faible confiance de l'alignement
+869.85,871.33,Sujet,L'alcoolique.,parole,1.31,,0.37,faible confiance de l'alignement
+894.84,895.76,Psy,"risqué, hein,",parole,0.08,,0.28,faible confiance de l'alignement
+895.78,898.28,Sujet,"c'est risqué, il y a des jeux risqués,",parole,0.02,,0.39,faible confiance de l'alignement
+898.3,898.8,Psy,"hum, hum, hum,",interjection,0.02,,0.32,faible confiance de l'alignement
+900.77,901.91,Psy,Vous n'êtes pas tombé à l'eau,parole,1.97,,0.37,faible confiance de l'alignement
+902.05,907.13,Sujet,"Non, non, ça va, nous, on est allé quand il n'y avait pas de période où il y avait des grandes eaux.",parole,0.02,,0.37,faible confiance de l'alignement
+907.17,907.29,Psy,Ça,parole,0.04,phrase_courte:SPEAKER_00->SPEAKER_01,0.32,corrigee automatiquement; faible confiance de l'alignement
+909.89,912.03,Psy,arrive vite.,parole,2.6,phrase_courte:SPEAKER_00->SPEAKER_01,0.42,corrigee automatiquement
+917.73,920.31,Psy,"Effectivement, oui.",parole,0.12,,0.38,faible confiance de l'alignement
+920.33,926.35,Psy,"Ah, c'est vraiment dangereux, ces périodes-là.",parole,0.02,,0.3,faible confiance de l'alignement
+926.37,926.47,Sujet,Bon.,parole,0.02,,0.14,faible confiance de l'alignement
+927.2,930.7,Psy,"Et, hum, à Amsterdam, vous avez visité quoi d'autre ?",parole,0.72,,0.24,faible confiance de l'alignement
+946.35,946.55,Sujet,"Ah,",interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.51,corrigee automatiquement
+946.57,949.53,Psy,c'était notre rendez-vous ?,parole,0.02,phrase_courte:SPEAKER_00->SPEAKER_01,0.36,corrigee automatiquement; faible confiance de l'alignement
+949.55,949.83,Psy,"Oui, c'est",parole,0.02,,0.23,faible confiance de l'alignement
+949.85,951.94,Sujet,"notre rendez-vous, oui, je vais le",parole,0.02,,0.38,faible confiance de l'alignement
+952.66,953.52,Psy,laisser.,parole,0.72,,0.25,faible confiance de l'alignement
+953.56,953.86,Sujet,D'accord.,interjection,0.04,,0.1,faible confiance de l'alignement
+964.24,964.72,Psy,"Oui, là,",parole,0.53,"relu_isole (avant : Oui, il avait un pinceau particulier.)",,corrigee automatiquement
+964.6,964.78,Sujet,avait,parole,0,rattrape,,corrigee automatiquement
+964.74,964.98,Psy,il y,parole,0,"relu_isole (avant : Oui, il avait un pinceau particulier.)",,corrigee automatiquement
+964.92,965.52,Sujet,pinceau,parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+964.98,965.7,Psy,a un peu de temps sur place.,parole,0,"relu_isole (avant : Oui, il avait un pinceau particulier.)",,chevauche l'autre voix; corrigee automatiquement
+965.52,965.82,Sujet,particulier.,parole,0,rattrape,,corrigee automatiquement
+965.89,966.39,Psy,"Ah,",interjection,0.07,empreinte:SPEAKER_00->SPEAKER_01,0.65,corrigee automatiquement
+972.65,974.49,Psy,"Bon, ça, elle va pas redémarrer après ?",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.31,corrigee automatiquement; faible confiance de l'alignement
+999.59,1001.51,Sujet,"Qu'est-ce que c'est, moi",parole,18.63,phrase:SPEAKER_01->SPEAKER_00,0.36,corrigee automatiquement; faible confiance de l'alignement
+1001.85,1003.75,Psy,Pas grand-souci.,parole,0.02,,0.39,faible confiance de l'alignement
+1006.21,1006.61,Psy,"au moins, vous",parole,0.06,,0.14,faible confiance de l'alignement
+1006.65,1007.93,Sujet,étiez sûr d'être à l'heure pour,parole,0.04,,0.11,faible confiance de l'alignement
+1008.61,1009.27,Psy,le rendez-vous.,parole,0.68,,0.36,faible confiance de l'alignement
+1009.33,1010.49,Psy,"Oui, oui, j'étais à l'heure, oui.",parole,0.06,,0.18,faible confiance de l'alignement
+1010.51,1011.67,Sujet,"Plutôt en avance, souvent, hein ?",parole,0.02,,0.18,faible confiance de l'alignement
+1011.69,1013.77,Sujet,"Euh, là, je suis arrivé à 9h.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.3,corrigee automatiquement; faible confiance de l'alignement
+1013.81,1014.05,Sujet,"Ah, oui.",parole,0.04,,0.23,faible confiance de l'alignement
+1014.65,1014.77,Psy,"Hum,",parole,0.04,,0.25,faible confiance de l'alignement
+1014.91,1015.09,Sujet,hum.,parole,0.14,,0.33,faible confiance de l'alignement
+1015.15,1018.04,Sujet,"En plus, c'est les vacances, donc il y a peu de bus, mais il y en a, quoi.",parole,0.06,,0.39,faible confiance de l'alignement
+1018.66,1019.94,Sujet,Ils sont à l'heure.,parole,0.06,,0.4,faible confiance de l'alignement
+1020.0,1020.86,Sujet,"Oui, effectivement.",parole,0.06,,0.23,faible confiance de l'alignement
+1020.88,1026.82,Sujet,"Ah, oui, et sur Provence, ils sont d'une ponctualité, les bus, mais alors exceptionnels.",parole,0.02,,0.39,faible confiance de l'alignement
+1026.84,1027.92,Psy,C'est bien.,parole,0.02,,0.34,faible confiance de l'alignement
+1027.96,1029.08,Sujet,"Ah, oui, c'est bien, ça fait...",parole,0.04,,0.29,faible confiance de l'alignement
+1034.05,1034.93,Sujet,"Ah, c'est parfait,",parole,0.02,,0.14,faible confiance de l'alignement
+1039.86,1040.14,Sujet,nickel.,parole,2.28,,0.24,faible confiance de l'alignement
+1040.16,1042.02,Sujet,"Ça va la posture, je suis pas trop...",parole,0.02,,0.38,faible confiance de l'alignement
+1042.1,1043.66,Psy,"Euh, oui, oui, tout est bon.",parole,0.08,,0.28,faible confiance de l'alignement
+1044.21,1044.87,Psy,Parfait.,parole,0,"relu_isole (avant : Oui, parfait, parfait, merci.)",,corrigee automatiquement
+1044.3,1044.32,Sujet,?,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.02,corrigee automatiquement; faible confiance de l'alignement
+1045.76,1046.42,Sujet,Y a pas de blague ?,parole,0.89,,0.38,faible confiance de l'alignement
+1046.96,1048.32,Psy,"Non, je crois pas.",parole,0.53,,0.39,faible confiance de l'alignement
+1048.34,1048.82,Sujet,D'accord.,interjection,0.02,empreinte:SPEAKER_01->SPEAKER_00,0.37,corrigee automatiquement; faible confiance de l'alignement
+1050.1,1050.32,Sujet,D'accord.,parole,0.02,,0.16,faible confiance de l'alignement
+1050.34,1052.58,Psy,Ce sera la surprise.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.37,corrigee automatiquement; faible confiance de l'alignement
+1055.06,1056.36,Psy,D'accord.,interjection,0.16,empreinte:SPEAKER_00->SPEAKER_01,0.58,corrigee automatiquement
+1063.45,1063.53,Psy,Je,parole,0.02,,0.32,faible confiance de l'alignement
+1071.71,1072.27,Sujet,Malheureusement.,parole,0.04,,0.37,faible confiance de l'alignement
+1079.94,1081.24,Psy,"Oui, effectivement.",parole,0.04,phrase_courte:SPEAKER_00->SPEAKER_01,0.39,corrigee automatiquement; faible confiance de l'alignement
+1081.26,1082.64,Sujet,"Ça, c'est effrayant, ça.",parole,0.02,,0.34,faible confiance de l'alignement
+1082.66,1084.78,Sujet,"Ça fait un peu peur, quoi.",parole,0.02,,0.4,faible confiance de l'alignement
+1091.84,1092.34,Sujet,"mieux comme vie, hein.",parole,0.02,,0.1,faible confiance de l'alignement
+1107.28,1107.96,Psy,Déjà ?,parole,0.98,phrase:SPEAKER_00->SPEAKER_01,0.55,corrigee automatiquement
+1108.56,1109.52,Psy,oui.,parole,0.04,,0.25,faible confiance de l'alignement
+1119.14,1120.36,Sujet,"Oui, ça remonte à quelque temps, oui.",parole,0.08,,0.2,faible confiance de l'alignement
+1121.71,1123.25,Psy,C 'est pour ça qu 'il y a déjà autant de...,parole,1.35,relu_isole (avant : C'est pour ça qu'il y a déjà autant de...),,corrigee automatiquement
+1123.87,1127.85,Sujet,"Il y a plusieurs cas dans tout le monde, sur la planète, ouais.",parole,0.61,phrase:SPEAKER_01->SPEAKER_00,0.58,corrigee automatiquement
+1128.07,1130.59,Psy,Vous avez une théorie avec ce virus ?,parole,0.22,phrase:SPEAKER_00->SPEAKER_01,0.56,corrigee automatiquement
+1157.04,1157.38,Psy,va jouer à,parole,0,rattrape,,corrigee automatiquement
+1157.29,1158.17,Sujet,là.,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.74,corrigee automatiquement
+1158.23,1159.27,Sujet,"Oui, je vois ça.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.5,corrigee automatiquement
+1164.09,1167.12,Psy,Je n'ai pas regardé l'actualité.,parole,0.08,phrase:SPEAKER_00->SPEAKER_01,0.5,corrigee automatiquement
+1167.2,1168.02,Sujet,"Ah, moi aussi, Hélène.",parole,0.08,,0.33,faible confiance de l'alignement
+1176.77,1178.15,Psy,"oui, donc vous êtes vraiment au courant ?",parole,0.08,phrase_courte:SPEAKER_00->SPEAKER_01,0.34,corrigee automatiquement; faible confiance de l'alignement
+1178.19,1181.75,Sujet,"Ouais, je suis au courant de ce qui se passe quand même, oui.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.3,corrigee automatiquement; faible confiance de l'alignement
+1181.81,1188.88,Sujet,"Oui, je suis obligé parce que sinon, on deviendrait parano.",parole,0.06,,0.35,faible confiance de l'alignement
+1188.75,1189.27,Psy,C 'était misant.,parole,0,relu_isole (avant : C'est amusant.),,corrigee automatiquement
+1193.0,1194.48,Sujet,"Voilà, non, mais bon.",parole,3.73,,0.33,faible confiance de l'alignement
+1196.96,1198.14,Sujet,"Oui, c'est négatif.",parole,0.04,,0.31,faible confiance de l'alignement
+1198.16,1198.5,Sujet,Parfois...,parole,0.02,,0.15,faible confiance de l'alignement
+1208.06,1208.08,Sujet,?,parole,0.56,,0.22,faible confiance de l'alignement
+1218.39,1219.45,Sujet,"mais on s'est éclatés, quoi.",parole,1.2,,0.28,faible confiance de l'alignement
+1228.0,1228.16,Sujet,une chasse,parole,0,rattrape,,corrigee automatiquement
+1228.04,1228.56,Psy,chasse-neige.,parole,0,phrase:SPEAKER_00->SPEAKER_01,0.45,corrigee automatiquement
+1228.16,1228.52,Sujet,nette.,parole,0,rattrape,,corrigee automatiquement
+1229.81,1238.8,Sujet,"C'était tout chou, c'est bon, je me rappelle, j'allais tout droit, je disais, Cyril, attends-moi, mon frère, on s'éclatait.",parole,1.26,,0.37,faible confiance de l'alignement
+1238.84,1239.72,Psy,"Ouais,",parole,0.04,,0.38,faible confiance de l'alignement
+1239.74,1242.9,Sujet,"c'est un sport sympa, j'avoue.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.44,corrigee automatiquement
+1242.94,1247.23,Sujet,"Ah, oui, c'est vraiment, le sport de glisse, bah, c'est né dès les années 1890, je crois.",parole,0.04,,0.32,faible confiance de l'alignement
+1247.27,1248.39,Sujet,"C'était la haute sensibilité,",parole,0.04,,0.37,faible confiance de l'alignement
+1250.67,1252.83,Sujet,"Je suis pas sûr à 100%, mais c'est une théorie.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.39,corrigee automatiquement; faible confiance de l'alignement
+1252.85,1253.99,Psy,"C'est possible, oui.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.42,corrigee automatiquement
+1256.68,1261.36,Sujet,"Et il y en a un qui a découvert les remontées mécaniques, qui a mis tout le système en marche.",parole,0.61,,0.34,faible confiance de l'alignement
+1273.53,1273.55,Sujet,?,parole,0.66,,0.25,faible confiance de l'alignement
+1273.57,1278.42,Sujet,"Ben, je crois que c'était mécanique, mais je suis pas sûr à 100%.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.5,corrigee automatiquement
+1280.96,1283.06,Sujet,"Ouais, un truc comme ça, voilà, ouais.",parole,0.06,,0.31,faible confiance de l'alignement
+1296.87,1302.42,Psy,tous les imprévus,parole,0.1,,0.57,chevauche l'autre voix
+1299.24,1299.84,Sujet,Merci à vous.,parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+1302.44,1302.96,Sujet,"qu'il y a, oui.",parole,0.02,,0.21,faible confiance de l'alignement
+1302.99,1307.2,Sujet,"Ah, non, ils ont fait, ils ont fait une trilogie, là, exceptionnelle.",parole,0.04,,0.36,faible confiance de l'alignement
+1310.42,1311.96,Sujet,Le Grosier Ami pour la vie.,parole,1.8,,0.34,faible confiance de l'alignement
+1312.53,1313.75,Psy,"Oui, c 'est dingue, c 'est ça.",parole,0.56,"relu_isole (avant : Ah, oui, c'est le dernier, c'est ça ?)",,corrigee automatiquement
+1313.98,1324.54,Sujet,"Oui, c'est le dernier, oui, avec Thierry Allermy, Gérard Julliot, Michel Blanc, Josette Malasco, Améryne Chazelle, Claudia Cardinal, qui joue le rôle, et Christophe Clavier.",parole,0.23,,0.38,faible confiance de l'alignement
+1325.02,1325.7,Sujet,Oui.,parole,0.48,,0.3,faible confiance de l'alignement
+1327.28,1329.68,Psy,Je comprends.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.41,corrigee automatiquement
+1332.16,1333.98,Psy,c'est vrai que ces films ont vraiment marqué...,parole,0.02,,0.3,faible confiance de l'alignement
+1334.68,1339.15,Sujet,ils ont marqué leur époque et...,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.42,corrigee automatiquement
+1339.04,1340.2,Psy,"Encore aujourd 'hui, hein ?",parole,0,"relu_isole (avant : Encore aujourd'hui, hein ?)",,corrigee automatiquement
+1340.39,1341.85,Sujet,"Ah, oui, encore aujourd'hui, oui, oui.",parole,0.19,,0.23,faible confiance de l'alignement
+1343.32,1346.08,Sujet,"Ça pourrait plaire, ça pourrait plaire aux Chinois, tiens.",parole,1.47,,0.27,faible confiance de l'alignement
+1346.1,1351.9,Sujet,"Allez faire du ski, un peu.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.5,corrigee automatiquement
+1351.92,1353.5,Psy,Vous n'êtes pas retourné depuis ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.38,corrigee automatiquement; faible confiance de l'alignement
+1354.88,1358.68,Sujet,Ça fait bien 30 ans que je n'ai pas retourné au ski.,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.42,corrigee automatiquement
+1358.7,1361.84,Psy,Même pour simplement vous balader ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.51,corrigee automatiquement
+1379.5,1381.66,Sujet,"C'est à mi-chemin, on peut faire les deux si on veut.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.47,corrigee automatiquement
+1382.14,1382.9,Sujet,"hum, effectivement.",parole,0.04,,0.21,faible confiance de l'alignement
+1388.29,1388.55,Sujet,Tous,parole,0,rattrape,,corrigee automatiquement
+1388.58,1390.28,Psy,"Ou les deux, oui.",parole,0.03,phrase:SPEAKER_00->SPEAKER_01,0.45,corrigee automatiquement
+1390.34,1390.54,Sujet,"Ah,",interjection,0.06,empreinte:SPEAKER_01->SPEAKER_00,0.62,corrigee automatiquement
+1390.56,1392.13,Sujet,mais il faut se lever à quatre heures du mat'.,parole,0.02,,0.34,faible confiance de l'alignement
+1392.08,1393.42,Psy,Oui peut -être.,parole,0,"relu_isole (avant : Oui, peut-être un peu.)",,corrigee automatiquement
+1393.37,1393.59,Sujet,C'est vrai.,parole,0,,0.03,faible confiance de l'alignement
+1393.61,1394.17,Sujet,C'est vrai,parole,0.02,,0.37,faible confiance de l'alignement
+1399.21,1400.47,Psy,Et ça fait longtemps que vous êtes sur X ?,parole,0.04,,0.2,faible confiance de l'alignement
+1406.2,1408.53,Psy,"vous Oui, bonjour ?",parole,0.02,rattrape,0.59,corrigee automatiquement
+1408.3,1413.92,Sujet,Je vivais en banlieue parisienne.,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.4,corrigee automatiquement; faible confiance de l'alignement
+1419.89,1420.85,Psy,C 'est vagabondé.,parole,0,relu_isole (avant : C'est vagabondé.),,corrigee automatiquement
+1424.01,1426.03,Sujet,"Moi, ce qui me plairait de faire, c'est aussi l'Angleterre,",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.42,corrigee automatiquement
+1446.13,1447.01,Psy,"Oui, ça doit",parole,0.1,,0.38,faible confiance de l'alignement
+1462.14,1466.26,Psy,"C'est bon, vous devenez avec eux.",parole,0.02,,0.39,faible confiance de l'alignement
+1502.92,1503.34,Psy,fait du monde,parole,0,rattrape,,corrigee automatiquement
+1503.15,1503.45,Sujet,"veuves,",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.3,corrigee automatiquement; faible confiance de l'alignement
+1503.34,1503.76,Psy,d 'isoler.,parole,0,rattrape,,corrigee automatiquement
+1503.47,1504.69,Sujet,"tout ça, voilà.",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.33,corrigee automatiquement; faible confiance de l'alignement
+1504.71,1505.91,Sujet,"Ça fait du monde isolé, hein ?",parole,0.02,,0.32,faible confiance de l'alignement
+1507.21,1508.45,Psy,"Oui, ça fait du monde isolé, oui.",parole,1.3,,0.36,faible confiance de l'alignement
+1508.47,1509.53,Psy,"Après, avec le tempérament de la personne ?",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.11,corrigee automatiquement; faible confiance de l'alignement
+1535.32,1543.49,Sujet,"C'est-à-dire que là, j'ai un film, ça s'appelle Bato-Bato, et c'est interdit aux moins de 12 ans parce qu'il y a les scènes de sexe.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.56,corrigee automatiquement
+1543.51,1544.55,Psy,D'accord.,interjection,0.02,regle:SPEAKER_00->SPEAKER_01,0.38,corrigee automatiquement; faible confiance de l'alignement
+1549.71,1550.21,Sujet,"Hum, hum.",interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.46,corrigee automatiquement
+1551.23,1555.41,Sujet,"Et là, je suis sur une nouvelle écriture, c'est « Silence les enfants », et là, c'est un drame.",parole,1.02,,0.34,faible confiance de l'alignement
+1555.43,1555.93,Sujet,Fais attention à ce,parole,0.02,,0.07,faible confiance de l'alignement
+1555.95,1557.45,Psy,que ce soit,parole,0.02,,0.27,faible confiance de l'alignement
+1557.47,1558.51,Sujet,"pas trop piquant, hein.",parole,0.02,,0.26,faible confiance de l'alignement
+1558.55,1560.81,Sujet,"Oui, tout à fait, oui.",parole,0.04,,0.31,faible confiance de l'alignement
+1567.08,1572.78,Sujet,Il a assez de débordants d'idées pour draguer sa belle.,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.71,corrigee automatiquement
+1579.29,1582.15,Sujet,"Et ça donne une comédie assez enjouée, quoi.",parole,1.31,,0.34,faible confiance de l'alignement
+1582.19,1582.93,Sujet,D'accord.,parole,0.04,,0.28,faible confiance de l'alignement
+1582.97,1584.17,Sujet,Voilà.,parole,0.04,,0.27,faible confiance de l'alignement
+1584.25,1586.23,Psy,"Et, hum, il se passe quoi ?",parole,0.08,,0.33,faible confiance de l'alignement
+1624.08,1625.2,Sujet,Vous vous régalez ?,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.25,corrigee automatiquement; faible confiance de l'alignement
+1625.22,1625.94,Sujet,"Ah, oui.",parole,0.02,,0.18,faible confiance de l'alignement
+1636.86,1642.44,Sujet,Le sens des émotions et des ressorties des gens.,parole,1.77,phrase:SPEAKER_01->SPEAKER_00,0.57,corrigee automatiquement
+1642.5,1646.34,Sujet,Et de les jouer en tant qu'acteurs ?,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.37,corrigee automatiquement; faible confiance de l'alignement
+1651.28,1651.72,Sujet,Pourquoi pas,parole,0.04,,0.4,faible confiance de l'alignement
+1652.62,1652.64,Psy,?,parole,0.9,,0.08,faible confiance de l'alignement
+1652.72,1653.9,Psy,Y a des têtes de cinéma.,parole,0.08,,0.37,faible confiance de l'alignement
+1667.05,1669.08,Sujet,Il a dit oui.,parole,0.89,,0.33,faible confiance de l'alignement
+1669.14,1671.86,Sujet,"Et il s'est regardé une belle vie, vous comprenez, quoi.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.36,corrigee automatiquement; faible confiance de l'alignement
+1676.5,1682.93,Sujet,"c'est vrai qu'à l'époque, c'était un peu plus, dans les années 50-60, c'était beaucoup plus libertaire qu'aujourd'hui.",parole,0.02,,0.37,faible confiance de l'alignement
+1686.1,1686.72,Psy,c 'est vrai,parole,3.17,relu_isole (avant : C'est vrai.),,corrigee automatiquement
+1688.49,1690.13,Psy,Vous auriez aimé être à cette époque,parole,0.02,,0.39,faible confiance de l'alignement
+1691.11,1691.13,Sujet,?,parole,0.98,,0.14,faible confiance de l'alignement
+1691.15,1692.58,Sujet,"Moi, pendant les Trente Glorieuses, oui.",parole,0.02,,0.24,faible confiance de l'alignement
+1699.62,1699.94,Sujet,ouais.,interjection,1.18,,0.35,faible confiance de l'alignement
+1699.96,1701.92,Psy,De ministre ?,parole,0.02,phrase_courte:SPEAKER_00->SPEAKER_01,0.3,corrigee automatiquement; faible confiance de l'alignement
+1701.96,1702.06,Sujet,Hein,parole,0.04,,0.14,faible confiance de l'alignement
+1701.99,1702.45,Psy,ministre,parole,0,relu_isole (avant : De ministre ?),,corrigee automatiquement
+1770.63,1773.97,Sujet,"bon, moi, mes sous, je préfère les stocker que les mettre en bourse.",parole,0,rattrape,,corrigee automatiquement
+1774.47,1776.95,Sujet,"Parce que la mort, c 'est montant et fluctuant.",parole,0.5,rattrape,,corrigee automatiquement
+1778.93,1780.15,Sujet,'est un jeu dangereux parce que...,parole,1.97,rattrape,,corrigee automatiquement
+1780.87,1783.33,Sujet,"Quand les taxes remontent, ça va, le monde c 'est de l 'argent.",parole,0.72,rattrape,,corrigee automatiquement
+1799.65,1800.51,Psy,C 'est qui tout douche ?,parole,0,relu_isole (avant : C'est qui tout double.),,corrigee automatiquement
+1801.06,1804.62,Sujet,"Ah oui, c'est vraiment qui tout double, oui.",parole,0.55,,0.3,faible confiance de l'alignement
+1807.12,1808.74,Psy,Vous jouez au casino ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.3,corrigee automatiquement; faible confiance de l'alignement
+1808.82,1811.46,Sujet,"Ah non, je n'ai jamais joué au casino, non, non.",parole,0.08,,0.35,faible confiance de l'alignement
+1815.49,1816.67,Sujet,"ici, j'ai cru apercevoir.",parole,0.04,,0.35,faible confiance de l'alignement
+1819.61,1823.64,Sujet,Prendre la place.,parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.42,corrigee automatiquement
+1835.73,1837.19,Psy,Vous faisiez quoi dans le travail ?,parole,0,relu_isole (avant : Vous faisiez quoi comme travail ?),,corrigee automatiquement
+1838.58,1845.92,Sujet,"Plusieurs centres de petits boulots, pour pouvoir me mettre terre à flot, J'ai aussi touché l'assurance chômage, aussi,",parole,1.39,phrase:SPEAKER_01->SPEAKER_00,0.37,corrigee automatiquement; faible confiance de l'alignement
+1847.44,1849.16,Sujet,"hum,",interjection,1.52,,0.25,faible confiance de l'alignement
+1891.08,1891.26,Sujet,"hum,",interjection,0.02,,0.32,faible confiance de l'alignement
+1898.01,1900.42,Sujet,"Tout est calculé au millimètre près, quoi.",parole,6.75,,0.35,faible confiance de l'alignement
+1900.28,1901.74,Psy,Vous avez votre petite reine ici.,parole,0,relu_isole (avant : Vous avez votre petit train de vie.),,corrigee automatiquement
+1905.34,1905.8,Psy,Qui roule,parole,0.04,phrase_courte:SPEAKER_00->SPEAKER_01,0.37,corrigee automatiquement; faible confiance de l'alignement
+1908.12,1909.34,Psy,correctement.,parole,2.32,phrase_courte:SPEAKER_00->SPEAKER_01,0.38,corrigee automatiquement; faible confiance de l'alignement
+1913.65,1915.87,Sujet,"Par contre, on y fait des erreurs, l'administration, ils en font, hein.",parole,0.02,,0.25,faible confiance de l'alignement
+1916.7,1919.8,Psy,Je vais me déculper à ma mère Oui voilà,parole,0.83,"relu_isole (avant : Ah, eux, ils roulent pas la même manière.)",,corrigee automatiquement
+1919.64,1920.22,Sujet,il y avait un ennemi.,parole,0,rattrape,,corrigee automatiquement
+1923.18,1925.46,Sujet,"Moi, je les critique pas, mais parfois, ils font des erreurs.",parole,0.04,,0.24,faible confiance de l'alignement
+1966.0,1981.21,Sujet,"dans l'administration, dans les écoles, les collèges, les lycées, les hautes écoles, tout ça, donc, l'État a un budget grâce au peuple qui paye les impôts.",parole,1.2,phrase:SPEAKER_01->SPEAKER_00,0.56,corrigee automatiquement
+2013.12,2014.84,Sujet,"Oui, c'est vrai.",parole,0.89,phrase:SPEAKER_01->SPEAKER_00,0.45,corrigee automatiquement
+2020.78,2022.68,Sujet,"C'est, je ne sais pas.",parole,0.02,,0.35,faible confiance de l'alignement
+2022.7,2023.14,Sujet,Mais je pense,parole,0.02,,0.3,faible confiance de l'alignement
+2026.0,2026.02,Sujet,?,parole,0.02,,0.04,faible confiance de l'alignement
+2026.04,2029.65,Sujet,"Oui, oui, oui, oui, oui.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.24,corrigee automatiquement; faible confiance de l'alignement
+2034.65,2036.91,Psy,"Oui, parce que vous avez fait des études dans votre domaine.",parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.31,corrigee automatiquement; faible confiance de l'alignement
+2138.98,2139.36,Sujet,Sacrée évolution.,parole,0.02,,0.06,faible confiance de l'alignement
+2143.6,2144.18,Sujet,"Ça aussi, c'est de la",parole,0.06,,0.18,faible confiance de l'alignement
+2158.29,2159.39,Sujet,"Parce que parfois, il y a des produits...",parole,0.02,,0.28,faible confiance de l'alignement
+2160.0,2160.94,Sujet,"Ils sont jetés comme ça,",parole,0.61,,0.3,faible confiance de l'alignement
+2167.63,2170.15,Psy,"Hum, un gâchis.",parole,0.12,phrase_courte:SPEAKER_00->SPEAKER_01,0.47,corrigee automatiquement
+2170.21,2173.61,Sujet,"Il y a un gâchis, voilà, il y a un gâchis.",parole,0.06,,0.27,faible confiance de l'alignement
+2173.63,2176.72,Sujet,"Moi, mes desserts, ils me durent trois jours parfois.",parole,0.02,,0.36,faible confiance de l'alignement
+2181.41,2182.25,Psy,C 'est plutôt gourmand.,parole,0,relu_isole (avant : C'est plutôt gourmand.),,corrigee automatiquement
+2182.94,2183.14,Sujet,"Ah,",interjection,0.69,,0.32,faible confiance de l'alignement
+2183.2,2186.82,Sujet,"oui, je suis un fin culinaire, moi, j'aime bien ranger.",parole,0.06,,0.34,faible confiance de l'alignement
+2188.32,2188.78,Psy,"Sucré,",parole,1.5,"relu_isole (avant : Sucré, salé ?)",,corrigee automatiquement
+2188.78,2189.22,Sujet,salé.,parole,-0.0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+2188.78,2189.24,Psy,savé.,parole,0,"relu_isole (avant : Sucré, salé ?)",,chevauche l'autre voix; corrigee automatiquement
+2191.26,2192.76,Psy,Mélangé ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.43,corrigee automatiquement
+2217.61,2230.03,Sujet,"Où là, ils font soit les beautés, soit le cassoulet, soit des viandes de terroir, tout ça, c'est un régal pour les yeux et pour le papy.",parole,1.22,,0.37,faible confiance de l'alignement
+2230.05,2231.19,Psy,"Tu comprends, oui.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.38,corrigee automatiquement; faible confiance de l'alignement
+2231.23,2236.05,Sujet,"Ah oui, j'adore manger, je me fais un gourmet, moi.",parole,0.04,,0.39,faible confiance de l'alignement
+2236.07,2237.79,Psy,Ça fait partie des plaisirs de la vie.,parole,0.02,,0.39,faible confiance de l'alignement
+2240.66,2241.6,Psy,Comme écouter la grenade.,parole,0.02,,0.36,faible confiance de l'alignement
+2244.65,2260.63,Sujet,"Ensuite, les boissons, les vins, tout ce que je connais, les oenologues, tout ça, les spiritueux, les vins de grande table, les vins qui, il y a 500 ans, 700 ans, ça coûte un prix d'or, mais...",parole,3.05,,0.38,faible confiance de l'alignement
+2269.86,2270.28,Sujet,"Un peu, oui.",parole,0.04,,0.33,faible confiance de l'alignement
+2303.01,2304.77,Sujet,D'accord.,interjection,0.45,,0.3,faible confiance de l'alignement
+2304.79,2307.9,Sujet,"Pourtant, j'ai souvenir se couche que,",parole,0.02,rattrape,0.42,corrigee automatiquement
+2307.9,2310.48,Sujet,"à 23 heures, mais on est obligé de se réveiller à 6 heures.",parole,0,rattrape,,corrigee automatiquement
+2311.64,2316.04,Sujet,"Ce qui fait 7 heures de sommeil seulement, alors qu 'il en faut 8 à 10 pour être bien...",parole,1.16,rattrape,,corrigee automatiquement
+2318.31,2321.09,Psy,pensais que c 'est les évolutions technologiques qui nous ont...,parole,2.27,rattrape,,corrigee automatiquement
+2322.02,2323.78,Psy,Squeezer comme ça du sommeil,parole,0.93,rattrape,,corrigee automatiquement
+2323.74,2324.82,Sujet,"Oui, c 'est ça.",parole,0,rattrape,,corrigee automatiquement
+2325.86,2326.84,Sujet,J 'ai un peu de va -et -voit.,parole,1.05,rattrape,,corrigee automatiquement
+2329.63,2331.05,Psy,"Pourtant, j 'ai souvenir que...",parole,2.78,rattrape,,corrigee automatiquement
+2362.28,2366.28,Sujet,"Bien dans sa tête, dans ses baskets, comme on dit.",parole,1.41,,0.34,faible confiance de l'alignement
+2366.3,2368.44,Sujet,"Moi, je mange bien, je me sens bien.",parole,0.02,,0.34,faible confiance de l'alignement
+2368.5,2376.01,Sujet,"En plus, j'ai une bonne tête, j'ai été chez le coiffeur, tous les matins, je me fais une petite beauté, et puis, voilà, ça vaut pour la journée,",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.33,corrigee automatiquement; faible confiance de l'alignement
+2376.03,2376.13,Psy,quoi.,parole,0.02,,0.0,faible confiance de l'alignement
+2376.15,2376.95,Psy,Tout pour être au cinéma.,parole,0.02,,0.18,faible confiance de l'alignement
+2385.04,2389.0,Sujet,"Il y a au moins trois films, non, il y a au moins six films par jour, donc...",parole,0.1,,0.3,faible confiance de l'alignement
+2396.47,2399.69,Psy,Et vous écortez votre sommeil ?,parole,0.06,phrase:SPEAKER_00->SPEAKER_01,0.38,corrigee automatiquement; faible confiance de l'alignement
+2399.71,2405.35,Sujet,"Parfois un peu, mais sinon, je dors bien, ouais.",parole,0.02,,0.36,faible confiance de l'alignement
+2405.39,2410.46,Sujet,"Alors, cette nuit-là, j'ai dormi que 4 heures, mais j'ai bien dormi.",parole,0.04,,0.34,faible confiance de l'alignement
+2418.58,2420.44,Sujet,"Et à vaquer, bon, j'ai pris mon petit-déj,",parole,0.04,,0.38,faible confiance de l'alignement
+2422.47,2426.78,Sujet,"Ensuite, là, ce midi, je vais manger à midi, ça va aller.",parole,2.03,,0.39,faible confiance de l'alignement
+2426.82,2432.8,Sujet,"Je te remets des petits films, il y aurait un petit concert, au cas où, ou des clips.",parole,0.04,,0.36,faible confiance de l'alignement
+2432.86,2442.28,Sujet,"Au cas où ils disparaissent, hum, comme ça.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.43,corrigee automatiquement
+2442.32,2443.34,Psy,Ils disparaissent quoi ?,parole,0.04,,0.22,faible confiance de l'alignement
+2443.36,2445.39,Psy,Vous me dites un petit concert au cas où ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.32,corrigee automatiquement; faible confiance de l'alignement
+2462.47,2463.41,Sujet,"Ouais,",parole,0.06,,0.35,faible confiance de l'alignement
+2463.49,2466.81,Psy,"c'est un univers, ça aussi.",parole,0.08,phrase:SPEAKER_00->SPEAKER_01,0.4,corrigee automatiquement; faible confiance de l'alignement
+2483.14,2484.12,Sujet,Je pensais qu'ils sont bien dans,parole,0.68,,0.33,faible confiance de l'alignement
+2484.16,2485.5,Psy,"leur basket, eux aussi.",parole,0.04,,0.36,faible confiance de l'alignement
+2490.71,2492.65,Sujet,"Et Rod Maiden, c'est un peu plus calme.",parole,0.06,,0.33,faible confiance de l'alignement
+2495.05,2495.39,Psy,J 'ai,parole,0,rattrape,,corrigee automatiquement
+2495.37,2503.84,Sujet,"C'est bien travaillé, hein, les mecs, ils travaillent leur accord, donc la tablature des guitares, ils le savent par cœur, du do aussi,",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.51,corrigee automatiquement
+2504.52,2506.7,Sujet,"parfois, il y a des solos géniaux, quoi.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.39,corrigee automatiquement; faible confiance de l'alignement
+2506.72,2508.48,Sujet,C'est ça qu'il faut avoir.,parole,0.02,,0.3,faible confiance de l'alignement
+2527.38,2529.3,Psy,"En plus, au Zénith, c'est quand même impressionnant.",parole,0.06,,0.2,faible confiance de l'alignement
+2529.38,2531.78,Sujet,"Oui, c'est impressionnant, oui.",parole,0.08,,0.28,faible confiance de l'alignement
+2585.44,2587.84,Psy,"Vous êtes, vous êtes jamais aimé à la musique ?",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.28,corrigee automatiquement; faible confiance de l'alignement
+2587.88,2590.22,Sujet,"Ah si, j'ai fait du piano pendant 20 ans.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.32,corrigee automatiquement; faible confiance de l'alignement
+2590.28,2590.92,Sujet,Ah,interjection,0.06,empreinte:SPEAKER_01->SPEAKER_00,0.86,corrigee automatiquement
+2590.98,2591.06,Sujet,oui.,parole,0.06,,0.02,faible confiance de l'alignement
+2591.08,2592.41,Sujet,J'ai chanté pendant 20 ans.,parole,0.02,,0.26,faible confiance de l'alignement
+2592.28,2594.36,Psy,"Du coup, sur le fait, je connaissais...",parole,0,"relu_isole (avant : Du coup, sur le fait, vous connaissez...)",,corrigee automatiquement
+2594.28,2594.9,Psy,n 'aurait plus servi.,parole,0,rattrape,,corrigee automatiquement
+2594.75,2596.17,Sujet,"Non, sur le fait, j'ai jamais appris.",parole,0,,0.12,faible confiance de l'alignement
+2596.19,2596.51,Psy,D'accord.,interjection,0.02,empreinte:SPEAKER_00->SPEAKER_01,0.21,corrigee automatiquement; faible confiance de l'alignement
+2621.66,2622.78,Sujet,dites ?,parole,0.32,,0.17,faible confiance de l'alignement
+2640.47,2640.96,Sujet,Si c'est pas à,parole,0.04,,0.24,faible confiance de l'alignement
+2643.02,2645.16,Sujet,faites quoi ?,parole,0.06,,0.36,faible confiance de l'alignement
+2655.96,2656.16,Sujet,Voilà.,parole,0.02,,0.13,faible confiance de l'alignement
+2664.8,2665.88,Psy,C 'est une bonne,parole,1.53,relu_isole (avant : C'est une bonne stratégie.),,corrigee automatiquement
+2665.72,2665.88,Sujet,belle,parole,0,rattrape,,corrigee automatiquement
+2665.88,2666.48,Psy,stratégie.,parole,0.0,relu_isole (avant : C'est une bonne stratégie.),,corrigee automatiquement
+2697.51,2698.07,Sujet,Donc on peut créer,parole,0.02,,0.22,faible confiance de l'alignement
+2701.93,2706.21,Sujet,C'est un bon système.,parole,0.02,,0.41,chevauche l'autre voix
+2705.07,2705.61,Psy,"bien, c 'est tout.",parole,0,rattrape,,chevauche l'autre voix; corrigee automatiquement
+2714.01,2714.93,Psy,"Après, c'est compliqué",parole,0.59,,0.19,faible confiance de l'alignement
+2714.9,2715.34,Sujet,'il perçait.,parole,0,rattrape,,corrigee automatiquement
+2714.95,2715.89,Psy,de percer.,parole,0,phrase:SPEAKER_00->SPEAKER_01,0.45,corrigee automatiquement
+2722.14,2722.48,Psy,"Ah,",interjection,0.06,regle:SPEAKER_00->SPEAKER_01,0.55,corrigee automatiquement
+2722.52,2726.6,Sujet,"ça, certes, mais ça, il faut le savoir, hein.",parole,0.04,,0.31,faible confiance de l'alignement
+2733.08,2734.23,Sujet,"Oui, je comprends.",parole,0.04,,0.36,faible confiance de l'alignement
+2734.25,2738.35,Sujet,"Voilà, je le sais.",parole,0.02,,0.33,faible confiance de l'alignement
+2739.72,2743.02,Psy,"Il y a des personnes qui recherchent la rue, hein.",parole,1.37,phrase:SPEAKER_00->SPEAKER_01,0.41,corrigee automatiquement
+2743.1,2750.12,Psy,"Il y a des personnes qui recherchent la vie dans la rue, hein.",parole,0.08,phrase:SPEAKER_00->SPEAKER_01,0.44,corrigee automatiquement
+2824.35,2824.71,Sujet,Merci,parole,0,rattrape,,corrigee automatiquement
+2824.37,2824.83,Psy,C 'était,parole,0,relu_isole (avant : C'était pas mon truc.),,corrigee automatiquement
+2824.71,2824.83,Sujet,de,parole,0,rattrape,,corrigee automatiquement
+2824.83,2825.01,Psy,pas,parole,0.0,relu_isole (avant : C'était pas mon truc.),,corrigee automatiquement
+2824.83,2825.03,Sujet,m,parole,0,rattrape,,corrigee automatiquement
+2825.01,2825.23,Psy,vite.,parole,0,relu_isole (avant : C'était pas mon truc.),,corrigee automatiquement
+2825.03,2825.27,Sujet,'avoir vu.,parole,0,rattrape,,corrigee automatiquement
+2836.07,2839.25,Psy,Mais qui recherchent encore et qui se reconvertissent après.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.42,corrigee automatiquement
+2839.12,2839.78,Sujet,"Tout à fait, oui.",parole,0,"relu_isole (avant : Tout à fait, oui, oui, oui.)",,corrigee automatiquement
+2844.37,2848.71,Psy,"Parce que des fois, on aboutit à un métier et on veut passer à autre chose.",parole,4.59,,0.39,faible confiance de l'alignement
+2848.73,2854.79,Sujet,"Tout à fait, les gens qui changent de travail, ça arrive, et qui réussissent, ça arrive.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.51,corrigee automatiquement
+2856.76,2857.02,Sujet,C'est vrai.,parole,0.04,,0.14,faible confiance de l'alignement
+2858.22,2861.06,Psy,"Enfin, c'est une philosophie de vie.",parole,1.21,,0.36,faible confiance de l'alignement
+2861.1,2865.45,Sujet,"Oui, alors, aussi, une philosophie de vie, oui, voilà, pour, euh, pouvoir décrocher ce qu'on veut.",parole,0.04,,0.3,faible confiance de l'alignement
+2865.51,2866.55,Sujet,"Oui, tout à fait.",parole,0.06,,0.34,faible confiance de l'alignement
+2874.79,2875.09,Sujet,D'accord.,interjection,0.02,empreinte:SPEAKER_01->SPEAKER_00,0.2,corrigee automatiquement; faible confiance de l'alignement
+2875.15,2878.14,Psy,À moins que vous ayez envie de discuter d'un trouvons,parole,0.06,rattrape,0.47,corrigee automatiquement
+2878.14,2878.5,Psy,que j 'en partis.,parole,0,rattrape,,corrigee automatiquement
+2879.1,2879.76,Sujet,"Non, non, ça va, c'est bon.",parole,0.04,,0.36,faible confiance de l'alignement
+2879.78,2883.58,Psy,"Bon, bah, super, bah, merci beaucoup, en tout cas, pour cette participation.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.47,corrigee automatiquement
+2884.08,2885.02,Psy,C'était très agréable.,parole,0.02,,0.27,faible confiance de l'alignement

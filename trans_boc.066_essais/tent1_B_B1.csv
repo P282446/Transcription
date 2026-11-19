@@ -1,0 +1,807 @@
+﻿debut_s,fin_s,locuteur,texte,type,pause_avant_s,correction,score_moyen
+0.67,7.36,Sujet,"Donc, j'ai un sujet, j'ai plusieurs sujets, mais j'ai hâte que ça commence.",parole,0,,0.38
+8.93,9.71,Sujet,'ai fait ce que je voulais.,parole,1.58,rattrape,
+39.86,48.28,Psy,"Voilà, c'est parti, ben, comme la dernière fois, je vous propose de raconter un vécu de votre choix.",parole,30.14,phrase:SPEAKER_00->SPEAKER_01,0.47
+48.3,51.06,Sujet,"Ben, alors, moi, j'ai parlé de Bernard Tapie.",parole,0.02,,0.49
+51.12,51.9,Psy,Oui.,parole,0.06,,0.59
+51.96,52.44,Sujet,Un grand mec.,parole,0.06,,0.57
+52.46,53.28,Psy,"Hum, hum.",interjection,0.02,regle:SPEAKER_00->SPEAKER_01,0.4
+53.3,56.35,Sujet,Parce qu'il a un cancer et il se bat comme un gros mec.,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.43
+56.41,68.05,Sujet,"Il a la voix un peu éraillée, là, quand j'ai vu sur BFM ou CNews, et il expliquait avec une poigne de fer son point de vue sur les hommes politiques et financiers.",parole,0.06,,0.69
+68.11,68.87,Sujet,Il était impressionnant.,parole,0.06,,0.16
+68.91,69.57,Psy,"Hum, hum.",interjection,0.04,regle:SPEAKER_00->SPEAKER_01,0.34
+69.98,76.86,Sujet,"Parce que le mec, Bernard Tapie, il est proche de la mort, mais il se bat comme un loup, comme un vrai mec.",parole,0.4,,0.48
+76.88,78.78,Sujet,C'est comme le loup de la,parole,0.02,,0.41
+78.66,78.92,Psy,'est comme le,parole,0,rattrape,
+78.82,81.76,Sujet,jungle.,parole,0,,0.47
+78.92,79.26,Psy,mot de,parole,0,rattrape,
+81.78,86.09,Sujet,"C'est un peu la jungle, c'est vrai, mais il a quand même des sentiments.",parole,0.02,,0.5
+86.17,87.13,Sujet,Il parle à cœur ouvert.,parole,0.08,,0.43
+88.61,96.59,Sujet,"Il parle, bon, certes, c'est un financier, c'est un homme d'action et de finance.",parole,1.48,,0.6
+97.42,101.46,Sujet,Mais il a un phrasé que j'aime.,parole,0.83,,0.65
+101.5,111.96,Sujet,"Moi, j'ai aimé la période où l'OM était en haut du sommet de la coupe de la Ligue européenne.",parole,0.04,,0.68
+111.98,115.57,Sujet,"L'OM, en 1993, a gagné une coupe d'Europe.",parole,0.02,,0.66
+115.63,116.25,Psy,Oui.,parole,0.06,,0.43
+116.31,118.45,Sujet,"Et là, il était en joie.",parole,0.06,,0.58
+118.55,121.01,Sujet,"Il a pété le feu pendant dix ans, le mec.",parole,0.1,,0.64
+121.03,122.87,Sujet,C'est ça qui est génial.,parole,0.02,,0.42
+122.91,125.85,Sujet,C'est les moments d'humanité que l'homme se révèle.,parole,0.04,,0.55
+127.03,128.97,Psy,Ça vous arrive d'être à cœur ouvert aussi ?,parole,1.18,,0.31
+129.03,132.87,Sujet,"Ouais, là, ouais, là, en ce moment, ouais.",parole,0.06,,0.28
+132.89,134.61,Sujet,Parce que c'est vrai.,parole,0.02,,0.74
+134.65,136.09,Sujet,"Dans la vérité, on gagne toujours.",parole,0.04,,0.77
+136.13,139.57,Psy,C'est une bonne qualité.,parole,0.04,,0.36
+139.6,140.38,Sujet,C'est une bonne qualité.,parole,0.02,,0.26
+140.76,142.16,Sujet,"Alors, j'ai mes qualités et mes défauts.",parole,0.38,,0.51
+143.7,144.34,Psy,Les défauts ?,parole,1.54,phrase:SPEAKER_00->SPEAKER_01,0.55
+144.36,152.48,Sujet,"Les défauts, c'est que parfois je suis trop têtu, parce que, mais c'est pas être têtu, c'est être persévérant.",parole,0.02,,0.48
+152.5,154.06,Sujet,Persévérer dans quelque chose.,parole,0.02,,0.61
+154.08,158.05,Sujet,"Bon, c'est vrai que quand une chose nous dépasse, On arrête.",parole,0.02,,0.62
+158.11,161.17,Sujet,"On se dit, ah, comment résoudre le problème ?",parole,0.06,,0.69
+161.21,179.59,Sujet,"Et là, on va chercher toutes les techniques, toutes les tactiques pour soit contourner le problème et ensuite, plus psychologiquement, plus finement, fin d'esprit, la finesse d'esprit et une grandeur d'âme.",parole,0.04,,0.69
+179.61,182.33,Sujet,"Regardez Emile Zola, Victor Hugo.",parole,0.02,,0.55
+182.35,183.01,Sujet,"Hum, hum.",interjection,0.02,,0.53
+183.38,186.48,Sujet,"Ils ont commencé petits, mais ils finissent maintenant, c'est des stars mondiales.",parole,0.37,,0.31
+187.87,187.99,Psy,Oui.,parole,1.38,,0.25
+188.01,188.83,Sujet,"C'est ça qui est génial,",parole,0.02,,0.32
+188.87,190.03,Psy,quoi.,parole,0.04,,0.61
+190.07,191.49,Psy,Peut-être pas toujours,parole,0.04,,0.35
+191.55,193.23,Sujet,pendant leur vécu.,parole,0.06,,0.34
+193.25,201.77,Sujet,"Ah, non, ils n'ont pas vécu dans l'opulence de l'argent, mais au niveau de l'esprit, ils étaient balèzes.",parole,0.02,,0.6
+202.49,204.77,Sujet,"Oui, c'est sûr.",parole,0.72,,0.31
+204.81,212.8,Sujet,"Et moi, je suis juste un auteur de film, bah, parfois, mes trucs, ça me fait froid dans le dos, parce que je fais des super productions et des productions françaises.",parole,0.04,,0.52
+214.12,219.13,Sujet,"J'ai terminé Planète Phénix, et j'ai envoyé ça à Pathé France.",parole,1.33,,0.59
+220.43,221.79,Psy,Ils vous ont répondu ?,parole,1.3,phrase:SPEAKER_00->SPEAKER_01,0.45
+221.81,223.45,Sujet,"Pas encore, j'attends.",parole,0.02,,0.63
+223.47,228.65,Sujet,"Ça fait 4 mois que je l'ai envoyé, j'attends la réponse d'un oui ou d'un non, ou un négocié.",parole,0.02,,0.55
+228.67,232.02,Psy,C'est qu'ils sont partis sur notre planète.,parole,0.02,,0.35
+232.06,250.19,Sujet,"En fait, c'est l'histoire d'un Phénix pris sur une planète, et il est répertorié comme animal dans une coquille, et il est clos, De cet oeuf, et après, il donne du plaisir à toute une équipe de chercheurs.",parole,0.04,,0.72
+250.23,260.98,Sujet,"En fait, c'est un film sur les chercheurs astronomiques, spatiales, et de recherche de vie extérieure à la Terre.",parole,0.04,,0.7
+261.04,267.96,Sujet,"Et à la fin, il nomme la constellation qu'ils ont découvert à 8 millions d'années-lumière, la constellation du Phénix.",parole,0.06,,0.67
+267.98,272.76,Sujet,"Parce que, justement, ils ont partagé un moment de vie avec l'animal.",parole,0.02,,0.77
+274.12,275.18,Sujet,C'est ça que je raconte.,parole,1.35,,0.47
+275.22,288.07,Sujet,"C'est un film d'anticipation, donc il n'y a pas de guerre, il n'y a pas de sang versé, il n'y a pas d'animosité, c'est un film de paix.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.55
+288.11,288.35,Psy,Voilà.,parole,0.04,,0.24
+288.41,289.69,Psy,Et ça vous apaise ?,parole,0.06,phrase:SPEAKER_00->SPEAKER_01,0.4
+289.75,294.83,Sujet,"Oui, ça m'apaise, ça me fait du bien, parce que toutes mes idées, je peux les mettre sur le clavier.",parole,0.06,,0.58
+294.85,298.19,Sujet,"Dès que j'ai une image en tête d'un film, je le mets sur le clavier.",parole,0.02,,0.6
+298.21,302.74,Sujet,"Parce que je sais qu'après cinq minutes, ça change, ça évolue.",parole,0.02,,0.56
+303.25,304.55,Psy,"Oui, effectivement.",parole,0.51,,0.33
+304.57,305.83,Sujet,Tout évolue dans la vie.,parole,0.02,,0.84
+305.85,311.21,Sujet,"Moi, je suis d'accord avec Charles Darwin, l'évolution des espèces, je suis tout à fait d'accord avec ça.",parole,0.02,,0.63
+311.23,313.85,Psy,Vous voulez qu'on les sélectionne pareil ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.25
+313.87,314.39,Psy,Comment ?,parole,0.02,,0.43
+314.41,315.53,Psy,La sélection aussi ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.62
+315.55,318.56,Sujet,"La sélection naturelle, oui, tout à fait, oui.",parole,0.02,,0.64
+318.62,326.8,Sujet,"Hommes-femmes, la monogamie, la polygamie, bon, ça, c'est deux choses différentes, mais chaque homme a droit à chaque femme.",parole,0.06,,0.57
+327.96,329.4,Sujet,"Et sur Terre, il y a plus de femmes que d'hommes.",parole,1.16,,0.45
+331.94,337.59,Sujet,"Je ne sais pas, c'est peut-être une, c'est une hypothèse, là, franchement, c'est une hypothèse.",parole,2.55,,0.36
+337.63,359.38,Sujet,"Mais c'est selon Michel Sardou, la chanson, être une femme, dans un voyage en absurdi, comme il le dit au départ de sa chanson, et là, il est intéressant, parce qu'il se dit, les femmes peuvent être au poste les plus affluents, tel que le président de la République,",parole,0.04,,0.64
+361.38,362.14,Sujet,"Les femmes d'affaires,",parole,2.0,,0.26
+363.42,388.46,Sujet,"il y en a des femmes d'affaires, il y en a, il y en a très peu, mais il y en a, qui savent dégoter les bons commerces, il y a des femmes qui créent leur association, il y a des femmes qui créent des petites boutiques de parfumerie, de lingerie, c'est, on a un monde qui est clos en ce moment, le 21ème siècle est clos du futur qu'on aura peut-être dans 1000 ans.",parole,1.28,phrase:SPEAKER_01->SPEAKER_00,0.53
+388.48,388.78,Sujet,"Hum, hum.",interjection,0.02,empreinte:SPEAKER_01->SPEAKER_00,0.2
+391.01,398.11,Sujet,"Je sais pas, c'est une théorie comme une autre, mais là, les fondements de l'informatique nous poussent à les voir plus grands.",parole,2.23,,0.53
+398.13,407.68,Sujet,"Déjà, un, astronomiquement, dans l'espace, avec les exoplanètes qu'on découvre, tous les systèmes solaires, toutes les galaxies qu'on a vues avec Hubble, les images sont merveilleuses.",parole,0.02,,0.71
+407.7,415.08,Sujet,"Vous allez sur Wikipédia ou Wallpaper, l'univers, ça vous offre des images d'une qualité extraordinaire.",parole,0.02,,0.59
+415.14,419.02,Sujet,"Et moi, en PC, je stocke toutes les images qu'il y a sur la Terre et dans l'espace.",parole,0.06,,0.68
+420.25,431.74,Sujet,"Plus les films, Marvel, Pathé, Universal, je ne sais pas, c'est des meilleurs, les images sont super belles.",parole,1.23,,0.48
+431.76,435.22,Psy,Vous voyagez dans ces images ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.53
+435.24,441.85,Sujet,"J'avais voyagé, oui, mais il faut aussi garder les pieds sur terre, il faut se dire qu'à midi on mange et que le soir on se couche.",parole,0.02,,0.45
+441.95,443.24,Sujet,"J'entends, J oui,",parole,0.1,rattrape,0.07
+442.83,444.55,Psy,d'accord.,interjection,0,empreinte:SPEAKER_00->SPEAKER_01,0.57
+443.24,444.77,Sujet,'entends Voilà.,parole,0,rattrape,0.2
+447.81,452.95,Psy,"Et, après, vous pensez pas que, enfin, la société actuelle, il y a quand même beaucoup de féminisme, tout ça",parole,3.03,,0.43
+453.49,453.51,Sujet,?,parole,0.54,,0.15
+453.59,458.43,Sujet,"Oui, il y a un retour à la féminité, mais il y a aussi des mecs qui sont mecs, hein.",parole,0.08,,0.49
+458.47,461.29,Sujet,Oui.,parole,0.04,,0.51
+461.31,471.14,Sujet,"Moi, je peux dire, parfois, c'est un peu misogyne, j'aimerais pas être une femme qui dit, dis donc, celui-là, qu'est-ce qu'il nous fait, là ?",parole,0.02,,0.51
+471.16,473.44,Sujet,"De quoi il parle, ce salopard ?",parole,0.02,,0.49
+473.48,477.1,Sujet,"Donc, non, j'ai toujours cherché le juste milieu, moi.",parole,0.04,,0.65
+477.83,480.21,Psy,Dans quel contexte ?,parole,0.73,phrase:SPEAKER_00->SPEAKER_01,0.61
+480.23,481.57,Sujet,Amoureux.,parole,0.02,,0.3
+481.59,491.44,Sujet,"Parce que j'ai eu déception, j'ai eu aussi droit à des relations sexuelles.",parole,0.02,,0.43
+491.5,497.56,Sujet,"Avec vous, c'est juste des entretiens, mais ça révèle de la vie privée.",parole,0.06,,0.81
+497.58,502.06,Sujet,"Vu que c'est pour la recherche, tant mieux, ça peut en faire aider.",parole,0.02,,0.44
+502.08,502.9,Sujet,C'est positif.,parole,0.02,,0.49
+505.98,509.56,Psy,C'est important qu'il y ait des rapports hommes-femmes.,parole,3.08,phrase:SPEAKER_00->SPEAKER_01,0.38
+509.6,511.88,Sujet,"Ouais, voilà, il y a toujours des rapports hommes-femmes.",parole,0.04,,0.26
+511.94,514.56,Sujet,Et c'est ça qui est difficile.,parole,0.06,,0.69
+514.6,519.1,Sujet,"Parce que parfois, c'est deux atomes crochus qui s'accordent bien.",parole,0.04,,0.63
+519.12,523.21,Sujet,"Parfois, c'est deux atomes crochus que ça se bataille, ça chimaille.",parole,0.02,,0.55
+523.27,529.85,Sujet,"On voit ça avec les séries telles « Fais pas ci, fais pas ça » avec Guillaume de Tonkenek.",parole,0.06,,0.65
+529.87,530.89,Sujet,"C'est excellent, ça.",parole,0.02,,0.57
+530.91,532.87,Sujet,"Franchement, c'est amusant.",parole,0.02,,0.46
+532.89,534.62,Sujet,Parce que ce qu'il y a bien dans...,parole,0.02,,0.37
+535.32,542.4,Sujet,"Dans le métier artistique, du cinéma, de la télé et du théâtre, c'est qu'on joue avec les émotions.",parole,0.7,,0.7
+542.42,551.36,Sujet,"Les musiques de Vivaldi, de Mozart, c'est un truc d'émotion, quelque chose qui nous dépasse, de grand qui nous dépasse.",parole,0.02,,0.64
+551.23,552.45,Psy,"Des fois, la sienne n 'est pas...",parole,0,"relu_isole (avant : Des fois, la scène n'est pas très recherchée.)",
+554.28,555.36,Sujet,Tout dépend,parole,1.83,,0.49
+555.02,555.76,Psy,recherché.,parole,0,rattrape,
+555.38,557.02,Sujet,"des scènes, tout dépend des théâtres.",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.34
+557.04,562.26,Psy,"Pour autant, le son, en fond, nous fait vibrer.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.44
+562.28,564.84,Sujet,"Le son aussi nous fait vibrer, tout à fait.",parole,0.02,,0.58
+565.26,568.3,Sujet,"La stéréo, ça a été fait à l'exprès.",parole,0.42,,0.6
+568.34,577.25,Sujet,"L'aquadoréphonique qu'a inventé mon père, c'est génial ce qu'il a fait, parce que c'est deux voix, donc deux sons différents qui arrivent dans les oreilles.",parole,0.04,,0.5
+577.14,579.12,Psy,Vous savez pas pourquoi ça dit ça sur notre cerveau?,parole,0,relu_isole (avant : Vous ne savez pas pourquoi ça dit ça sur notre cerveau ?),
+580.47,581.33,Sujet,"Hum,",interjection,1.35,,0.59
+581.35,581.93,Sujet,comment dire,parole,0.02,,0.55
+583.55,583.63,Sujet,?,parole,1.62,,0.68
+583.65,585.53,Sujet,"Non, ça peut le faire évoluer.",parole,0.02,,0.4
+585.57,586.97,Psy,"Hum, hum.",parole,0.04,,0.45
+586.99,588.42,Sujet,"Dans le bon sens, c'est-à-dire,",parole,0.02,,0.85
+589.96,591.2,Sujet,"hum,",interjection,1.54,,0.55
+591.22,592.94,Sujet,"vers une meilleure perception de lui,",parole,0.02,,0.65
+594.04,596.01,Sujet,pour travailler les L'audition.,parole,1.1,,0.43
+596.03,596.35,Sujet,Qu'il y en ait,parole,0.02,,0.05
+596.37,600.85,Psy,une qui perceve quelque chose et l'autre autre,parole,0.02,,0.44
+600.87,600.99,Sujet,chose.,parole,0.02,,0.04
+601.01,602.47,Sujet,"Voilà, c'est ça, voilà.",parole,0.02,,0.36
+602.49,604.47,Sujet,"Peut-être deux sons, trois sons différents.",parole,0.02,,0.57
+604.49,609.12,Sujet,"Regardez les, les, les, les orchestres symphoniques.",parole,0.02,,0.59
+609.18,610.08,Sujet,Oui.,parole,0.06,,0.38
+610.14,636.12,Sujet,"Il y a de tout, il y a des violons, des contrebasses, des flûtes, des tippanis, et les tambours, tout ça, il y a, tout ça, c'est, ça ensemble, Et selon les, selon la musique, avec, comment on appelle ça la, la, pas la musicothérapie, mais,",parole,0.06,,0.57
+636.32,640.22,Psy,"hum,",interjection,0.2,regle:SPEAKER_00->SPEAKER_01,0.8
+640.24,644.12,Sujet,"pour apprendre la musique, il faut savoir lire la, une",parole,0.02,,0.61
+643.92,644.18,Psy,L,parole,0,rattrape,
+644.16,646.55,Sujet,"partition,",parole,0,phrase:SPEAKER_01->SPEAKER_00,0.69
+644.18,644.46,Psy,'heure.,parole,0,rattrape,
+645.45,646.05,Psy,Merci.,parole,0,rattrape,
+646.61,650.31,Sujet,"une partition, voilà, savoir lire une partition, et,",parole,0.06,,0.59
+650.43,650.79,Sujet,"hum,",interjection,0.12,,0.34
+652.34,653.4,Sujet,"Le solfège, voilà.",parole,1.56,,0.34
+653.42,657.15,Sujet,"Celui qui apprend le solfège des flûtes, il apprend des flûtes.",parole,0.02,,0.51
+657.17,676.95,Sujet,"Le piano, il y a trois, il y a le fa, le la, et la corde, une dièse, une bécard, mais la ligne des basses, voilà, sur le piano.",parole,0.02,,0.7
+676.97,685.27,Sujet,"Vous avez tout le côté gauche, c'est la basse, et tout le côté droit, C'est Fa ou La, la clé de Fa et la clé de La, voilà, c'est ça.",parole,0.02,,0.61
+686.35,687.14,Sujet,Voilà.,parole,1.08,,0.45
+687.46,689.48,Psy,"Vous y connaissez bien, la musique ?",parole,0.32,phrase:SPEAKER_00->SPEAKER_01,0.36
+689.5,691.0,Sujet,"Oui, ça va, oui, j'ai une bonne",parole,0.02,,0.43
+693.48,693.64,Psy,oreille.,parole,2.48,,0.2
+693.66,695.94,Psy,"Oui, mais c'est des pédales, je crois, au niveau du piano, là-bas.",parole,0.02,,0.28
+695.98,701.84,Sujet,"Oui, tout à fait, pour la durée de la note, ou la courte durée.",parole,0.04,,0.77
+701.9,704.36,Sujet,"Oui, c'est...",parole,0.06,,0.41
+704.42,714.09,Sujet,"En plus, là, à la télé, il y a des superbes concerts, il y a des superbes clips, il y a une musique que j'adore en ce moment, c'est The Weeknd, Bland and Light.",parole,0.06,,0.48
+713.83,714.19,Psy,Je,parole,0,rattrape,
+714.15,714.37,Psy,"Hum,",interjection,0,,0.49
+714.19,715.13,Psy,"crois que je l 'ai connu, oui.",parole,0,rattrape,
+716.17,721.21,Sujet,"je crois que je la connais, mais, mais, je",parole,1.04,,0.52
+721.33,721.49,Psy,"Non,",parole,0.12,rattrape,
+721.35,721.53,Sujet,suis,parole,0,,0.43
+721.49,721.65,Psy,"non,",parole,0,rattrape,
+721.57,721.67,Sujet,pas,parole,0,,0.33
+721.73,721.81,Psy,"non,",parole,0.06,rattrape,
+721.73,721.81,Sujet,en,parole,0,,0.34
+721.87,721.99,Psy,non.,parole,0.06,rattrape,
+722.43,725.55,Sujet,train de...,parole,0.45,,0.56
+725.61,727.18,Psy,"Oui, je crois que...",parole,0.06,phrase:SPEAKER_00->SPEAKER_01,0.32
+727.2,734.2,Sujet,"C'est excellent, le synthé, il est excellent, moi, moi qui adore les synthés, les touches, les rythmiques, tout ça, c'est génial.",parole,0.02,,0.38
+734.22,738.28,Sujet,"Franchement, là, ils ont fait une bébite tout comme Clara Gianni avec la grenade.",parole,0.02,,0.49
+738.32,738.42,Sujet,Oui.,parole,0.04,,0.13
+740.1,742.2,Sujet,"Ce titre-là, il est merveilleux.",parole,1.68,,0.33
+742.24,747.62,Sujet,J'écoute une fois par jour pour me faire,parole,0.04,,0.56
+747.27,747.75,Psy,J 'ai,parole,0,rattrape,
+747.64,748.4,Sujet,plaisir.,parole,0,,0.5
+747.75,748.77,Psy,"eu vie, j 'ai",parole,0,rattrape,
+748.42,749.11,Sujet,J'allume,parole,0,,0.51
+748.77,749.05,Psy,eu vie.,parole,0,rattrape,
+749.27,766.7,Sujet,"ma b-box 360, je mets le CD, je fais lire le CD, ensuite, ça est tout seul, donc ça va à la première piste, et la première piste, c'est la grenade, et ensuite, j'y mets l'image avec des fractales qui viennent comme ça.",parole,0.16,phrase:SPEAKER_01->SPEAKER_00,0.57
+766.72,769.54,Sujet,"Ça tourne en rond, soit il y a des blocs de cubes qui tournent",parole,0.02,,0.45
+770.57,775.87,Sujet,"Alors, 360 degrés, il y a des images que vous collez à la musique, c'est génial.",parole,1.03,,0.5
+775.91,778.99,Psy,Vous vous immergez ?,parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.31
+779.01,780.73,Sujet,C'est fait par la machine.,parole,0.02,,0.63
+780.75,783.86,Sujet,C'est généré par la machine.,parole,0.02,,0.6
+783.88,786.2,Sujet,"Franchement, c'est le top.",parole,0.02,,0.43
+786.24,789.38,Sujet,"En plus, mon frère m'a offert aussi Toto à Amsterdam.",parole,0.04,,0.49
+790.94,794.98,Sujet,Il y a un solo sur Africa en bongo.,parole,1.56,,0.56
+795.06,795.6,Sujet,"Oh, ça cartonne.",parole,0.08,,0.34
+795.62,798.4,Sujet,"Pendant cinq minutes, le mec, il joue.",parole,0.02,,0.68
+798.42,799.18,Sujet,C'est excellent.,parole,0.02,,0.67
+801.24,805.22,Sujet,"En plus, moi, certaines, je les ai visitées, avec ma mère.",parole,2.06,,0.32
+805.3,807.84,Sujet,On a fait de l'Europe,parole,0.08,,0.36
+807.66,808.1,Psy,'est une chouette,parole,0,rattrape,
+807.88,808.12,Sujet,avec ma,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.35
+808.1,808.32,Psy,"ville,",parole,0,rattrape,
+808.16,808.26,Sujet,mère.,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.34
+808.28,808.52,Psy,C'est ouais.,parole,0,rattrape,0.35
+809.36,810.14,Sujet,"une chouette ville, ouais.",parole,0.84,,0.18
+810.16,812.82,Sujet,"Ouais, c'est trop chouette.",parole,0.02,,0.18
+812.84,813.96,Sujet,"Il y a, il y a les canaux, on les a faits.",parole,0.02,,0.29
+814.04,816.44,Sujet,"Ma mère, elle s'est dit, qu'est-ce qu'on fait, Cyril, maintenant ?",parole,0.08,,0.31
+816.46,818.67,Sujet,"Je dis pas, on fait les canaux, non ?",parole,0.02,,0.39
+818.69,829.55,Sujet,"Moi, j'étais là, il faudrait rhabiller tous les canaux, toutes les maisons, j'étais avec mon téléphone, porte, dans un Kodak, et je faisais rhabiller tout, c'est merveilleux, ça n'a pas changé depuis 200 ans.",parole,0.02,,0.54
+830.89,835.25,Sujet,"Mais c'est merveilleux, c'est coloré, c'est...",parole,1.34,phrase:SPEAKER_01->SPEAKER_00,0.42
+835.16,836.34,Psy,"Oui, c 'est une évidente aussi.",parole,0,"relu_isole (avant : Oui, c'est une île vivante aussi.)",
+836.67,837.83,Sujet,"C'est une île très vivante, oui.",parole,0.33,,0.29
+837.85,837.89,Sujet,Il,parole,0.02,,0.01
+837.91,838.87,Psy,y,parole,0.02,,0.96
+838.93,840.59,Sujet,a aussi le tramway qui existe encore,parole,0.06,,0.5
+840.63,841.75,Psy,là-bas.,parole,0.04,,0.42
+841.81,842.7,Psy,Exact.,parole,0.06,,0.29
+842.72,849.1,Sujet,"Tout comme en France, là, le tramway, il y en a quelques-uns.",parole,0.02,,0.32
+849.16,865.88,Sujet,"Et on a fait aussi Venise, la place Saint-Marc, le pont des Soupillards, avec un pont juste en face, Enfin, de la prison en haut, au jugement, c'est super beau.",parole,0.06,,0.54
+865.84,866.82,Psy,que c 'est un charme poétique,parole,0,relu_isole (avant : Il paraît que ça a un charme poétique aussi.),
+866.54,867.18,Sujet,point d 'incrédulité.,parole,0,rattrape,
+866.82,867.16,Psy,aussi.,parole,0,relu_isole (avant : Il paraît que ça a un charme poétique aussi.),
+867.57,870.51,Sujet,"C'est très poétique, oui.",parole,0.39,,0.35
+871.13,871.51,Sujet,Il est colique.,parole,0.62,,0.01
+871.55,880.95,Sujet,"Ah, ben, pour ceux qui aiment flâner et rien faire pendant une demi-heure, vous marchez sur la place Saint-Marc, vous allez le dépasser, alors il y a un tas de pigeons, mais ça, c'est normal.",parole,0.04,,0.49
+880.99,882.02,Sujet,"Ensuite, la montée des eaux.",parole,0.04,,0.67
+882.62,894.76,Sujet,"C'est critique, aussi, parce que là, parfois, ça inonde tout, et tout le monde marche sur la petite planche, excusez-moi, j'ai pas passé, non, tu vas attendre, t'es pas tout seul sur la planche.",parole,0.6,,0.55
+894.78,895.6,Psy,"C'est risqué, hein",parole,0.02,,0.22
+895.53,895.73,Sujet,C,parole,0,"relu_isole (avant : C'est risqué, il y a des jours risqués.)",
+895.62,895.64,Psy,?,parole,0,phrase:SPEAKER_00->SPEAKER_01,0.04
+895.73,898.03,Sujet,"'est risqué, il y a des jours risqués.",parole,0.0,"relu_isole (avant : C'est risqué, il y a des jours risqués.)",
+900.9,902.14,Psy,"Vous êtes pas tombés, là ?",parole,2.87,phrase:SPEAKER_00->SPEAKER_01,0.33
+902.16,907.17,Sujet,"Non, non, ça va, nous, on est allés quand il n'y avait pas de période où il y avait des grandes eaux.",parole,0.02,,0.3
+907.19,910.35,Psy,"Ça arrive vite, hein.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.37
+912.06,914.24,Sujet,"Oui, ça arrive très vite, oui.",parole,1.71,,0.39
+914.26,917.62,Sujet,"C'est comme en Normandie, quand la mer monte, ça va à une vitesse au galop.",parole,0.02,,0.39
+918.44,921.22,Psy,"Effectivement, oui.",parole,0.82,,0.42
+921.41,928.73,Psy,"Ah, c'est vraiment dangereux, ces périodes-là.",parole,0.18,phrase:SPEAKER_00->SPEAKER_01,0.3
+928.75,929.05,Psy,Bon.,parole,0.02,,0.35
+929.11,931.17,Psy,"Et, hum, à Amsterdam, vous avez visité quoi d'autre ?",parole,0.06,phrase:SPEAKER_00->SPEAKER_01,0.19
+931.19,935.53,Sujet,"Alors, on a visité aussi le musée Guggenheim.",parole,0.02,,0.57
+935.55,938.95,Sujet,"C'est super beau, l'architecture est super belle.",parole,0.02,,0.5
+939.01,944.68,Sujet,"Ensuite, bien sûr, il y a plusieurs salles Et j'ai vu un vrai Van Gogh de mes propres yeux.",parole,0.06,,0.46
+944.7,946.8,Sujet,Vous imaginez ?,parole,0.02,,0.28
+946.88,948.88,Sujet,"Ah,",parole,0.08,,0.66
+948.9,949.98,Psy,"c'était notre rendez-vous, peut-être ?",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.19
+950.02,951.78,Sujet,"Oui, c'était notre rendez-vous, oui.",parole,0.04,,0.22
+951.8,954.32,Psy,"Bon, je vais le laisser.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.46
+954.34,955.06,Sujet,D'accord.,parole,0.02,,0.27
+955.08,956.04,Sujet,Et c'est super beau.,parole,0.02,,0.24
+956.06,958.33,Sujet,J'ai vu des tournesols en vrai.,parole,0.02,,0.6
+959.07,963.71,Sujet,"Alors ça, ça, ça, ça marque à vie.",parole,0.74,,0.54
+964.26,965.7,Psy,"Oui, là, il y a un peu de temps sur place.",parole,0.55,"relu_isole (avant : Oui, il avait un pinceau particulier.)",
+965.89,966.11,Psy,"Ah,",interjection,0.19,empreinte:SPEAKER_00->SPEAKER_01,0.51
+966.15,967.83,Sujet,"oui, oui, oui.",parole,0.04,,0.39
+967.85,969.39,Sujet,"Ça, c'est clair, oui.",parole,0.02,,0.41
+972.3,973.6,Psy,Elle va pas redémarrer après ?,parole,2.9,phrase:SPEAKER_00->SPEAKER_01,0.25
+973.62,974.78,Sujet,"Si, ça va redémarrer.",parole,0.02,phrase_courte:SPEAKER_01->SPEAKER_00,0.37
+974.8,974.98,Sujet,Faut,parole,0.02,,0.42
+975.02,979.34,Psy,mieux peut-être l'arrêter avant que ça redémarre.,parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.53
+979.38,980.5,Psy,Je laisse y aller.,parole,0.04,,0.44
+980.54,980.82,Sujet,Merci.,parole,0.04,,0.58
+999.62,1000.6,Sujet,"Qu'est-ce que c'est,",parole,18.8,,0.39
+1000.42,1001.08,Psy,Regarde ce que,parole,0,rattrape,
+1000.96,1001.06,Sujet,moi,parole,0,,0.22
+1001.08,1001.18,Psy,tu,parole,0.0,rattrape,
+1001.12,1001.82,Sujet,?,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.96
+1001.18,1002.24,Psy,"as à rire, Aucun c 'est normal.",parole,0,rattrape,0.47
+1002.54,1003.76,Psy,"souci,",parole,0.31,,0.57
+1004.14,1005.54,Sujet,"ça arrive, c'est normal.",parole,0.38,,0.38
+1005.6,1006.15,Sujet,"Enfin,",parole,0.06,,0.52
+1006.21,1006.63,Psy,"au moins, vous",parole,0.06,,0.21
+1006.65,1007.95,Sujet,étiez sûr d'être à l'heure pour le,parole,0.02,,0.15
+1008.41,1009.15,Psy,rendez-vous.,parole,0.46,,0.38
+1009.19,1010.15,Psy,"Oui, oui, j'étais à l'heure, oui.",parole,0.04,,0.11
+1010.19,1011.67,Sujet,"Et toi, on avance souvent, hein ?",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.25
+1011.69,1012.17,Sujet,"Euh, là, je",parole,0.02,,0.37
+1012.25,1013.63,Psy,suis arrivé,parole,0.08,,0.53
+1013.65,1013.79,Sujet,à 9h.,parole,0.02,,0.11
+1013.81,1014.05,Sujet,"Ah, oui.",parole,0.02,,0.17
+1014.09,1014.61,Psy,Ça va.,parole,0.04,,0.57
+1014.65,1014.91,Psy,"Hum,",parole,0.04,,0.4
+1014.93,1015.09,Sujet,hum.,parole,0.02,,0.2
+1015.15,1018.59,Sujet,"En plus, c'est les vacances, donc il y a peu de bus, mais il y en a, quoi, ça va.",parole,0.06,,0.39
+1018.65,1019.25,Sujet,Ils sont à l'heure.,parole,0.06,,0.36
+1019.29,1020.19,Psy,"Oui, effectivement.",parole,0.04,phrase_courte:SPEAKER_00->SPEAKER_01,0.08
+1020.25,1026.82,Sujet,"Ah, ouais, et que sur Provence, ils sont une ponctualité, les bus, mais alors exceptionnels.",parole,0.06,,0.43
+1026.84,1027.48,Psy,C'est bien ?,parole,0.02,,0.17
+1027.84,1027.94,Sujet,"Ah,",interjection,0.36,,0.22
+1028.0,1029.08,Sujet,"oui, c'est bien, ça fait...",parole,0.06,,0.27
+1029.52,1033.43,Sujet,"Comme ça, quand il arrive à 42, on regarde tous le portable, il est 42, il est là.",parole,0.44,,0.32
+1033.49,1033.95,Sujet,"Ah, c'est parfait,",parole,0.06,,0.22
+1033.99,1034.25,Sujet,ouais.,interjection,0.04,,0.23
+1034.31,1034.41,Sujet,"Ah,",interjection,0.06,,0.34
+1034.81,1035.44,Psy,"c'est Oui,",parole,0.4,rattrape,0.29
+1035.39,1036.43,Sujet,vraiment,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.46
+1035.44,1036.14,Psy,"c 'est parfait, oui.",parole,0,rattrape,
+1036.51,1040.15,Sujet,nickel.,parole,0.08,,0.35
+1040.17,1040.93,Sujet,Ça va la posture ?,parole,0.02,,0.34
+1040.95,1042.02,Sujet,Je suis pas trop...,parole,0.02,,0.4
+1042.08,1043.68,Psy,"Euh, oui, oui, tout est bon.",parole,0.06,,0.28
+1043.7,1044.72,Sujet,Tout est bon ?,parole,0.02,,0.33
+1044.78,1046.32,Sujet,"Oui, parfait, parfait.",parole,0.06,,0.3
+1047.06,1048.46,Psy,Y a pas de blague ?,parole,0.74,,0.55
+1048.54,1049.5,Psy,"Non, je crois pas.",parole,0.08,,0.43
+1049.52,1049.84,Psy,D'accord.,parole,0.02,,0.22
+1049.86,1050.46,Sujet,Je verrai plus tard.,parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.23
+1050.48,1051.02,Psy,"Ah, d'accord.",interjection,0.02,empreinte:SPEAKER_00->SPEAKER_01,0.42
+1051.04,1052.58,Psy,Ce sera la surprise.,parole,0.02,,0.46
+1052.6,1054.81,Psy,"Bonne ou mauvaise, mais ce sera la surprise.",parole,0.02,,0.35
+1054.83,1055.17,Sujet,D'accord.,interjection,0.02,,0.26
+1056.41,1060.27,Sujet,"Excusez-moi, je me mouche encore parce que j'ai attrapé la crève, là.",parole,1.24,,0.46
+1060.29,1061.83,Psy,"C'est normal, c'est",parole,0.02,,0.26
+1063.13,1067.97,Psy,la période.,parole,1.3,,0.58
+1067.94,1068.42,Psy,rattrape,parole,0,rattrape,
+1067.99,1069.21,Sujet,J'attrape,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.3
+1068.54,1069.42,Psy,la crève en ce moment.,parole,0,rattrape,
+1069.23,1073.36,Sujet,"vite la crève en ce moment, malheureusement.",parole,0,,0.41
+1073.4,1079.9,Sujet,"Ah oui, et ça, en matière, en parlant de société, j'ai vu ce qui se passe avec le coronavirus.",parole,0.04,,0.53
+1079.94,1081.24,Psy,"Oui, effectivement.",parole,0.04,phrase_courte:SPEAKER_00->SPEAKER_01,0.41
+1081.28,1083.56,Sujet,"Ça, c'est effrayant, ça fait un peu peur, quoi.",parole,0.04,,0.37
+1084.84,1088.58,Sujet,Parce qu'elle est tenue en quarantaine pendant 14 jours en France.,parole,1.28,,0.43
+1088.64,1089.76,Sujet,On l'a retournée rapatrier.,parole,0.06,,0.45
+1089.92,1090.36,Sujet,"Oui, il",parole,0.16,,0.5
+1090.5,1091.82,Psy,y a mieux,parole,0.14,,0.76
+1091.84,1092.08,Sujet,comme gilet.,parole,0.02,,0.03
+1092.1,1094.89,Sujet,"Oui, voilà, comme, surtout comme l'île de la Chine, quoi.",parole,0.02,,0.41
+1094.91,1097.35,Sujet,C'est elle qui nous a pondu ça dans la ville de Yuan.,parole,0.02,,0.65
+1098.67,1102.83,Sujet,"Et, hum, ça fait froid dans le dos.",parole,1.32,,0.44
+1102.85,1106.31,Sujet,Parce qu'il y a près de plus de 1900 personnes qui sont mortes.,parole,0.02,,0.56
+1107.31,1107.93,Psy,Déjà ?,parole,1.0,phrase:SPEAKER_00->SPEAKER_01,0.36
+1107.97,1108.51,Sujet,"Déjà,",parole,0.04,,0.45
+1108.59,1109.51,Psy,oui.,parole,0.08,,0.48
+1109.57,1112.1,Sujet,Et il y en a plus de 50 000 détectées.,parole,0.06,,0.5
+1113.96,1119.06,Psy,"Il me semble que c'était, en fait, ils en avaient pas parlé auparavant, mais ça remonte à quelque temps.",parole,1.86,,0.44
+1119.14,1120.38,Sujet,"Oui, ça remonte à quelque temps, oui.",parole,0.08,,0.18
+1120.4,1123.9,Psy,C'est pour ça qu'il y a déjà autant de...,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.45
+1123.92,1126.04,Sujet,Il y a plusieurs cas dans tout le monde.,parole,0.02,,0.58
+1126.08,1127.02,Sujet,Hum.,interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.47
+1127.04,1127.86,Sujet,"Sur la planète, ouais.",parole,0.02,,0.48
+1128.02,1130.68,Psy,Vous avez une théorie avec ce virus ?,parole,0.16,phrase:SPEAKER_00->SPEAKER_01,0.56
+1130.7,1143.39,Sujet,"Non, là, non, non, non, là, je crois que là, c'est un peu parti, en fait, il a fallu d'un seul homme pour contaminer plusieurs autres personnes.",parole,0.02,,0.56
+1143.84,1144.18,Sujet,"Qui,",parole,0.44,,0.45
+1145.22,1145.76,Sujet,à leur,parole,1.04,,0.57
+1146.9,1148.36,Sujet,"tour, propagent ça.",parole,1.14,,0.5
+1149.64,1157.06,Sujet,"Donc, ça fait 1, 5, 5, 25, c'est puissance 2,",parole,1.28,,0.47
+1157.04,1157.1,Psy,va,parole,0,rattrape,
+1157.1,1158.34,Sujet,là.,parole,-0.0,phrase:SPEAKER_01->SPEAKER_00,0.57
+1157.1,1157.38,Psy,jouer à,parole,0,rattrape,
+1158.38,1159.26,Sujet,"Oui, je vois ça.",parole,0.04,phrase:SPEAKER_01->SPEAKER_00,0.44
+1159.32,1164.02,Sujet,"En plus, il y a une personne qui est décélère en France de ça, je crois.",parole,0.06,,0.49
+1164.54,1167.84,Psy,Je n'ai pas regardé l'actualité.,parole,0.52,phrase:SPEAKER_00->SPEAKER_01,0.5
+1166.87,1168.03,Sujet,Un mois ici et lundi.,parole,0,rattrape,
+1167.9,1170.29,Sujet,"Ah, moi aussi.",parole,0,,0.52
+1170.31,1171.73,Sujet,"J'ai mis la terresse aussi, un peu, quoi.",parole,0.02,,0.41
+1172.87,1174.83,Sujet,Je regarde les infos de France 2 le midi.,parole,1.14,,0.46
+1176.36,1177.22,Psy,"Ah oui, donc vous avez",parole,1.53,"relu_isole (avant : Ah oui, donc vous êtes vraiment au courant ?)",
+1177.08,1177.5,Sujet,êtes vraiment,parole,0,rattrape,
+1177.22,1177.88,Psy,le rameau au coin.,parole,0,"relu_isole (avant : Ah oui, donc vous êtes vraiment au courant ?)",
+1177.68,1177.84,Sujet,courant.,parole,0,rattrape,
+1178.19,1181.76,Sujet,"Ouais, je suis au courant de ce qui se passe quand même, oui.",parole,0.31,phrase:SPEAKER_01->SPEAKER_00,0.36
+1181.82,1186.04,Sujet,"Oui, je suis obligé parce que sinon, on nous verrait parano.",parole,0.06,,0.35
+1188.61,1189.29,Psy,C 'était misant.,parole,2.57,relu_isole (avant : C'est amusant.),
+1188.87,1189.27,Sujet,amusant.,parole,0,rattrape,
+1192.4,1194.49,Sujet,"Voilà, non, mais bon.",parole,3.11,,0.42
+1194.51,1197.19,Psy,"Les infos, moi, je trouve ça assez souvent négatif.",parole,0.02,,0.42
+1197.21,1198.51,Sujet,"Oui, c'est négatif, parfois...",parole,0.02,,0.3
+1199.82,1203.28,Sujet,"Une petite bouffée de sport d'hiver, ça fait du bien.",parole,1.31,,0.5
+1203.3,1206.64,Psy,"Effectivement, par exemple, oui.",parole,0.02,,0.65
+1206.68,1207.04,Sujet,Vous en,parole,0.04,,0.4
+1207.06,1207.5,Psy,pratiquez,parole,0.02,,0.42
+1208.06,1208.08,Sujet,?,parole,0.56,,0.17
+1208.1,1219.44,Sujet,"Moi, j'en ai pratiqué, oui, j'ai fait du ski à la montagne, avec mon père et avec ma mère, même si on a fait ça séparément parce que mes parents se sont divorcés, mais on s'est éclatés, quoi.",parole,0.02,,0.52
+1219.46,1226.22,Sujet,"Franchement, c'était, waouh, il est toujours ça.",parole,0.02,,0.46
+1226.24,1228.0,Psy,"Pas question de ralentir, de faire du",parole,0.02,,0.57
+1228.0,1228.16,Sujet,une chasse,parole,0.0,rattrape,
+1228.02,1228.54,Psy,chasse-neige.,parole,0,phrase:SPEAKER_00->SPEAKER_01,0.41
+1228.16,1228.52,Sujet,nette.,parole,0,rattrape,
+1229.86,1238.79,Sujet,"C'était tout chou, c'est bon, je me rappelle, j'allais tout droit, il disait, Cyril, attends-moi, mon frère, on s'éclatait.",parole,1.32,,0.3
+1238.85,1239.71,Psy,"Ouais,",parole,0.06,,0.51
+1239.73,1242.71,Sujet,"c'est un sport sympa, j'ai vu.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.36
+1242.73,1247.19,Sujet,"Ah, ouais, c'est vraiment, les sports de glisse, bah, c'est né dès les années 1890, je crois.",parole,0.02,,0.29
+1247.23,1248.39,Sujet,"C'était la haute sensibilité,",parole,0.04,,0.44
+1248.41,1250.64,Psy,d'abord.,parole,0.02,,0.6
+1250.66,1252.84,Sujet,"Je suis pas sûr à 100%, mais c'est une théorie.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.41
+1252.86,1253.66,Psy,"C'est possible, oui.",parole,0.02,,0.37
+1253.68,1259.12,Sujet,"C'est la haute sensibilité qui a découvert, qui a découvert les remontées mécaniques,",parole,0.02,,0.5
+1262.13,1267.84,Sujet,C'était des grands domaines créés dans les années 50 à 70.,parole,3.01,,0.57
+1271.38,1273.84,Psy,"Avant d'être électrifié, c'était ?",parole,3.54,phrase:SPEAKER_00->SPEAKER_01,0.54
+1273.71,1276.27,Sujet,"Je croyais que c 'était mécanique, mais j 'ai passé à 100%.",parole,0,"relu_isole (avant : Je crois que c'était mécanique, mais je ne suis pas sûr à 100%.)",
+1278.42,1280.88,Psy,C'est qu'il y avait des bœufs et des chevaux qui tiraient ?,parole,2.15,,0.4
+1280.96,1284.24,Sujet,"Ouais, un truc comme ça, voilà, ouais, peut-être, je ne suis pas sûr.",parole,0.08,,0.36
+1287.37,1293.14,Psy,Je crois que je n'allais jamais regarder l'histoire de Télé-Cabine.,parole,3.13,,0.28
+1293.16,1295.66,Sujet,"Ben, il y a un film qui résume le tout, c'est Le Grosier pour le Ski.",parole,0.02,,0.46
+1296.5,1298.34,Sujet,Avec tous les,parole,0.84,phrase:SPEAKER_01->SPEAKER_00,0.54
+1298.28,1298.68,Psy,"Actuellement,",parole,0,rattrape,
+1298.62,1302.77,Sujet,imprimés,parole,0,,0.74
+1298.68,1299.44,Psy,ça ferait le chien.,parole,0,rattrape,
+1302.81,1303.89,Sujet,"qu'il y a, oui.",parole,0.04,,0.45
+1303.91,1307.31,Sujet,"Ah non, ils ont fait une trilogie, là, exceptionnelle.",parole,0.02,,0.32
+1307.33,1312.06,Sujet,"Le Grosier, Le Grosier pour le Ski, et Le Grosier, Amis pour la Vie.",parole,0.02,,0.43
+1312.56,1313.84,Psy,"Ah oui, c 'est le dernier, c 'est ça ?",parole,0.5,"relu_isole (avant : Ah, oui, c'est le dernier, c'est ça ?)",
+1313.93,1324.98,Sujet,"Oui, c'est le dernier, oui, avec Thierry Lhermitte, Gérard Julliot, Michel Blanc, Chazelle Malasco, Anne-Marie Chazelle, Claudia Cardinal, qui joue le rôle, et Christophe Clavier.",parole,0.09,,0.4
+1325.04,1325.7,Sujet,Oui.,parole,0.06,,0.25
+1325.72,1327.26,Sujet,L'un des meilleurs acteurs français.,parole,0.02,,0.48
+1327.28,1329.68,Psy,Je comprends.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.49
+1329.72,1330.82,Sujet,Voilà.,parole,0.04,,0.34
+1330.88,1333.99,Psy,"Ah, c'est vrai que ces films ont vraiment marqué.",parole,0.06,,0.37
+1334.07,1334.63,Psy,"Ah, oui,",parole,0.08,,0.33
+1334.69,1339.15,Sujet,ils ont marqué leur époque et...,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.49
+1339.04,1339.8,Psy,Encore aujourd 'hui.,parole,0,"relu_isole (avant : Encore aujourd'hui, hein.)",
+1339.78,1339.78,Sujet,?,parole,0,rattrape,
+1340.39,1341.75,Sujet,"Ah, oui, encore aujourd'hui, oui, oui.",parole,0.59,,0.19
+1343.35,1347.93,Sujet,"Ça pourrait plaire, ça pourrait plaire aux Chinois, tiens.",parole,1.59,,0.26
+1347.99,1349.17,Sujet,Allez faire,parole,0.06,,0.55
+1349.21,1351.91,Psy,"du ski, un peu.",parole,0.04,,0.6
+1351.93,1353.47,Psy,Vous n'y êtes pas retourné depuis ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.32
+1353.49,1354.79,Sujet,"Non, depuis, non.",parole,0.02,,0.5
+1354.89,1358.68,Sujet,Ça fait bien 30 ans que je n'ai pas retourné au ski.,parole,0.1,,0.33
+1358.72,1361.86,Psy,Même pour simplement vous balader ?,parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.44
+1361.92,1364.68,Sujet,"Une petite balade, ouais, une petite balade, non, pas du tout,",parole,0.06,,0.3
+1366.22,1366.3,Psy,non.,parole,1.54,,0.03
+1366.32,1367.12,Psy,C'est pas très loin d'ici.,parole,0.02,,0.36
+1367.14,1368.5,Psy,"Eh ben,",parole,0.02,,0.22
+1368.52,1370.92,Sujet,"de l'Aix-en-Provence, la montagne, c'était la mineure.",parole,0.02,,0.34
+1372.84,1378.6,Sujet,"Une petite station, mais c'est à une heure, et on est à une heure de la, de la mer, donc ça va.",parole,1.92,,0.46
+1378.64,1379.48,Psy,À mi-chemin.,parole,0.04,,0.4
+1379.5,1381.47,Sujet,"C'est à mi-chemin, on peut faire les deux si on veut.",parole,0.02,,0.52
+1381.49,1382.09,Sujet,"Hum, hum,",interjection,0.02,empreinte:SPEAKER_01->SPEAKER_00,0.37
+1382.11,1382.91,Sujet,effectivement.,parole,0.02,,0.65
+1382.93,1386.95,Sujet,"L'été, la plage, et l'hiver, la montagne.",parole,0.02,,0.52
+1387.01,1388.27,Psy,"Ou les deux, dans une même",parole,0.06,,0.56
+1388.29,1388.55,Sujet,Tous,parole,0.02,rattrape,
+1388.29,1388.53,Psy,journée.,parole,0,,0.35
+1388.57,1390.25,Psy,"Ou les deux, oui.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.47
+1390.33,1390.55,Sujet,"Ah,",interjection,0.08,empreinte:SPEAKER_01->SPEAKER_00,0.56
+1390.57,1392.03,Sujet,mais il faut se lever à quatre heures du mat'.,parole,0.02,,0.28
+1392.08,1393.46,Psy,"Oui, peut -être.",parole,0.05,"relu_isole (avant : Oui, peut-être un peu.)",
+1393.49,1394.17,Sujet,C'est vrai.,parole,0.03,,0.37
+1394.23,1399.16,Psy,C'est vrai que ça fait une seconde.,parole,0.06,,0.36
+1399.22,1400.48,Psy,Et ça fait longtemps que vous êtes sur AXE ?,parole,0.06,,0.26
+1401.33,1404.76,Sujet,"Oui, ça fait depuis que j'ai l'âge de 36 ans.",parole,0.86,,0.53
+1404.78,1406.18,Sujet,D'accord.,parole,0.02,,0.54
+1406.24,1408.46,Psy,"Et avant, vous...",parole,0.06,phrase:SPEAKER_00->SPEAKER_01,0.42
+1409.52,1413.92,Sujet,Je vivais en banlieue parisienne.,parole,1.06,,0.47
+1413.98,1417.76,Sujet,"Avant ça, j'habitais en Suisse, de 0 à 5 ans.",parole,0.06,,0.54
+1419.74,1420.86,Psy,C 'est vagabondé.,parole,1.97,relu_isole (avant : Vous avez vagabondé.),
+1422.39,1423.97,Sujet,"Ouais, j'adore l'Europe.",parole,1.53,,0.51
+1423.99,1426.05,Sujet,"Moi, ce qui me plairait de faire, c'est aussi l'Angleterre,",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.4
+1427.45,1429.13,Sujet,"Trafalgar Square,",parole,1.4,,0.52
+1430.52,1446.05,Sujet,"Visiter les peuples irlandais en Irlande, boire une bonne bière irlandaise, hum, et aussi l'irish coffee, qui est irlandais, c'est du café et du whisky, donc ça réveille même la nuit.",parole,1.39,,0.45
+1446.13,1447.04,Psy,"Oui, ça doit",parole,0.08,,0.36
+1447.12,1447.84,Sujet,être cocasse.,parole,0.08,,0.43
+1447.86,1459.92,Sujet,"C'est cocasse, oui, et, non, flâner, se balader, j'aime bien, mais pas trop, pas trop souvent, pas petit doute,",parole,0.02,,0.48
+1461.04,1462.12,Sujet,"Un petit plaisir, en fait.",parole,1.12,,0.49
+1462.14,1466.26,Psy,"C'est bon, vous devenez avec eux.",parole,0.02,,0.42
+1466.28,1473.16,Sujet,"Voilà, c'est ça, oui, je crois que l'humain, parfois, a tendance à trop s'isoler.",parole,0.02,,0.47
+1473.26,1494.65,Sujet,"Il y a des gens seuls, ça c'est vrai, il y a des gens isolés, les gens âgés qui sont tous les deux, ça va, mais isolés, c'est suivant aussi l'âge, la mobilité des personnes, les handicaps, Les gens esselés, euh, parce qu'ils ont perdu leur",parole,0.1,,0.47
+1496.13,1500.77,Sujet,"conjoint, donc, les veufs, les veuves, tout ça, voilà.",parole,1.48,,0.38
+1502.5,1503.76,Psy,Ça fait du monde d 'isoler.,parole,1.73,"relu_isole (avant : Ça fait du monde isolé, hein ?)",
+1504.55,1505.91,Sujet,"Oui, ça fait du monde isolé, oui.",parole,0.79,,0.32
+1507.21,1509.53,Psy,"Après, avec le tempérament de la personne ?",parole,1.3,phrase:SPEAKER_00->SPEAKER_01,0.28
+1509.55,1511.34,Sujet,"Tout à fait, ça dépend du tarot.",parole,0.02,,0.45
+1511.36,1513.04,Sujet,"Je le disais, les affinités.",parole,0.02,,0.63
+1513.66,1520.3,Sujet,"Et ce qui est bien dans mon métier, d'auteur de film, c'est que je procure des émotions.",parole,0.62,,0.43
+1521.67,1529.03,Sujet,"Je procure des sensations, des émotions, des sensations.",parole,1.37,,0.72
+1529.09,1530.21,Sujet,Et je cible parfois,parole,0.06,,0.77
+1532.09,1535.29,Sujet,tout public et parfois un public avisé.,parole,1.88,,0.67
+1535.31,1542.75,Sujet,"C'est-à-dire que là, j'ai un film, ça s'appelle Bato-Bato, et c'est interdit aux moins de 12 ans parce qu'il y a les scènes de sexe.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.54
+1542.81,1544.62,Psy,D'accord.,interjection,0.06,empreinte:SPEAKER_00->SPEAKER_01,0.42
+1544.64,1548.78,Sujet,"C'est pas cru, mais c'est relevé.",parole,0.02,,0.66
+1548.8,1549.66,Sujet,J'ai relevé la sauce.,parole,0.02,,0.58
+1549.7,1550.2,Sujet,"Hum, hum.",interjection,0.04,,0.46
+1551.25,1554.69,Sujet,"Et là, je suis sur une nouvelle écriture, c'est « Silence les enfants », et là, c'est un drame.",parole,1.05,,0.27
+1554.56,1555.62,Psy,"Voilà, c 'est un drame.",parole,0,relu_isole (avant : Fais attention à ce que ce soit pas trop piquant.),
+1555.98,1557.12,Psy,Fais attention à ce que ce soit,parole,0.36,relu_isole (avant : Fais attention à ce que ce soit pas trop piquant.),
+1557.05,1557.11,Sujet,'est,parole,0,rattrape,
+1557.12,1557.8,Psy,pas trop piquant.,parole,0.0,relu_isole (avant : Fais attention à ce que ce soit pas trop piquant.),
+1558.55,1560.83,Sujet,"Oui, tout à fait, oui.",parole,0.75,,0.46
+1560.85,1567.02,Sujet,"Ben, il y a le personnage de Cyril, qui joue dans le film, il est assez truculent comme garçon.",parole,0.02,,0.64
+1567.08,1572.78,Sujet,Il a assez de débordants d'idées pour draguer sa belle.,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.63
+1572.8,1575.86,Sujet,"Parce qu'il y a quatre garçons, quatre filles, et deux capitaines.",parole,0.02,,0.61
+1575.9,1577.98,Sujet,Un capitaine de garçon avec une capitaine de fille.,parole,0.04,,0.55
+1579.32,1582.14,Sujet,"Et ça donne une comédie assez enjouée, quoi.",parole,1.34,,0.34
+1582.18,1582.92,Psy,D'accord.,interjection,0.04,regle:SPEAKER_00->SPEAKER_01,0.34
+1582.96,1584.17,Sujet,Voilà.,parole,0.04,,0.25
+1584.25,1586.23,Psy,"Et, hum, il se passe quoi ?",parole,0.08,,0.35
+1586.87,1590.23,Sujet,"Alors, il se passe qu'ils font la rencontre.",parole,0.64,,0.58
+1590.27,1598.9,Sujet,"Cyril va beaucoup plus vite que les autres garçons parce que lui, c'est un sacré lascar dans ce domaine-là de l'amour.",parole,0.04,,0.67
+1598.98,1605.94,Sujet,"Et je lui fais dire des trucs de haute volée, quoi, donc...",parole,0.08,,0.57
+1606.82,1615.28,Sujet,"C'est presque du fédo, donc ça me plait d'être le nouveau fédo des années 2020.",parole,0.88,,0.57
+1615.32,1621.57,Sujet,"Parfois je regarde des pièces de théâtre à la télé, parfois il y en a, oh c'est truculent, c'est génial,",parole,0.04,,0.47
+1622.85,1623.57,Sujet,oh,interjection,1.28,,0.92
+1623.61,1624.07,Psy,la vache.,parole,0.04,,0.36
+1624.09,1625.21,Sujet,Vous vous régalez ?,parole,0.02,,0.22
+1625.23,1625.81,Sujet,Ah oui.,parole,0.02,,0.42
+1625.87,1632.32,Sujet,"En plus j'ai fait du théâtre à l'école, au collège, pendant deux ans, deux années, deux classes de théâtre.",parole,0.06,,0.53
+1632.36,1635.06,Sujet,"Bon, j'avais des petits rôles, mais j'ai compris,",parole,0.04,,0.66
+1636.87,1642.44,Sujet,Le sens des émotions et du ressenti des gens.,parole,1.81,phrase:SPEAKER_01->SPEAKER_00,0.54
+1642.5,1643.6,Sujet,Et de les jouer en,parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.45
+1645.1,1646.34,Sujet,tant qu'acteurs ?,parole,1.5,,0.25
+1646.36,1651.74,Sujet,"Ben, je sais pas si j'ai une tête de cinéma, mais, pourquoi pas",parole,0.02,,0.43
+1652.62,1652.64,Psy,?,parole,0.88,,0.06
+1652.7,1653.9,Psy,Il y a des têtes de cinéma.,parole,0.06,,0.29
+1653.96,1657.19,Sujet,"Ouais, il y a des têtes de cinéma, il y a des chasseurs de têtes de cinéma.",parole,0.06,,0.49
+1657.21,1666.15,Sujet,"Alain Delon, au départ, il voulait faire un métier, et quand il s'est baladé sur les Champs-Elysées, il y a un mec qui lui a dit, dis donc, ça te plairait pas de cinéma, t'as une gueule de cinéma ?",parole,0.02,,0.44
+1666.97,1672.51,Sujet,"Il a dit oui, et il s'est regardé une belle vie, vous comprenez, quoi.",parole,0.82,,0.41
+1672.61,1675.1,Psy,"Aujourd'hui, je ne sais pas si on nous alpague comme ça.",parole,0.1,,0.37
+1675.12,1676.36,Sujet,"Ah, ouais,",interjection,0.02,empreinte:SPEAKER_01->SPEAKER_00,0.38
+1676.38,1682.92,Sujet,"c'est vrai qu'à l'époque, c'était un peu plus, dans les années 50, 60, c'était beaucoup plus libertaire qu'aujourd'hui.",parole,0.02,,0.41
+1685.69,1686.71,Psy,C 'est vrai.,parole,2.77,relu_isole (avant : C'est vrai.),
+1687.4,1688.3,Sujet,Voilà.,parole,0.69,,0.38
+1688.34,1690.14,Psy,Vous auriez aimé être à cette époque,parole,0.04,,0.47
+1691.11,1691.13,Sujet,?,parole,0.96,,0.07
+1691.15,1692.39,Sujet,"Moi, pendant les Trente Glorieuses, oui.",parole,0.02,,0.22
+1693.31,1698.46,Sujet,"J'aurais pu avoir du travail de ministre comme vernisseur, j'aurais excellé,",parole,0.93,,0.61
+1699.48,1699.94,Sujet,voilà.,parole,1.02,,0.28
+1699.81,1700.49,Psy,Le ministre ?,parole,0,relu_isole (avant : De ministre ?),
+1701.98,1702.08,Sujet,Hein,parole,1.49,,0.14
+1701.99,1702.45,Psy,ministre,parole,0,relu_isole (avant : De ministre ?),
+1702.1,1702.12,Sujet,?,parole,0,,0.01
+1702.7,1721.41,Sujet,"Non, non, de vernisseur, sur bois, sur meubles, euh, art déco, euh, euh, euh, l'immeuble de la Révolution, l'immeuble baroque, au coco,",parole,0.25,,0.43
+1723.85,1736.89,Sujet,"Donc, euh, ce sont des gros meubles en chêne, en être, en acajou, en ébène, en bois, tout ce qui touche du bois, j'aime bien.",parole,2.44,,0.48
+1736.91,1741.63,Sujet,"Chez moi, c'est la couleur comme ça qui prédomine, ce beige-là.",parole,0.02,,0.54
+1741.67,1746.03,Sujet,"Chez mon père, c'est plus cosy, plus feutré, c'est de l'ébène.",parole,0.04,,0.59
+1746.09,1750.6,Sujet,"Et du muresier, du bouleau, tout ça.",parole,0.06,,0.55
+1750.62,1753.32,Sujet,Parce que j'ai un niveau de...,parole,0.02,,0.52
+1754.19,1770.68,Sujet,"C'est un jeu dangereux parce que quand les actions montent, ça va, le bon c'est de l'argent.",parole,0.87,,0.49
+1770.63,1773.97,Sujet,"bon, moi mes sous, je préfère les stocker que les mettre en bourse.",parole,0,rattrape,
+1774.47,1776.95,Sujet,"Parce que la mort, c 'est montant et fluctuant.",parole,0.5,rattrape,
+1778.93,1780.15,Sujet,'est un jeu dangereux parce que...,parole,1.97,rattrape,
+1780.87,1783.33,Sujet,"Quand les taxes remontent, ça va, le monde c 'est de l 'argent.",parole,0.72,rattrape,
+1784.72,1796.74,Sujet,"Il faut savoir s'arrêter au bon moment, au bon endroit, pour gagner tout cet argent qu'on a gagné, et ne pas faire de la courbe inverse, qu'on va tout perdre.",parole,1.39,,0.72
+1796.76,1799.78,Sujet,C'est pour ça que je n'ai pas mis ça en bourse.,parole,0.02,,0.62
+1799.65,1800.51,Psy,C 'est qui tout douche ?,parole,0,relu_isole (avant : C'est qui tout double.),
+1801.06,1804.63,Sujet,"Ah oui, c'est vraiment qui tout double, oui.",parole,0.55,,0.3
+1804.69,1806.65,Psy,Ah,interjection,0.06,regle:SPEAKER_00->SPEAKER_01,0.88
+1806.71,1807.11,Sujet,oui.,parole,0.06,,0.24
+1807.13,1808.75,Psy,Vous jouez au casino ?,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.29
+1808.83,1811.35,Sujet,"Ah non, je n'ai jamais joué au casino, non, non.",parole,0.08,,0.31
+1813.54,1816.05,Psy,"Il y a un énorme ici, j'ai cru l'apercevoir.",parole,2.2,phrase:SPEAKER_00->SPEAKER_01,0.38
+1816.11,1819.27,Sujet,"Oui, au casino, oui.",parole,0.06,,0.47
+1819.29,1823.03,Sujet,Prendre la place.,parole,0.02,,0.4
+1823.15,1826.17,Psy,"Et, du coup, scénariste et béniste.",parole,0.12,,0.56
+1826.19,1829.06,Sujet,Voilà.,parole,0.02,,0.5
+1829.14,1835.82,Sujet,"Et après, j'ai fait divers travails, avant de tomber malade.",parole,0.08,,0.37
+1835.73,1837.19,Psy,Vous faisiez quoi dans le travail ?,parole,0,relu_isole (avant : Vous faisiez quoi comme travail ?),
+1838.58,1845.9,Sujet,"Plusieurs centres de petits boulots, pour pouvoir me mettre à flot, J'ai aussi touché l'assurance chômage, aussi,",parole,1.39,phrase:SPEAKER_01->SPEAKER_00,0.32
+1847.44,1849.18,Sujet,"hum,",interjection,1.54,,0.48
+1849.2,1871.79,Sujet,"là, je touche la AH plus Z de l'État, donc j'ai un certain niveau d'argent, et de ça, je peux m'acheter mes cigarettes, ma bouffe que je veux, hum, j'ai un budget pour la télé, pour l'appartement,",parole,0.02,,0.47
+1871.83,1871.97,Psy,"hum,",interjection,0.04,regle:SPEAKER_00->SPEAKER_01,0.26
+1873.02,1879.46,Sujet,"Tout est calculé au millimètre près, quoi.",parole,1.05,,0.42
+1880.55,1881.13,Sujet,À la télé.,parole,1.08,rattrape,
+1883.2,1885.94,Sujet,J 'ai une installation en bouillie à la maison.,parole,2.07,rattrape,
+1887.61,1890.09,Sujet,"ça, ça demande au moins de 30 à 50 euros.",parole,1.68,rattrape,
+1890.85,1891.65,Sujet,"ne sais pas si on l 'a vu, mais voilà.",parole,0.75,rattrape,
+1897.88,1899.42,Sujet,Tout est calculé au millimètre près.,parole,6.23,rattrape,
+1900.22,1901.74,Psy,Vous avez votre petite reine ici.,parole,0.81,relu_isole (avant : — Vous avez votre petit train de vie.),
+1902.02,1905.14,Sujet,"— J'ai un petit train de vie, oui.",parole,0.27,,0.34
+1905.24,1908.1,Psy,— Qui roule...,parole,0.1,phrase:SPEAKER_00->SPEAKER_01,0.3
+1908.12,1909.22,Sujet,correctement.,parole,0.02,,0.4
+1909.3,1910.84,Sujet,"— C'est assez correct, oui.",parole,0.08,,0.48
+1910.88,1913.58,Sujet,J'ai pas à me plaindre.,parole,0.04,,0.32
+1913.6,1915.98,Sujet,"Par contre, quand il fait des erreurs, l'administration, ils le refont,",parole,0.02,,0.34
+1918.02,1918.28,Psy,hein.,parole,2.04,,0.3
+1918.48,1918.86,Psy,— Ah.,parole,0.2,,0.18
+1918.92,1923.42,Sujet,"Eux, ils roulent pas la même allure.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.43
+1923.44,1924.14,Sujet,"— Oui, ben la même, oui.",parole,0.02,,0.19
+1924.16,1929.4,Sujet,"Moi, je les critique pas, mais parfois, ils font des erreurs pour s'en sortir financièrement, alors après, les gens...",parole,0.02,,0.33
+1930.8,1937.62,Sujet,"C'est pour ça qu'il y a eu des contestations en France avec les Gilets jaunes, c'est parce que leur salaire, on voulait les bloquer.",parole,1.39,,0.55
+1938.44,1957.57,Sujet,"C'est pour ça qu'ils ont dit, non, touchez pas à ça, touchez pas aux retraites, comme ça, on peut se faire en tout cas un point, ça veut dire, un point par an, donc au bout de dix ans, ça fait dix points, sur quoi ça va se baser, sur le pouvoir à la tête du paiement des allocations, il y a un yes pour les gens ?",parole,0.82,,0.47
+1959.17,1983.7,Sujet,"Qui travaille dans le BTP, dans les sanitaires, dans l'administration, dans les écoles, les collèges, les lycées, les hautes écoles, tout ça, donc, l'État a un budget grâce au peuple qui paye les impôts.",parole,1.6,phrase:SPEAKER_01->SPEAKER_00,0.56
+1983.76,2001.48,Sujet,"Et celui qui comprend ça, que tout découle des impôts, Ben, ce serait une bonne idée de, moi, j'ai une idée, c'est mettre un euro par jour pendant un mois d'impôt, sans forcer des gens.",parole,0.06,,0.52
+2001.54,2005.2,Sujet,"Et ben, on se ferait en un jour 65 millions d'euros.",parole,0.06,,0.55
+2005.8,2009.48,Sujet,En un jour.,parole,0.6,,0.51
+2009.5,2012.22,Sujet,"T'imagines, en un mois, on pourrait sauver la France.",parole,0.02,,0.55
+2013.63,2014.99,Sujet,"Oui, c'est vrai.",parole,1.41,phrase:SPEAKER_01->SPEAKER_00,0.36
+2015.03,2018.75,Psy,Mais est-ce que tout le monde peut mettre 30 euros de côté par mois comme ça ?,parole,0.04,,0.55
+2018.77,2020.77,Psy,Voilà.,parole,0.02,,0.38
+2020.79,2022.69,Sujet,"C'est, je sais pas.",parole,0.02,,0.5
+2022.71,2026.01,Psy,"Mais je pense qu'ils prélèvent bien plus que ça, non, déjà, sur notre salaire.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.46
+2026.05,2029.51,Sujet,"Oui, oui, oui, oui.",parole,0.04,,0.26
+2029.53,2034.59,Psy,Je sais pas exactement.,parole,0.02,,0.51
+2034.63,2036.91,Psy,"Oui, parce que vous avez fait des études dans votre domaine.",parole,0.04,,0.32
+2036.93,2040.67,Sujet,"De comptabilité, voilà, c'est pour ça.",parole,0.02,,0.48
+2040.75,2042.57,Sujet,"Et pour les entreprises, je connais le système.",parole,0.08,,0.54
+2043.33,2077.9,Sujet,"Une entreprise s'implante avec une dotation de l'état ou soit d'un particulier à 50 000 euros, bon, créer une SARL, société anonyme pour la boîte créée, à la base, ensuite avoir des fournisseurs, que ce soit aux pommes, pour quelqu'un qui vend des pommes, il va acheter des pommes à un grossiste qui lui vend un prix à l'entreprise, et l'entreprise, Il revend au client, pour que le client achète ses pommes.",parole,0.76,,0.56
+2077.92,2079.62,Sujet,C'est un cercle.,parole,0.02,,0.39
+2079.53,2081.85,Psy,Et quand ça vient d 'un petit producteur.,parole,0,relu_isole (avant : Et quand ça vient d'un petit producteur ?),
+2082.34,2090.85,Sujet,"Un petit producteur, c'est peut-être plus compliqué, parce qu'il faut qu'il se diversifie pour pouvoir s'améliorer.",parole,0.49,,0.52
+2090.87,2092.81,Sujet,Comment ça ?,parole,0.02,,0.54
+2092.83,2108.77,Sujet,"C'est-à-dire que là, il ferait des pommes, des cerises, des bananes, des framboises, des fraises, et là, il aurait un éventail d'acheteurs potentiels Pour acheter soit le tout, soit un par un, par produit.",parole,0.02,,0.52
+2108.79,2113.99,Psy,"Tandis que le grossiste, il fait juste une surproduction ?",parole,0.02,,0.47
+2114.03,2129.34,Sujet,"La surproduction, c'est un double tranchant, quoi, parce que ça peut être bien, c'est bénéfique quand il fait des bénéfices, mais s'il dépasse trop, il pourrait être payé plus, taxé par les impôts,",parole,0.04,,0.51
+2130.79,2133.21,Sujet,Parce que toute entreprise a des impôts.,parole,1.45,,0.51
+2133.23,2137.93,Sujet,"Je sais qu'à l'heure actuelle, c'est 75% qu'on prélève.",parole,0.02,,0.5
+2137.99,2138.97,Sujet,"Et à 25 ans, c'était 50%.",parole,0.06,,0.41
+2138.99,2139.55,Sujet,Sacrée évolution.,parole,0.02,,0.17
+2139.61,2143.69,Sujet,"Oui, une sacrée évolution, oui.",parole,0.06,,0.32
+2143.71,2145.97,Sujet,"Ça aussi, c'était",parole,0.02,,0.49
+2145.74,2146.38,Psy,C 'est aussi une question.,parole,0,rattrape,
+2146.43,2148.47,Sujet,surproduction.,parole,0.05,phrase:SPEAKER_01->SPEAKER_00,0.57
+2148.49,2154.16,Sujet,"Faut pas être trop surproductif, parce que ça peut être néfaste à l'entreprise.",parole,0.02,,0.58
+2154.18,2158.28,Sujet,Faut juste calibrer ce qu'on vend et ce qu'on jette.,parole,0.02,,0.61
+2158.3,2159.4,Sujet,"Parce que parfois, il y a des produits...",parole,0.02,,0.19
+2160.0,2160.94,Sujet,"Ils sont jetés comme ça,",parole,0.6,,0.3
+2162.32,2167.51,Sujet,il y a au moins 30% qu'on jette par année et par habitant.,parole,1.38,,0.48
+2167.91,2169.71,Psy,Il y a un gâchis.,parole,0.4,phrase:SPEAKER_00->SPEAKER_01,0.65
+2169.77,2173.61,Sujet,"Il y a un gâchis, voilà, il y a un gâchis.",parole,0.06,,0.36
+2173.63,2177.07,Sujet,"Moi, mes desserts, ils me durent trois jours parfois.",parole,0.02,,0.39
+2177.09,2181.54,Sujet,"Je stocke, je conserve.",parole,0.02,,0.63
+2181.41,2182.27,Psy,C 'est plutôt gourmand.,parole,0,relu_isole (avant : C'est plutôt gourmand.),
+2182.94,2183.14,Sujet,"Ah,",interjection,0.67,,0.33
+2183.2,2186.78,Sujet,"oui, je suis un fin culinaire, moi, j'aime bien manger.",parole,0.06,,0.32
+2188.34,2189.24,Psy,"Sucré, savé.",parole,1.56,"relu_isole (avant : Sucré, salé ?)",
+2188.78,2189.22,Sujet,salé.,parole,0,rattrape,
+2189.91,2191.23,Sujet,"Ah, les deux.",parole,0.67,,0.49
+2191.25,2191.63,Psy,Mélangé,parole,0.02,,0.53
+2192.23,2192.25,Sujet,?,parole,0.6,,0.06
+2192.29,2198.65,Sujet,"Alors, mélangé, vous mélangez du...",parole,0.04,,0.57
+2198.67,2200.15,Sujet,du salami avec du fromage.,parole,0.02,,0.63
+2201.91,2202.63,Sujet,C'est deux salés,parole,1.76,,0.51
+2202.67,2203.73,Psy,?,parole,0.04,,0.96
+2203.81,2213.61,Sujet,"C'est deux salés, mais c'est fondant, il y a des trucs qu'on peut faire en cuisine, c'est impressionnant.",parole,0.08,,0.53
+2213.64,2216.4,Sujet,"D'où l'émission, elle est carnée de Julie, sur France 3,",parole,0.02,,0.41
+2217.59,2230.02,Sujet,"Là, ils font soit les beautés, soit le cassoulet, soit des viandes de terroir, tout ça, c'est un régal pour les yeux et pour le papy.",parole,1.2,,0.36
+2230.04,2231.18,Psy,"Tu comprends, oui.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.36
+2231.2,2233.5,Sujet,"Ah, oui, j'ai à leur manger.",parole,0.02,,0.39
+2233.52,2234.36,Sujet,"Je me fais un gourmet,",parole,0.02,,0.31
+2234.41,2236.07,Psy,moi.,parole,0.04,,0.54
+2236.09,2237.85,Psy,Ça fait partie des plaisirs de la vie.,parole,0.02,,0.33
+2237.91,2240.61,Sujet,"Oui, tout à fait, ça fait partie des plaisirs.",parole,0.06,,0.51
+2240.63,2244.63,Psy,Comme écouter la grenade.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.43
+2244.67,2257.04,Sujet,"On sait que les boissons, les vins, tout ça, Vous pensez que c'est l'aspect éphémère qui fait qu'on a du plaisir ?",parole,0.04,,0.43
+2257.09,2257.61,Sujet,"Un peu, oui.",parole,0.06,,0.45
+2260.2,2262.6,Sujet,"700 euros, c 'est quoi ta prise d 'ordre ?",parole,2.59,rattrape,
+2264.99,2268.43,Psy,pensais que c 'est l 'aspect éphémère qui fait qu 'on y a du plaisir.,parole,2.38,rattrape,
+2269.59,2270.17,Sujet,"Un peu, oui.",parole,1.16,rattrape,
+2273.18,2279.48,Sujet,"Parce qu'en ce moment, on veut se faire plaisir plus rapidement qu'il y a 20 ans.",parole,3.01,,0.63
+2279.58,2280.46,Sujet,c 'est bon.,parole,0.1,rattrape,
+2280.66,2282.2,Psy,"Hum,",interjection,0.2,empreinte:SPEAKER_00->SPEAKER_01,0.48
+2282.24,2282.56,Sujet,"possible, oui.",parole,0.04,,0.1
+2282.58,2288.85,Sujet,"Dans les années 90, on savait manger et on savait attendre le bon moment pour manger.",parole,0.02,,0.56
+2288.87,2294.95,Sujet,C'est-à-dire midi et 8 heures.,parole,0.02,,0.61
+2294.97,2301.13,Sujet,"Ça fait 8 heures de digestion, plus la nuit pour dormir.",parole,0.02,,0.51
+2301.15,2302.55,Sujet,"Mais avec l'invention du cinéma,",parole,0.02,,0.6
+2303.04,2304.56,Sujet,D'accord.,interjection,0.49,,0.43
+2304.62,2307.9,Sujet,"Pourtant, j'ai souvenir couche que,",parole,0.06,rattrape,0.42
+2307.89,2307.97,Sujet,"hum,",interjection,0,,0.34
+2307.9,2310.44,Sujet,à 23h mais on est obligé de se réveiller à 6h.,parole,0,rattrape,
+2311.64,2316.04,Sujet,"Ce qui fait 7 heures de sommeil seulement, alors qu 'il en faut 8 à 10 pour être bien...",parole,1.2,rattrape,
+2318.31,2321.09,Psy,pensais que c 'est les évolutions technologiques qui nous ont...,parole,2.27,rattrape,
+2322.02,2323.78,Psy,Squeezer comme ça du sommeil,parole,0.93,rattrape,
+2323.74,2324.82,Sujet,"Oui, c 'est ça.",parole,0,rattrape,
+2325.86,2326.84,Sujet,J 'ai un peu de va -et -voit.,parole,1.05,rattrape,
+2329.63,2331.05,Psy,"Pourtant, j 'ai souvenir que...",parole,2.78,rattrape,
+2332.74,2339.84,Psy,"À l'époque, à cette époque, les repas, peut-être qu'ils étaient à midi, mais ils s'étaient à midi longtemps, et il y avait",parole,1.69,,0.44
+2339.96,2346.26,Sujet,"entrée, plat, dessert, et c'était, hum, hum,",parole,0.12,,0.56
+2346.42,2348.9,Psy,et c'était assez gargantuesque.,parole,0.16,,0.52
+2348.98,2360.89,Sujet,"C'est vrai qu'il y a eu des bosses vastes, ouais, et d'autres de mâches maigres, mais celui qui se nourrit bien est une personne bien vivante, bien pensante,",parole,0.08,,0.48
+2362.28,2366.28,Sujet,"Mais dans sa tête, dans ses baskets, comme on dit.",parole,1.39,,0.35
+2366.3,2368.44,Sujet,"Moi, je mange bien, je me sens bien.",parole,0.02,,0.34
+2368.5,2376.0,Sujet,"En plus, là, j'ai une bonne tête, j'ai été chez le coiffeur, tous les matins, je me fais une petite beauté, et puis, voilà, ça vaut pour la journée,",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.31
+2376.02,2376.12,Psy,quoi.,parole,0.02,,0.0
+2376.14,2376.94,Psy,Tout pour être au cinéma.,parole,0.02,,0.18
+2378.32,2382.46,Sujet,"Alors, donc, le matin, je travaille, et l'après-midi, c'est cinéma.",parole,1.38,,0.43
+2382.48,2384.92,Sujet,"Sur TCM Cinéma, tous les jours, il y a un film.",parole,0.02,,0.44
+2385.02,2388.98,Sujet,"Il y a au moins trois films, non, il y a au moins six films par jour, donc...",parole,0.1,,0.3
+2391.98,2392.38,Sujet,"Ouais,",interjection,3.0,,0.31
+2392.4,2396.4,Sujet,"même 10, parce que ça va dans la nuit et tout ça, donc...",parole,0.02,,0.47
+2396.48,2397.86,Psy,Et vous écortez votre sommeil,parole,0.08,,0.39
+2399.66,2399.68,Sujet,?,parole,1.8,,0.03
+2399.7,2403.12,Sujet,"Parfois un peu, mais sinon, je dors bien,",parole,0.02,,0.3
+2404.66,2404.78,Sujet,ouais.,interjection,1.54,,0.02
+2404.8,2407.84,Sujet,"Alors, cette nuit-là, j'ai dormi que 4 heures,",parole,0.02,,0.49
+2409.2,2410.45,Sujet,mais j'ai bien dormi.,parole,1.36,,0.29
+2410.5,2418.53,Sujet,"Après, je suis resté calme sur mon lit, à me détendre, à regarder un peu la télé, à vaquer.",parole,0.06,,0.46
+2418.59,2420.67,Sujet,"Et à vaquer, bon, j'ai pris mon petit-déj,",parole,0.06,,0.48
+2422.47,2426.78,Sujet,"Ensuite, là, ce midi, je vais manger à midi, ça va aller.",parole,1.81,,0.39
+2426.82,2432.8,Sujet,"Je te remets des petits films, il y aurait un petit concert, au cas où, ou des clips.",parole,0.04,,0.35
+2432.86,2433.92,Sujet,Au cas où ils,parole,0.06,,0.47
+2436.91,2442.29,Sujet,"disparaissent, comme ça.",parole,2.98,phrase:SPEAKER_01->SPEAKER_00,0.48
+2442.33,2443.35,Psy,Ils disparaissent quoi ?,parole,0.04,,0.22
+2443.37,2445.39,Psy,"Vous me dites un petit concert, au cas où.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.37
+2445.43,2450.82,Sujet,"Oui, un petit concert de Led Zeppelin, de Toto, je pense que c'est des meilleurs.",parole,0.04,,0.48
+2451.16,2452.08,Sujet,Parce qu'il passe des,parole,0.34,,0.48
+2453.3,2456.28,Sujet,"bons trucs, parfois.",parole,1.22,,0.48
+2456.32,2462.41,Sujet,"Si j'avais vu un truc de hard rock, le mec, il avait les cheveux longs jusque-là, il grattait la guitare et il chantait.",parole,0.04,,0.49
+2462.47,2463.41,Sujet,"Ouais,",parole,0.06,,0.37
+2463.49,2466.81,Psy,"c'est un univers, ça aussi.",parole,0.08,phrase:SPEAKER_00->SPEAKER_01,0.39
+2466.85,2478.2,Sujet,"Ça aussi, le hard rock, ouais, c'est un des mouvements des années 90, nés dans les années 90, avec, au départ, Scorpion, Metallica,",parole,0.04,,0.57
+2480.13,2480.83,Sujet,"Hum,",interjection,1.93,,0.48
+2480.85,2481.93,Sujet,"Motorhead, Guns N'Roses.",parole,0.02,,0.28
+2482.82,2484.98,Psy,Je pensais qu 'ils sont bien dans leur basket eux aussi.,parole,0.89,"relu_isole (avant : Je pensais qu'ils sont bien dans leur basket, eux aussi.)",
+2485.54,2486.26,Sujet,"Ouais,",interjection,0.55,,0.25
+2486.34,2488.98,Sujet,"ils font leur truc et c'est génial, quoi.",parole,0.08,,0.47
+2489.06,2490.02,Sujet,Et Rod Maiden aussi.,parole,0.08,,0.46
+2490.56,2495.24,Sujet,"Il y en a une, c'est un peu plus calme, mais c'est quand même péchu, hein.",parole,0.54,,0.38
+2495.05,2495.35,Psy,J,parole,0,rattrape,
+2495.26,2495.46,Sujet,C'est,parole,0,phrase:SPEAKER_01->SPEAKER_00,0.26
+2495.35,2495.39,Psy,'ai,parole,0,rattrape,
+2495.48,2497.86,Sujet,"bien travaillé, hein, les mecs, ils travaillent leur accord,",parole,0.02,,0.43
+2498.92,2508.52,Sujet,"donc la tablature des guitares, ils le savent par cœur, du do aussi, et parfois, il y a des solos géniaux, quoi, c'est ça qu'il faut avoir.",parole,1.06,phrase:SPEAKER_01->SPEAKER_00,0.44
+2509.33,2510.25,Sujet,Ça s'apprécie.,parole,0.8,,0.53
+2510.33,2521.3,Sujet,"Un concert, j'ai été à un concert de Patrick Bruel, à Paris, au Zénith, quand il commençait, et j'ai adoré, j'ai adoré le style.",parole,0.08,,0.54
+2521.38,2527.32,Sujet,"Et il a explosé dans les années 90, la Bruel Manga, où là, il a été au sommet de sa gloire.",parole,0.08,,0.54
+2527.38,2529.48,Psy,"En plus, au Zénith, c'est quand même impressionnant.",parole,0.06,,0.19
+2529.54,2531.8,Sujet,"Oui, c'est impressionnant, oui.",parole,0.06,,0.24
+2531.82,2543.96,Sujet,"Il y a plusieurs salles à Paris, il y a l'Alhambra, l'Olympia, le Palais des Glaces, Il y a plusieurs scènes dans Paris où on peut jouer toutes les musiques du monde.",parole,0.02,,0.48
+2544.0,2549.43,Sujet,"Que ce soit salsa, reggae, rock, dancefloor pour les boîtes de nuit,",parole,0.04,,0.58
+2550.91,2553.03,Sujet,"hum, hum,",interjection,1.48,,0.4
+2553.11,2562.43,Sujet,"Eurodance qu'il y a eu dans les années 90, avec la Skyrave sur Skyrock, la Trance et la Rêve sur Funradio.",parole,0.08,,0.59
+2562.45,2568.5,Sujet,"Moi, pour les années 90, j'étais au top parce que j'écoutais des trucs de synthé génial.",parole,0.02,,0.6
+2568.52,2585.93,Sujet,"Les Red Beats Blancs, Avec des rythmes plus rapides, et des sourds de santé, comme le groupe Darude que j'ai acheté l'album, The Force of Storm, ça fait ta-la-la-la, ta-ta-la-la-la, et ça ramène une vitesse, c'est génial.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.46
+2585.95,2587.11,Psy,Vous êtes jamais aimé à la musique,parole,0.02,,0.25
+2587.77,2587.81,Sujet,?,parole,0.66,,0.49
+2587.87,2590.23,Sujet,"Ah si, j'ai fait du piano pendant 20 ans.",parole,0.06,phrase:SPEAKER_01->SPEAKER_00,0.42
+2590.27,2590.91,Sujet,Ah,interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.88
+2590.82,2591.19,Sujet,Je oui.,parole,0,rattrape,0.46
+2591.02,2591.1,Sujet,"sais,",parole,0,rattrape,
+2591.06,2591.22,Psy,C 'est sûr,parole,0,"relu_isole (avant : Je suis sorti pendant 20 ans. Du coup, sur le fait, vous connaissez...)",
+2591.16,2591.26,Sujet,t,parole,0,rattrape,
+2591.22,2591.42,Psy,que tu n 'es pas,parole,0,"relu_isole (avant : Je suis sorti pendant 20 ans. Du coup, sur le fait, vous connaissez...)",
+2591.4,2591.58,Sujet,"mauvais,",parole,0,rattrape,
+2591.42,2591.82,Psy,loin de 20,parole,0,"relu_isole (avant : Je suis sorti pendant 20 ans. Du coup, sur le fait, vous connaissez...)",
+2591.7,2591.86,Sujet,attends.,parole,0,rattrape,
+2591.82,2591.92,Psy,ans.,parole,0,"relu_isole (avant : Je suis sorti pendant 20 ans. Du coup, sur le fait, vous connaissez...)",
+2592.24,2594.32,Psy,"Du coup, sur le fait, je ne connaissais pas.",parole,0.32,"relu_isole (avant : Je suis sorti pendant 20 ans. Du coup, sur le fait, vous connaissez...)",
+2594.47,2594.59,Sujet,"Non,",parole,0.15,,0.25
+2594.54,2594.66,Psy,je,parole,0,rattrape,
+2594.61,2594.69,Sujet,sur,parole,0,,0.17
+2594.66,2594.82,Psy,ne,parole,0,rattrape,
+2594.73,2594.83,Sujet,le,parole,0,,0.36
+2594.82,2594.98,Psy,suis rien.,parole,0,rattrape,
+2594.87,2596.15,Sujet,"fait, j'ai jamais appris.",parole,0,,0.28
+2596.17,2596.49,Psy,D'accord.,interjection,0.02,empreinte:SPEAKER_00->SPEAKER_01,0.27
+2599.22,2615.07,Sujet,"Et pourtant, je joue de la musique, bon, certes, c'est un certain style, mais là, j'ai changé, parce que j'ai fait cinq albums en deux ans, et ce sont des petites sonates, sur clé USB, c'est protégé sur clé USB, protégé sur mon PC,",parole,2.73,,0.57
+2617.17,2619.14,Sujet,"donc, je suis assez productif.",parole,2.1,,0.43
+2619.66,2622.78,Psy,"Un certain style, vous me dites ?",parole,0.52,phrase:SPEAKER_00->SPEAKER_01,0.26
+2622.8,2626.34,Sujet,"Ouais, c'était un peu de la polka dance.",parole,0.02,,0.53
+2627.15,2633.05,Sujet,"C'est pas vraiment, c'était mon style, mais c'est pas un style à écouter, quoi.",parole,0.81,,0.43
+2633.07,2640.2,Sujet,"Il y avait quelques morceaux qui étaient bien, et d'autres, bof.",parole,0.02,,0.51
+2640.26,2640.96,Sujet,Si c'est pas à,parole,0.06,,0.4
+2641.02,2642.92,Psy,"écouter, vous mangez, vous en",parole,0.06,,0.42
+2643.0,2645.16,Sujet,faites quoi ?,parole,0.08,,0.34
+2645.18,2655.77,Sujet,"Alors là, je mangeais aussi tous les midis et tous les après-midi, mais je composais soit le matin, soit l'après-midi, soit le soir, c'était quand je voulais, je faisais ma meilleure.",parole,0.02,,0.42
+2655.79,2655.91,Sujet,Voilà.,parole,0.02,,0.0
+2656.68,2663.68,Sujet,"Et j'avais travaillé dans une petite boîte pour payer mon saté, le Roland d'Elysse.",parole,0.77,,0.54
+2664.63,2665.87,Psy,C 'est une bonne,parole,0.95,relu_isole (avant : C'est une bonne stratégie.),
+2665.72,2665.88,Sujet,belle,parole,0,rattrape,
+2665.87,2666.51,Psy,stratégie.,parole,0,relu_isole (avant : C'est une bonne stratégie.),
+2667.16,2669.7,Sujet,"Voilà, tout à fait, oui.",parole,0.65,,0.42
+2669.74,2684.4,Sujet,"Je me disais à l'époque, pourquoi pas percer dans la musique, mais comment on fait, quelles adresses, et j'ai découvert les adresses de la SACEM, du SNAC, la Syndicat National des Auteurs et Compositeurs, donc toutes les oeuvres",parole,0.04,,0.52
+2685.54,2697.48,Sujet,"Qui n'aime de l'esprit, que ce soit musical ou intellectuel, ça se protège dans des lieux où c'est fait exprès pour que ça soit protégé pendant 5 ans, et après, ça on dirait de 70 ans.",parole,1.13,,0.46
+2697.5,2701.82,Sujet,Donc on peut créer à tout va et faire ce qu'on aime.,parole,0.02,,0.36
+2701.84,2706.21,Sujet,C'est un bon système.,parole,0.02,,0.47
+2705.07,2705.61,Psy,"bien, c 'est tout.",parole,0,rattrape,
+2706.23,2713.17,Sujet,"C'est un bon système, ouais, le système français au niveau des créations théâtrales et musicales, on est au top.",parole,0.02,,0.51
+2714.06,2714.94,Psy,"Après, c'est compliqué",parole,0.89,,0.29
+2714.9,2715.34,Sujet,'il perçait.,parole,0,rattrape,
+2714.96,2715.9,Psy,de percer.,parole,0,phrase:SPEAKER_00->SPEAKER_01,0.45
+2715.94,2719.26,Sujet,"Oui, il y en a un sur mille qui réussit.",parole,0.04,,0.58
+2719.17,2720.57,Psy,C 'est un petit,parole,0,"relu_isole (avant : Oui, c'est un petit peu juste.)",
+2720.35,2720.45,Sujet,'est un,parole,0,rattrape,
+2720.57,2721.09,Psy,peu juste.,parole,0.0,"relu_isole (avant : Oui, c'est un petit peu juste.)",
+2722.14,2726.59,Sujet,"Ah, ça, certes, mais ça, il faut le savoir, hein.",parole,1.05,,0.42
+2726.61,2733.51,Sujet,"Je sais que si je ne perce pas d'ici à 10 ans, 15 ans, je serais pas travailler en desatres que dans la rue.",parole,0.02,,0.58
+2733.63,2737.66,Sujet,"Oui, je comprends.",parole,0.12,,0.47
+2737.68,2737.86,Sujet,Voilà.,parole,0.02,,0.25
+2737.88,2738.36,Sujet,Je le sais.,parole,0.02,,0.38
+2739.76,2743.68,Psy,"Il y a des personnes qui recherchent la rue, hein.",parole,1.4,,0.38
+2743.72,2750.13,Psy,"Il y a des personnes qui recherchent la vie dans la rue, hein.",parole,0.04,phrase:SPEAKER_00->SPEAKER_01,0.3
+2750.21,2761.86,Sujet,"Oui, mais, hum, qu'est-ce qui s'est passé pour qu'ils se disent, non, un travail, ou oui, il y a quelque chose qu'ils ne voulaient pas.",parole,0.08,,0.53
+2761.88,2764.92,Sujet,C'est l'histoire des choix.,parole,0.02,,0.73
+2764.96,2766.1,Sujet,"La liberté, c'est un choix.",parole,0.04,,0.63
+2769.41,2773.95,Sujet,Ça fait à peine 230 ans qu'on est en liberté.,parole,3.31,,0.64
+2774.01,2777.83,Sujet,"On peut faire ce qu'on veut, liberté, égalité, fraternité.",parole,0.06,,0.54
+2777.9,2786.5,Sujet,"Et là, ça veut dire qu'on a le choix du travail, le choix des convictions politiques, le choix de la vie qu'on veut mener.",parole,0.06,,0.44
+2786.52,2789.02,Sujet,Tout est basé sur le choix de ce qu'on veut faire.,parole,0.02,,0.44
+2791.18,2797.31,Sujet,"Il y a des pilotes d'avion, il y a des ambulanciers, il y a des déboires, tout le monde choisit son travail.",parole,2.16,,0.54
+2798.45,2803.45,Sujet,Selon les études qu'il a fait.,parole,1.14,,0.49
+2803.49,2809.62,Sujet,"Moi, j'aurais pu devenir, si j'avais fait le passage",parole,0.04,,0.69
+2814.02,2822.45,Sujet,"du CAP de comptabilité et secrétariat, j'aurais pu devenir homme d'affaires.",parole,4.4,,0.58
+2822.47,2825.65,Sujet,Mais ça m'a pas plu.,parole,0.02,,0.55
+2825.67,2826.39,Sujet,C'était pas mon truc.,parole,0.02,,0.47
+2828.28,2836.05,Sujet,"À 17 ans, on se cherche, on cherche sa voix, on veut savoir ce qu'on est capable de faire.",parole,1.89,,0.48
+2836.07,2839.25,Psy,Mais qui recherchent encore et qui se reconvertissent après.,parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.41
+2839.12,2839.76,Sujet,"Tout à fait, oui.",parole,0,"relu_isole (avant : Tout à fait, oui, oui, oui.)",
+2844.38,2848.72,Psy,"Parce que des fois, on aboutit à un métier et on veut passer à autre chose.",parole,4.61,,0.39
+2848.74,2854.8,Sujet,"Tout à fait, les gens qui changent de travail, ça arrive, et qui réussissent, ça arrive.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.48
+2854.86,2856.13,Sujet,Rien n'est défini par force.,parole,0.06,,0.4
+2856.17,2856.85,Sujet,C'est vrai.,parole,0.04,,0.26
+2858.36,2860.08,Psy,"Enfin, c'est une philosophie de vie.",parole,1.51,,0.35
+2860.1,2865.26,Sujet,"Oui, il y a aussi une philosophie de vie, oui, voilà, pour décrocher ce qu'on veut.",parole,0.02,phrase:SPEAKER_01->SPEAKER_00,0.42
+2865.3,2866.4,Sujet,"Oui, tout à fait.",parole,0.04,,0.46
+2866.42,2874.65,Psy,"Ben, écoutez, monsieur, oui, je pense qu'on peut s'arrêter là.",parole,0.02,phrase:SPEAKER_00->SPEAKER_01,0.45
+2874.69,2875.11,Sujet,D'accord.,interjection,0.04,empreinte:SPEAKER_01->SPEAKER_00,0.4
+2875.15,2878.13,Psy,À moins que vous ayez envie de discuter d'un trouvons,parole,0.04,rattrape,0.44
+2877.71,2878.33,Sujet,autre sujet,parole,0,,0.44
+2878.13,2878.59,Psy,que j 'ai reparti.,parole,0,rattrape,
+2878.37,2879.07,Sujet,en particulier.,parole,0,,0.57
+2878.94,2879.68,Sujet,"Non, ça va, c 'est bon.",parole,0,"relu_isole (avant : Non, ça va, c'est bon.)",
+2880.1,2880.58,Sujet,Bien sûr.,parole,0.42,"relu_isole (avant : Non, ça va, c'est bon.)",
+2880.59,2883.59,Psy,"Super, ben, merci beaucoup, en tout cas, pour cette participation.",parole,0.01,phrase:SPEAKER_00->SPEAKER_01,0.43
+2883.61,2884.05,Psy,Merci.,parole,0.02,,0.52
+2884.09,2885.32,Psy,C'était très agréable.,parole,0.04,,0.35

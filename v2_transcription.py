@@ -4,13 +4,14 @@ Transcription d'un entretien avec evaluation contre une transcription de referen
 (version 6 : affichage reduit aux barres de progression + duree totale)
 
 Principe :
-  - Le programme effectue TOUJOURS trois tentatives, avec deux passes par tentative.
-  - Chaque passe est comparee au fichier de transcription de reference fourni par
+  - Avec reference : trois tentatives, deux passes par tentative.
+  - Si une reference est fournie, chaque passe est comparee au fichier fourni par
     --reference. Le score principal est base sur le taux d'erreur par mot (WER).
-  - La transcription finale est celle dont le score face a la reference est le plus
+  - Avec reference, la transcription finale est celle dont le score est le plus
     eleve. La reference sert uniquement a evaluer et choisir : elle ne sert PAS a
     corriger, completer ou guider les phrases generees.
-  - Les passes different par : audio brut / normalise, sensibilite de la detection de
+  - Sans reference : une seule passe choisie par --tentative et --passe, avec --modele.
+  - Les configurations sont equilibrees entre les deux modeles : audio brut / normalise, sensibilite de la detection de
     voix, finesse du decodage, graine aleatoire, et un 2e modele si --modele2 est donne.
 
 Affichage :
@@ -801,7 +802,7 @@ def signaler(segments, seuil_score=0.4, chevauchement_min=0.4):
 
 
 # --------------------------------------------------------------------------
-# Profils des passes : chaque passe utilise des reglages DIFFERENTS
+# Profils des passes : configurations equilibrees entre les deux modeles
 #   audio    : "brut" ou "norm" (normalise en volume par ffmpeg/dynaudnorm)
 #   vad_*    : sensibilite de la detection de voix (bas = plus sensible)
 #   beam     : finesse du decodage de Whisper
@@ -809,13 +810,16 @@ def signaler(segments, seuil_score=0.4, chevauchement_min=0.4):
 #   seed     : graine aleatoire (diarisation)
 # La tentative k utilise les profils 2k-1 et 2k de cette liste.
 # --------------------------------------------------------------------------
+C1 = dict(audio="brut", vad_onset=0.25, vad_offset=0.20, beam=5, seed=0)
+C2 = dict(audio="brut", vad_onset=0.35, vad_offset=0.25, beam=5, seed=1)
+C3 = dict(audio="norm", vad_onset=0.20, vad_offset=0.15, beam=3, seed=2)
 PROFILS = [
-    {"nom": "A1", "audio": "brut", "vad_onset": 0.25, "vad_offset": 0.20, "beam": 5, "modele": "principal", "seed": 0},
-    {"nom": "B1", "audio": "norm", "vad_onset": 0.35, "vad_offset": 0.25, "beam": 5, "modele": "second",    "seed": 1},
-    {"nom": "A2", "audio": "brut", "vad_onset": 0.30, "vad_offset": 0.22, "beam": 4, "modele": "principal", "seed": 2},
-    {"nom": "B2", "audio": "norm", "vad_onset": 0.20, "vad_offset": 0.15, "beam": 5, "modele": "second",    "seed": 3},
-    {"nom": "A3", "audio": "norm", "vad_onset": 0.25, "vad_offset": 0.20, "beam": 3, "modele": "principal", "seed": 4},
-    {"nom": "B3", "audio": "brut", "vad_onset": 0.22, "vad_offset": 0.18, "beam": 5, "modele": "second",    "seed": 5},
+    dict(nom="A1", modele="principal", **C1),
+    dict(nom="B1", modele="second", **C1),
+    dict(nom="A2", modele="principal", **C2),
+    dict(nom="B2", modele="second", **C3),
+    dict(nom="A3", modele="principal", **C3),
+    dict(nom="B3", modele="second", **C2),
 ]
 
 ENTETE_CSV = ["debut_s", "fin_s", "locuteur", "texte", "type", "pause_avant_s",
@@ -1413,16 +1417,20 @@ def main():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("video", help="Fichier audio ou video a transcrire")
-    p.add_argument("csv_sortie", help="CSV final : la meilleure transcription selon la reference")
-    p.add_argument("--reference", required=True,
+    p.add_argument("csv_sortie", help="CSV final : transcription retenue")
+    p.add_argument("--reference", default=None,
                    help="Fichier de transcription de reference (TXT, CSV ou TSV). Utilise seulement pour le score.")
     p.add_argument("--verbeux", action="store_true",
                    help="affiche tous les details a l'ecran (par defaut : barres de progression seulement)")
     p.add_argument("--langue", default="fr")
-    p.add_argument("--modele", default="large-v3",
+    p.add_argument("--modele", default=None,
                    help="modele principal : large-v3, ou chemin d'un modele converti (FrWhisper)")
     p.add_argument("--modele2", default=None,
                    help="2e modele pour les passes B (ex. large-v3) ; sinon le modele principal")
+    p.add_argument("--tentative", type=int, choices=[1, 2, 3],
+                   help="Numero de la tentative retenue lors de l evaluation (sans reference)")
+    p.add_argument("--passe", type=str.upper, choices=["A", "B"],
+                   help="Cote du modele lors de l evaluation (sans reference)")
     p.add_argument("--seuil-concordance", type=float, default=0.90,
                    help="seuil de concordance note dans le journal (ne stoppe jamais les trois tentatives)")
     p.add_argument("--recommencer", action="store_true",
@@ -1449,6 +1457,19 @@ def main():
     p.add_argument("--lignes-longues", action="store_true")
     a = p.parse_args()
 
+    if a.reference:
+        if a.tentative is not None or a.passe is not None:
+            p.error("--tentative et --passe sont reserves au mode sans reference")
+        a.modele = a.modele or "large-v3"
+        plan = [(t, list(zip("AB", PROFILS[2*(t-1):2*t]))) for t in (1, 2, 3)]
+    else:
+        if a.modele is None or a.tentative is None or a.passe is None:
+            p.error("Sans reference, fournir --modele, --tentative et --passe (A ou B).")
+        if a.modele2 is not None:
+            p.error("Sans reference, utiliser uniquement --modele, pas --modele2.")
+        profil = PROFILS[2*(a.tentative-1) + (a.passe == "B")]
+        plan = [(a.tentative, [(a.passe, profil)])]
+
     t_debut = time.time()
     base = os.path.splitext(a.csv_sortie)[0]
     dossier = base + "_essais"
@@ -1460,11 +1481,13 @@ def main():
                                     if x.strip()}
     # Pas de remplacement manuel : la reference sert uniquement a evaluer les resultats.
     regles = []
-    reference = charger_reference(a.reference)
-    info(f"Reference chargee : {len(reference['tokens'])} mots depuis {reference['path']}")
-    if reference.get("has_speakers"):
-        info("La reference contient des locuteurs : le score locuteur sera calcule "
-             "si --noms correspond aux etiquettes de reference.")
+    reference = charger_reference(a.reference) if a.reference else None
+    if reference is not None:
+        info(f"Reference chargee : {len(reference['tokens'])} mots depuis {reference['path']}")
+        if reference.get("has_speakers"):
+            info("Verifier la correspondance des locuteurs avec --noms.")
+    else:
+        info(f"Sans reference : modele {a.modele}, profil {profil}, sans WER.")
     device = "cuda" if torch.cuda.is_available() else "cpu"
     glossaire = ", ".join(x.strip() for x in a.glossaire.split(",") if x.strip())
     ctx = {
@@ -1475,10 +1498,12 @@ def main():
         "prompt": PROMPT_VERBATIM + (" " + glossaire + "." if glossaire else ""),
         "prompt_relecture": (glossaire + ".") if glossaire else None,
     }
-    nb_t = 3  # trois tentatives obligatoires, sans arret anticipe
+    nb_t = 3
+    nb_passes = sum(len(paires) for _, paires in plan)
+    audios_requis = {prof["audio"] for _, paires in plan for _, prof in paires}
     nb_etapes = 4 if a.sans_relecture else 5
 
-    barre = tqdm(total=2 * nb_t + 2, desc="Preparation de l'audio", unit="etape",
+    barre = tqdm(total=nb_passes + 2, desc="Preparation de l'audio", unit="etape",
                  position=0, file=ECRAN)
 
     # audio brut + audio normalise en volume ; modele d'empreinte
@@ -1486,6 +1511,8 @@ def main():
     with silencieux():
         with tempfile.TemporaryDirectory() as tmp:
             for cle, filtre in (("brut", None), ("norm", "dynaudnorm")):
+                if cle not in audios_requis:
+                    continue
                 wav = os.path.join(tmp, f"{cle}.wav")
                 extraire_audio_filtre(a.video, wav, filtre)
                 audios[cle] = whisperx.load_audio(wav)
@@ -1494,18 +1521,17 @@ def main():
 
     historique, ref = [], None
     candidats = []
-    for t in range(1, nb_t + 1):
-        profils = (PROFILS[(2 * (t - 1)) % len(PROFILS)],
-                   PROFILS[(2 * (t - 1) + 1) % len(PROFILS)])
-        info(f"=== Tentative {t}/{nb_t} : passes {profils[0]['nom']} et {profils[1]['nom']} ===")
+    for t, paires in plan:
+        profils = [prof for _, prof in paires]
+        info(f"=== Tentative {t} : profils {', '.join(prof['nom'] for prof in profils)} ===")
         passes = []
-        for cote, prof in zip("AB", profils):
+        for cote, prof in paires:
             barre.set_description(f"Tentative {t}/{nb_t} - passe {prof['nom']}")
             stem = os.path.join(dossier, f"tent{t}_{cote}_{prof['nom']}")
-            nom_modele = (a.modele2 if prof["modele"] == "second" and a.modele2
+            nom_modele = (a.modele2 if reference is not None and prof["modele"] == "second" and a.modele2
                           else a.modele)
             mots, duree = None, None
-            if os.path.exists(stem + ".json") and not a.recommencer:
+            if reference is not None and os.path.exists(stem + ".json") and not a.recommencer:
                 mots = charger_mots(stem + ".json")
                 if os.path.exists(stem + ".meta.json"):
                     duree = charger_mots(stem + ".meta.json").get("duree_s")
@@ -1527,6 +1553,9 @@ def main():
                     liberer_gpu()
                 finally:
                     etapes.close()
+            if mots is not None and not mots:
+                info(f"  [{prof['nom']}] transcription vide : exclue.")
+                mots = None
             if mots is not None:
                 if ref is None:
                     ref = mots
@@ -1536,21 +1565,24 @@ def main():
                 ecrire_csv(construire_segments(mots, a.seuil_pause,
                                                not a.lignes_longues, regles),
                            stem + ".csv", noms)
-                evaluation = evaluer_candidat(mots, reference, noms)
+                evaluation = evaluer_candidat(mots, reference, noms) if reference is not None else None
                 candidats.append({
                     "tentative": t, "passe": cote, "profil": prof["nom"],
                     "modele": nom_modele, "audio": prof["audio"],
                     "beam": prof["beam"], "mots": mots,
                     "evaluation": evaluation, "duree_s": duree,
                 })
-                loc_txt = (" | locuteurs %.1f%%" % evaluation["score_locuteur"]
-                           if evaluation["score_locuteur"] is not None else "")
-                info(f"  Score reference {prof['nom']} ({nom_modele}) : "
-                     f"{evaluation['score_global']:.2f}/100 "
-                     f"(WER {evaluation['wer']:.2%}, texte {evaluation['score_texte']:.1f}%{loc_txt})")
+                if evaluation is not None:
+                    loc_txt = (" | locuteurs %.1f%%" % evaluation["score_locuteur"]
+                               if evaluation["score_locuteur"] is not None else "")
+                    info(f"  Score reference {prof['nom']} ({nom_modele}) : "
+                         f"{evaluation['score_global']:.2f}/100 "
+                         f"(WER {evaluation['wer']:.2%}, texte {evaluation['score_texte']:.1f}%{loc_txt})")
             passes.append(mots)
             barre.update(1)
 
+        if reference is None:
+            continue
         if passes[0] is None or passes[1] is None:
             info("  Tentative incomplete (une passe a echoue) : ignoree.")
             historique.append({"tentative": t, "profils": profils, "passes": passes,
@@ -1567,8 +1599,12 @@ def main():
 
     # Finalisation : choix fonde sur la reference, fichiers de sortie
     barre.set_description("Finalisation des fichiers")
-    meilleur_candidat = ecrire_rapport_scores(candidats, base + "_scores_reference.csv")
-    classement_modeles = ecrire_rapport_modeles(candidats, base + "_comparaison_modeles.csv")
+    if reference is not None:
+        meilleur_candidat = ecrire_rapport_scores(candidats, base + "_scores_reference.csv")
+        classement_modeles = ecrire_rapport_modeles(candidats, base + "_comparaison_modeles.csv")
+    else:
+        meilleur_candidat = candidats[0]
+        classement_modeles = []
     retenu = meilleur_candidat["mots"]
     nom_retenu = meilleur_candidat["profil"]
     evaluation = meilleur_candidat["evaluation"]
@@ -1577,29 +1613,30 @@ def main():
     nb_verif = ecrire_csv(segments, a.csv_sortie, noms, base + "_a_verifier.csv")
 
     # Divergences internes : paire de passes de la tentative gagnante si complete.
-    historique_gagnant = next(
-        (h for h in historique if h["tentative"] == meilleur_candidat["tentative"]), None)
-    if (historique_gagnant and historique_gagnant["conc"] is not None
-            and all(m is not None for m in historique_gagnant["passes"])):
-        pa, pb = historique_gagnant["passes"]
-        nb_div = ecrire_divergences(pa, pb, historique_gagnant["conc"], noms,
-                                    base + "_divergences.csv")
-    else:
-        with open(base + "_divergences.csv", "w", newline="", encoding="utf-8-sig") as fh:
-            csv.writer(fh).writerow(["debut_s", "fin_s", "concordance", "passe_A", "passe_B"])
-        nb_div = 0
+    if reference is not None:
+        historique_gagnant = next(
+            (h for h in historique if h["tentative"] == meilleur_candidat["tentative"]), None)
+        if (historique_gagnant and historique_gagnant["conc"] is not None
+                and all(m is not None for m in historique_gagnant["passes"])):
+            pa, pb = historique_gagnant["passes"]
+            nb_div = ecrire_divergences(pa, pb, historique_gagnant["conc"], noms,
+                                        base + "_divergences.csv")
+        else:
+            with open(base + "_divergences.csv", "w", newline="", encoding="utf-8-sig") as fh:
+                csv.writer(fh).writerow(["debut_s", "fin_s", "concordance", "passe_A", "passe_B"])
+            nb_div = 0
 
-    with open(os.path.join(dossier, "rapport.csv"), "w", newline="", encoding="utf-8-sig") as fh:
-        w = csv.writer(fh)
-        w.writerow(["tentative", "passe_A", "passe_B", "concordance_texte",
-                    "concordance_locuteurs", "concordance_globale", "retenue_selon_reference"])
-        for h in historique:
-            c = h["conc"]
-            w.writerow([h["tentative"], h["profils"][0]["nom"], h["profils"][1]["nom"],
-                        "" if c is None else round(c["texte"], 3),
-                        "" if c is None else round(c["locuteur"], 3),
-                        "" if c is None else round(c["global"], 3),
-                        "oui" if h["tentative"] == meilleur_candidat["tentative"] else ""])
+        with open(os.path.join(dossier, "rapport.csv"), "w", newline="", encoding="utf-8-sig") as fh:
+            w = csv.writer(fh)
+            w.writerow(["tentative", "passe_A", "passe_B", "concordance_texte",
+                        "concordance_locuteurs", "concordance_globale", "tentative_retenue"])
+            for h in historique:
+                c = h["conc"]
+                w.writerow([h["tentative"], h["profils"][0]["nom"], h["profils"][1]["nom"],
+                            "" if c is None else round(c["texte"], 3),
+                            "" if c is None else round(c["locuteur"], 3),
+                            "" if c is None else round(c["global"], 3),
+                            "oui" if h["tentative"] == meilleur_candidat["tentative"] else ""])
     barre.update(1)
     barre.close()
 
@@ -1610,25 +1647,31 @@ def main():
     for c in sorted(candidats, key=lambda x: (x["tentative"], x["passe"])):
         ev = c["evaluation"]
         marque = "  <== retenue" if c is meilleur_candidat else ""
+        mesure = (f"score {ev['score_global']:.2f}/100, WER {ev['wer']:.2%}"
+                  if ev is not None else
+                  "profil choisi manuellement")
         afficher(f"Tentative {c['tentative']} passe {c['profil']} ({c['modele']}) : "
-                 f"score {ev['score_global']:.2f}/100, WER {ev['wer']:.2%}, "
-                 f"duree {'(reprise)' if c.get('duree_s') is None else formater_duree(c['duree_s'])}{marque}")
+                 f"{mesure}, duree {'(reprise)' if c.get('duree_s') is None else formater_duree(c['duree_s'])}{marque}")
     afficher("")
     afficher(f"Retenue : tentative {meilleur_candidat['tentative']} / passe {meilleur_candidat['passe']} "
              f"/ profil {nom_retenu} / modele {meilleur_candidat['modele']}")
-    afficher(f"Score texte : {evaluation['score_texte']:.2f}/100   WER : {evaluation['wer']:.2%} (plus bas = mieux)")
-    if evaluation["score_locuteur"] is not None:
-        afficher(f"Score locuteurs : {evaluation['score_locuteur']:.2f}%")
-    afficher(f"Score global utilise pour choisir : {evaluation['score_global']:.2f}/100")
-    if len(classement_modeles) > 1:
-        top = classement_modeles[0]
-        afficher(f"Modele le mieux classe en moyenne : {top['modele']} "
-                 f"({top['score_global_moyen_pct']:.2f}/100 sur {top['nombre_de_passes']} passes)")
+    if evaluation is not None:
+        afficher(f"Score texte : {evaluation['score_texte']:.2f}/100   WER : {evaluation['wer']:.2%} (plus bas = mieux)")
+        if evaluation["score_locuteur"] is not None:
+            afficher(f"Score locuteurs : {evaluation['score_locuteur']:.2f}%")
+        afficher(f"Score global utilise pour choisir : {evaluation['score_global']:.2f}/100")
+        if len(classement_modeles) > 1:
+            top = classement_modeles[0]
+            afficher(f"Modele le mieux classe en moyenne : {top['modele']} "
+                     f"({top['score_global_moyen_pct']:.2f}/100 sur {top['nombre_de_passes']} passes)")
+    else:
+        afficher("Profil choisi manuellement ; WER et scores indisponibles sans reference.")
     afficher("")
     afficher(f"Fichier final   : {a.csv_sortie} ({len(segments)} lignes)")
     afficher(f"A verifier      : {base}_a_verifier.csv ({nb_verif} lignes)")
-    afficher(f"Divergences     : {base}_divergences.csv ({nb_div} passages de 30 s)")
-    afficher(f"Scores          : {base}_scores_reference.csv")
+    if reference is not None:
+        afficher(f"Divergences     : {base}_divergences.csv ({nb_div} passages de 30 s)")
+        afficher(f"Scores          : {base}_scores_reference.csv")
     afficher(f"Journal complet : {base}_journal.txt")
     afficher("")
     durees = [c["duree_s"] for c in candidats if c.get("duree_s") is not None]

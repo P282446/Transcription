@@ -1,0 +1,4 @@
+﻿tentative,passe_A,passe_B,concordance_texte,concordance_locuteurs,concordance_globale,retenue_selon_reference
+1,A1,B1,0.616,0.941,0.58,
+2,A2,B2,0.62,0.947,0.587,oui
+3,A3,B3,0.607,0.946,0.574,

@@ -1,0 +1,3 @@
+﻿modele,nombre_de_passes,score_texte_moyen_pct,score_global_moyen_pct,WER_moyen_pct,meilleur_score_global_pct
+large-v3,3,65.944,71.875,34.056,72.333
+/home/smbengue/models/frwhisper-ct2,3,54.289,62.158,45.711,62.948
