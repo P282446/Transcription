@@ -103,16 +103,18 @@ Exemples de formats :
 
 ### 5.2. Lancer la transcription automatique
 
-Exemple de commande :
+Exemple de commande sans reference :
 
 ```bash
-python v2_transcription.py \
-    entretien.m4a \
-    transcription.csv \
+python3 v2_transcription.py \
+    ~/Bureau/Audios/CAJ-077-Entretien-Eye-Tracker.m4a \
+    ~/Bureau/trans/caj.077_trans.csv \
     --langue fr \
-    --noms SPEAKER_00=Psy SPEAKER_01=Sujet \
-    --modele ~/models/frwhisper-ct2 \
-    --modele2 large-v3
+    --noms SPEAKER_00=sujet SPEAKER_01=psy \
+    --modele large-v3 \
+    --tentative 2 \
+    --passe B \
+    --recommencer
 ```
 
 Les chemins doivent être adaptés à votre installation.
